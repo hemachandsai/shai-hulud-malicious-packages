@@ -63,7 +63,7 @@ jobs:
           if ! git diff --quiet; then
             COUNT=$(jq 'keys | length' malicious_npm_packages.json)
             # Replace the placeholder with the actual count
-            sed -i.bak "s|- Total Malicious Packages Added: [0-9][0-9]*|- Total Malicious Packages Added: $COUNT|" README.md                                                                                                                           ✔  03:12:53 AM 
+            sed -i.bak "s|- Total Malicious Packages Added: [0-9][0-9]*|- Total Malicious Packages Added: $COUNT|" README.md
             rm -f README.md.bak
 
             NEW_PKGS=$(jq '.newPackages' changes_summary.json)
