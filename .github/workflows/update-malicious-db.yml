@@ -40,7 +40,7 @@ jobs:
           if [ -n "${{ github.event.inputs.days }}" ]; then
             RANGE="${{ github.event.inputs.days }} days ago"
           else
-            RANGE="16 days ago"
+            RANGE="1 hour ago"
           fi
           git log --since="$RANGE" \
             --pretty=format: --name-only -- osv/malicious/npm \
@@ -63,7 +63,7 @@ jobs:
           if ! git diff --quiet; then
             COUNT=$(jq 'keys | length' malicious_npm_packages.json)
             # Replace the placeholder with the actual count
-            sed -i.bak "s|{{MALICIOUS_PACKAGE_COUNT}}|$COUNT|" README.md
+            sed -i.bak "s|- Total Malicious Packages Added: [0-9][0-9]*|- Total Malicious Packages Added: $COUNT|" README.md                                                                                                                           ✔  03:12:53 AM 
             rm -f README.md.bak
 
             NEW_PKGS=$(jq '.newPackages' changes_summary.json)

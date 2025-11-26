@@ -1,4 +1,4 @@
-# 🪱📦 Shai-Hulud: Malicious NPM Package DB
+# 🪱📦 Shai-Hulud: Malicious NPM Packages Database
 
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shai-Hulud Malicious Packages Banner" />
@@ -19,11 +19,11 @@ It exists so automated scanners, CI pipelines, and supply-chain monitoring syste
 ## 📊 Database Statistics
 
 The consolidated database currently contains:
+<strong>
+- Total Malicious Packages Added: 130651
+</strong>
 
-- **🧩 Total Malicious Packages Added:** `72938`
-
-This value is **auto-updated** by the CI workflow by parsing  
-`malicious_npm_packages.json` on every refresh run.
+This value is **auto-updated** by the CI workflow by parsing `malicious_npm_packages.json` on every refresh run.
 
 ---
 
