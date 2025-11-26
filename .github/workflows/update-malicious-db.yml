@@ -1,0 +1,82 @@
+name: Update Malicious NPM Package Database
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Number of days ago to scan"
+        required: true
+        default: "7"
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  update-malicious-db:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repository
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+
+      # Clone only the malicious NPM advisories directory
+      - name: Clone OSV malicious NPM advisories (sparse)
+        run: |
+          git clone --filter=blob:none --no-checkout --sparse https://github.com/ossf/malicious-packages.git
+          cd malicious-packages
+          git sparse-checkout set osv/malicious/npm
+          git checkout main
+
+      # Generate advisories.txt based on recent commits
+      - name: Generate advisories list
+        run: |
+          cd malicious-packages
+          if [ -n "${{ github.event.inputs.days }}" ]; then
+            RANGE="${{ github.event.inputs.days }} days ago"
+          else
+            RANGE="16 days ago"
+          fi
+          git log --since="$RANGE" \
+            --pretty=format: --name-only -- osv/malicious/npm \
+            | sort -u \
+            > ../advisories.txt
+
+      # Install Node.js
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Run processing script
+      - name: Run malicious NPM processor
+        run: node index.js
+
+      # Commit any detected changes
+      - name: Commit changes if any
+        run: |
+          if ! git diff --quiet; then
+            COUNT=$(jq 'keys | length' malicious_npm_packages.json)
+            # Replace the placeholder with the actual count
+            sed -i.bak "s|{{MALICIOUS_PACKAGE_COUNT}}|$COUNT|" README.md
+            rm -f README.md.bak
+
+            NEW_PKGS=$(jq '.newPackages' changes_summary.json)
+            NEW_VERS=$(jq '.newVersions' changes_summary.json)
+            TOTAL_CHANGES=$((NEW_PKGS + NEW_VERS))
+            TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions@github.com"
+
+            git add malicious_npm_packages.json CHANGELOG.md README.md
+            git commit -m "$TIMESTAMP: Updated database with $TOTAL_CHANGES malicious packages (New: $NEW_PKGS, Updated Versions: $NEW_VERS)"
+            git push
+          else
+            echo "No changes detected — skipping commit."
+          fi
