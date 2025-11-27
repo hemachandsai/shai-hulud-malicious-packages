@@ -58834,6 +58834,11 @@
   "chi-short-export-assert-execute": {
     "versions": []
   },
+  "chia-gaming-lobby-connection": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
   "chibi-store-services": {
     "versions": [
       "1.1.1"
@@ -119860,8 +119865,3 @@
   },
   "final-dog-throw-resolve-short": {
     "versions": []
-  },
-  "final-olive-parakeet": {
-    "versions": []
-  },
-  "final-scale-static-
