@@ -69336,6 +69336,12 @@ luki-haj": {
   "react-router-kitt": {
     "versions": []
   },
+  "react-scrambled-text": {
+    "versions": [
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
   "react-svg-helper": {
     "versions": []
   },
