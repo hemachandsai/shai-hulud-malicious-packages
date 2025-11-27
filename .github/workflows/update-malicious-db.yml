@@ -40,7 +40,7 @@ jobs:
           if [ -n "${{ github.event.inputs.days }}" ]; then
             RANGE="${{ github.event.inputs.days }} days ago"
           else
-            RANGE="1 hour ago"
+            RANGE="2 days ago"
           fi
           git log --since="$RANGE" \
             --pretty=format: --name-only -- osv/malicious/npm \
@@ -66,6 +66,11 @@ jobs:
             sed -i.bak "s|- Total Malicious Packages Added: [0-9][0-9]*|- Total Malicious Packages Added: $COUNT|" README.md
             rm -f README.md.bak
 
+            split -d -a 2 -b 2m malicious_npm_packages.json malicious_npm_packages_chunked/chunk_
+            for f in malicious_npm_packages_chunked/chunk_*; do
+              mv "$f" "$f.json"
+            done
+
             NEW_PKGS=$(jq '.newPackages' changes_summary.json)
             NEW_VERS=$(jq '.newVersions' changes_summary.json)
             TOTAL_CHANGES=$((NEW_PKGS + NEW_VERS))
@@ -74,7 +79,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions@github.com"
 
-            git add malicious_npm_packages.json CHANGELOG.md README.md
+            git add malicious_npm_packages.json CHANGELOG.md README.md malicious_npm_packages_chunked
             git commit -m "$TIMESTAMP: Updated database with $TOTAL_CHANGES malicious packages (New: $NEW_PKGS, Updated Versions: $NEW_VERS)"
             git push
           else
