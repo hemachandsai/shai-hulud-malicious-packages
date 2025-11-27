@@ -45531,6 +45531,9 @@
   "bitcoin-indexer": {
     "versions": []
   },
+  "bitcoin-lib-js": {
+    "versions": []
+  },
   "bitcoin-main-lib": {
     "versions": [
       "7.1.6"
@@ -119861,7 +119864,4 @@
   "final-olive-parakeet": {
     "versions": []
   },
-  "final-scale-static-yaml-debug": {
-    "versions": []
-  },
-  "fina
+  "final-scale-static-
