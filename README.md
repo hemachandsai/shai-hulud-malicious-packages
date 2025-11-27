@@ -46,6 +46,7 @@ It provides the **simplest possible interface** for integrating malicious-packag
 Simply consume:
 `malicious_npm_packages.json`
 
+We automatically split the large consolidated JSON file into multiple smaller ~2 MB chunks to ensure every part stays under GitHub’s indexing limit (≈5 MB per file). This makes all malicious package entries fully searchable through GitHub’s code search, while still preserving the complete dataset for programmatic consumption.
 
 Use it as:
 

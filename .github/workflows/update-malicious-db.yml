@@ -68,6 +68,10 @@ jobs:
 
             split -d -a 2 -b 2m malicious_npm_packages.json malicious_npm_packages_chunked/chunk_
             for f in malicious_npm_packages_chunked/chunk_*; do
+              # skip if already .json
+              if [[ "$f" == *.json ]]; then
+                continue
+              fi
               mv "$f" "$f.json"
             done
 
