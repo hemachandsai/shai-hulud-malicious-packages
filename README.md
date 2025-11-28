@@ -1,4 +1,9 @@
 # 🪱📦 Shai-Hulud: Malicious NPM Packages Database
+![Last Commit](https://img.shields.io/github/last-commit/hemachandsai/shai-hulud-malicious-packages)
+![Update Frequency](https://img.shields.io/badge/updates-every%2030%20minutes-blue)
+![Auto Update](https://github.com/hemachandsai/shai-hulud-malicious-packages/actions/workflows/update-malicious-db.yml/badge.svg)
+![GitHub Stars](https://img.shields.io/github/stars/hemachandsai/shai-hulud-malicious-packages?style=flat)
+![License](https://img.shields.io/github/license/hemachandsai/shai-hulud-malicious-packages)
 
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Shai-Hulud Malicious Packages Banner" />
