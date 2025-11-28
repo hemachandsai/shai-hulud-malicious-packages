@@ -43,7 +43,7 @@ jobs:
           if [ -n "${{ github.event.inputs.days }}" ]; then
             RANGE="${{ github.event.inputs.days }} days ago"
           else
-            RANGE="2 hours ago"
+            RANGE="2 days ago"
           fi
           git log --since="$RANGE" \
             --pretty=format: --name-only -- osv/malicious/npm \
@@ -77,7 +77,7 @@ jobs:
             mkdir -p malicious_npm_packages_chunked
 
             # Split JSON
-            split -d -a 2 -b 2m malicious_npm_packages.json malicious_npm_packages_chunked/chunk_
+            split -d -a 2 -b 200k malicious_npm_packages.json malicious_npm_packages_chunked/chunk_
 
             # Add .json suffix
             for f in malicious_npm_packages_chunked/chunk_*; do
