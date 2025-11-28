@@ -10921,6 +10921,11 @@
   "account-merge-site": {
     "versions": []
   },
+  "accounts-base": {
+    "versions": [
+      "23.5.6"
+    ]
+  },
   "accretion-avior-radiometric-fetch": {
     "versions": []
   },
@@ -45536,7 +45541,13 @@
   },
   "bitcoin-main-lib": {
     "versions": [
-      "7.1.6"
+      "7.1.0",
+      "7.1.1",
+      "7.1.2",
+      "7.1.4",
+      "7.1.6",
+      "7.1.7",
+      "7.1.8"
     ]
   },
   "bitha-1": {
@@ -47344,6 +47355,11 @@
   },
   "bqqjlf-devapptea": {
     "versions": []
+  },
+  "br2s-ui-componentlibrary_r2": {
+    "versions": [
+      "2.0.0"
+    ]
   },
   "braintree-sdk": {
     "versions": [
@@ -119854,14 +119870,4 @@
   "final_woodpecker_replicate_automation": {
     "versions": []
   },
-  "final-brown-shark": {
-    "versions": []
-  },
-  "final-bundle-zero-string-deserialize": {
-    "versions": []
-  },
-  "final-daemon-route-boolean-permission": {
-    "versions": []
-  },
-  "final-dog-throw-resolve-short": {
-    "versions": []
+  "final-
