@@ -77,13 +77,8 @@ jobs:
             mkdir -p malicious_npm_packages_chunked
 
             # Split JSON
-            split -d -a 2 -b 200k malicious_npm_packages.json malicious_npm_packages_chunked/chunk_
-
-            # Add .json suffix
-            for f in malicious_npm_packages_chunked/chunk_*; do
-              [[ "$f" != *.json ]] && mv "$f" "$f.json"
-            done
-
+            node utils/split-json-chunks.js 200
+            
             # Commit metadata
             NEW_PKGS=$(jq '.newPackages' changes_summary.json)
             NEW_VERS=$(jq '.newVersions' changes_summary.json)
