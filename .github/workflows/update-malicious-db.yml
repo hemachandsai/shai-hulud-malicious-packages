@@ -43,7 +43,7 @@ jobs:
           if [ -n "${{ github.event.inputs.days }}" ]; then
             RANGE="${{ github.event.inputs.days }} days ago"
           else
-            RANGE="2 days ago"
+            RANGE="2 hours ago"
           fi
           git log --since="$RANGE" \
             --pretty=format: --name-only -- osv/malicious/npm \
