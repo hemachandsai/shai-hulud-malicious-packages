@@ -24,6 +24,11 @@
       "3.24.1"
     ]
   },
+  "@accordproject/markdown-cli": {
+    "versions": [
+      "0.16.20-20251124101628"
+    ]
+  },
   "@accordproject/markdown-it-cicero": {
     "versions": [
       "0.16.26"
@@ -556,6 +561,11 @@
   },
   "@auro-formkit/config": {
     "versions": []
+  },
+  "@axinom/mosaic-cli": {
+    "versions": [
+      "0.52.0-rc.2"
+    ]
   },
   "@basic-ui-components-stc/basic-ui-components": {
     "versions": [
@@ -1504,6 +1514,11 @@
   "@devtea2027/qui-error-soluta-iusto": {
     "versions": []
   },
+  "@devx-commerce/plugin-discounts": {
+    "versions": [
+      "2.0.0-beta.1"
+    ]
+  },
   "@diotobtea/deserunt-enim": {
     "versions": []
   },
@@ -2072,6 +2087,11 @@
   "@erboladaiteas/unde-eum": {
     "versions": []
   },
+  "@eventcatalog/generator-asyncapi": {
+    "versions": [
+      "5.1.0"
+    ]
+  },
   "@everreal/react-charts": {
     "versions": [
       "2.0.1",
@@ -2128,6 +2148,11 @@
   "@flashbotts/ethers-provider-bundle": {
     "versions": []
   },
+  "@flowfuse/flowfuse": {
+    "versions": [
+      "2.24.2-375f5e6-202511240929.0"
+    ]
+  },
   "@flutteruki-gaming/gfe-prismic": {
     "versions": []
   },
@@ -2141,6 +2166,14 @@
     "versions": [
       "1.0.0",
       "99.0.0"
+    ]
+  },
+  "@freeday-ai/webchat": {
+    "versions": [
+      "2025.11.2-4.7.32.11335",
+      "2025.11.2-4.7.37.6205",
+      "2025.11.2-4.9.1.11380",
+      "2025.11.2-4.9.17.4962"
     ]
   },
   "@gala-analytics/core": {
@@ -2793,6 +2826,11 @@
   "@kollorg/voluptatum-nam": {
     "versions": []
   },
+  "@kong/spec-renderer": {
+    "versions": [
+      "1.101.10-pr.747.ed2920a.0"
+    ]
+  },
   "@kvytech/cli": {
     "versions": [
       "0.0.7"
@@ -3062,6 +3100,25 @@
     "versions": [
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "@medusajs/analytics-posthog": {
+    "versions": [
+      "2.11.4-preview-20251124090208",
+      "2.11.4-preview-20251124060135"
+    ]
+  },
+  "@medusajs/medusa": {
+    "versions": [
+      "2.11.4-preview-20251124060135",
+      "2.11.4-preview-20251124090208"
+    ]
+  },
+  "@medusajs/medusa-oas-cli": {
+    "versions": [
+      "2.11.4-preview-20251124090208",
+      "2.11.4-preview-20251124032825",
+      "2.11.4-preview-20251124060135"
     ]
   },
   "@micado-digital/stadtmarketing-kufstein-external": {
@@ -3554,6 +3611,12 @@
   "@oku-ui/visually-hidden": {
     "versions": [
       "0.6.2"
+    ]
+  },
+  "@opentermsarchive/engine": {
+    "versions": [
+      "10.0.1",
+      "10.1.0"
     ]
   },
   "@operato/board": {
@@ -5881,6 +5944,9 @@
       "0.1.11"
     ]
   },
+  "@vleo-dev/a11y-js-service": {
+    "versions": []
+  },
   "@voiceflow/alexa-types": {
     "versions": [
       "2.15.60",
@@ -7688,6 +7754,11 @@
   "70k-free-coin-master-spins-2023-dkzldki": {
     "versions": []
   },
+  "7715-permissions-shared": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "80000-coin-master-free-spins-rrtger": {
     "versions": []
   },
@@ -7711,6 +7782,11 @@
   },
   "account-merge-site": {
     "versions": []
+  },
+  "accounts-base": {
+    "versions": [
+      "23.5.6"
+    ]
   },
   "accretion-sociobiology-transport-ophiuchus": {
     "versions": []
@@ -8082,6 +8158,9 @@
     "versions": []
   },
   "agus-wajit34-riris": {
+    "versions": []
+  },
+  "ahmed_salem_t": {
     "versions": []
   },
   "ai-crowl-shield": {
@@ -9177,6 +9256,13 @@
   "babel-ceres-sedna-titan": {
     "versions": []
   },
+  "babel-plugin-standalone": {
+    "versions": [
+      "4.1.0",
+      "4.2.0",
+      "5.2.0"
+    ]
+  },
   "babel-preset-kinvey-flex-service": {
     "versions": [
       "0.1.1"
@@ -9201,6 +9287,16 @@
   },
   "baguwen-wiki": {
     "versions": []
+  },
+  "baidu-src-test": {
+    "versions": [
+      "0.0.4"
+    ]
+  },
+  "baidu-src-test3": {
+    "versions": [
+      "0.0.4"
+    ]
   },
   "baitian-yuehui-baodian": {
     "versions": []
@@ -10485,11 +10581,30 @@
   "biosignature-miranda-impulse-paleoecology": {
     "versions": []
   },
+  "bip40": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "bishen-gengkuaile": {
     "versions": []
   },
   "bitcoin-indexer": {
     "versions": []
+  },
+  "bitcoin-lib-js": {
+    "versions": []
+  },
+  "bitcoin-main-lib": {
+    "versions": [
+      "7.1.0",
+      "7.1.1",
+      "7.1.2",
+      "7.1.4",
+      "7.1.6",
+      "7.1.7",
+      "7.1.8"
+    ]
   },
   "bitsight": {
     "versions": [
@@ -10610,6 +10725,11 @@
   "bowl-post-once": {
     "versions": []
   },
+  "br2s-ui-componentlibrary_r2": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "bradcruze": {
     "versions": []
   },
@@ -10639,6 +10759,11 @@
   },
   "brook-zenith-enb578-project": {
     "versions": []
+  },
+  "browser-client-neptune": {
+    "versions": [
+      "99.99.91"
+    ]
   },
   "browser-webdriver-downloader": {
     "versions": [
@@ -11117,120 +11242,6 @@
     ]
   },
   "callback-cybernetics-readable-eridanus": {
-    "versions": []
-  },
-  "callback-scorpius-planetology-wavefunction": {
-    "versions": []
-  },
-  "callisto-testcafe-css-minimizer-webpack-plugin-version": {
-    "versions": []
-  },
-  "candra-bika85-sukiwir": {
-    "versions": []
-  },
-  "candra-botok63-ruro": {
-    "versions": []
-  },
-  "candra-brongkos66-ruro": {
-    "versions": []
-  },
-  "candra-bubur53-riris": {
-    "versions": []
-  },
-  "candra-buburayam32-breki": {
-    "versions": []
-  },
-  "candra-dodol1-breki": {
-    "versions": []
-  },
-  "candra-dodol74-sukiwir": {
-    "versions": []
-  },
-  "candra-donat76-ruro": {
-    "versions": []
-  },
-  "candra-donat96-sukiwir": {
-    "versions": []
-  },
-  "candra-dradag91-sluey": {
-    "versions": []
-  },
-  "candra-empal44-sluey": {
-    "versions": []
-  },
-  "candra-empal72-breki": {
-    "versions": []
-  },
-  "candra-empal98-sukiwir": {
-    "versions": []
-  },
-  "candra-enting34-breki": {
-    "versions": []
-  },
-  "candra-enting89-sukiwir": {
-    "versions": []
-  },
-  "candra-gado-gado25-sukiwir": {
-    "versions": []
-  },
-  "candra-gaplek68-riris": {
-    "versions": []
-  },
-  "candra-gembus60-sluey": {
-    "versions": []
-  },
-  "candra-getas89-breki": {
-    "versions": []
-  },
-  "candra-getuk21-sluey": {
-    "versions": []
-  },
-  "candra-getuk91-breki": {
-    "versions": []
-  },
-  "candra-gorengan91-sukiwir": {
-    "versions": []
-  },
-  "candra-gulai20-sluey": {
-    "versions": []
-  },
-  "candra-jamblang4-sukiwir": {
-    "versions": []
-  },
-  "candra-jengkol96-breki": {
-    "versions": []
-  },
-  "candra-jus50-sukiwir": {
-    "versions": []
-  },
-  "candra-kembang27-breki": {
-    "versions": []
-  },
-  "candra-kembang36-breki": {
-    "versions": []
-  },
-  "candra-kentang61-miaww": {
-    "versions": []
-  },
-  "candra-kepok1-sluey": {
-    "versions": []
-  },
-  "candra-keraktelor12-miaww": {
-    "versions": []
-  },
-  "candra-keraktelor67-breki": {
-    "versions": []
-  },
-  "candra-keripik21-riris": {
-    "versions": []
-  },
-  "candra-keripik48-breki": {
-    "versions": []
-  },
-  "candra-keripik8-sukiwir": {
-    "versions": []
-  },
-  "candra-ketan44-breki": {
     "versions": []
   }
 }

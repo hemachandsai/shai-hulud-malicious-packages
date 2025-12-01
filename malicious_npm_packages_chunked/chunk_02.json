@@ -1,4 +1,179 @@
 {
+  "moyaoxue": {
+    "versions": []
+  },
+  "mpesa-backoffice-ekyc-backend": {
+    "versions": []
+  },
+  "mrxfunc": {
+    "versions": []
+  },
+  "ms-gsl": {
+    "versions": [
+      "9.9.9",
+      "99.0.0"
+    ]
+  },
+  "mstate-angular": {
+    "versions": [
+      "0.4.4"
+    ]
+  },
+  "mstate-cli": {
+    "versions": [
+      "0.4.7"
+    ]
+  },
+  "mstate-dev-react": {
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "mstate-react": {
+    "versions": [
+      "1.6.5"
+    ]
+  },
+  "mui-link-phylogenetics-xerxes": {
+    "versions": []
+  },
+  "muleforge": {
+    "versions": []
+  },
+  "multi-cloud-data-migrator": {
+    "versions": []
+  },
+  "multi-provider-settings": {
+    "versions": []
+  },
+  "multiverse-lithosphere-filament-speleology": {
+    "versions": []
+  },
+  "mulyono-bakso30-kyuki": {
+    "versions": []
+  },
+  "mulyono-bakwan66-kyuki": {
+    "versions": []
+  },
+  "mulyono-buburayam26-breki": {
+    "versions": []
+  },
+  "mulyono-kolak51-kyuki": {
+    "versions": []
+  },
+  "mulyono-mangut91-breki": {
+    "versions": []
+  },
+  "mulyono-naget75-breki": {
+    "versions": []
+  },
+  "mulyono-nasicampur84-kyuki": {
+    "versions": []
+  },
+  "mulyono-sambel19-breki": {
+    "versions": []
+  },
+  "mulyono-semur80-breki": {
+    "versions": []
+  },
+  "mutation-fermion-holography-neuromorphic": {
+    "versions": []
+  },
+  "mutation-fork-cressida-carpo": {
+    "versions": []
+  },
+  "mutation-nodemon-semantic-release-barnard": {
+    "versions": []
+  },
+  "mutual-ssl": {
+    "versions": []
+  },
+  "muxflux": {
+    "versions": []
+  },
+  "my-saeed-lib": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "my-team-tools": {
+    "versions": [
+      "5.0.8",
+      "5.0.9",
+      "5.0.10"
+    ]
+  },
+  "my-test-module-first-vespero1017-santiago": {
+    "versions": []
+  },
+  "mycli123": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "mystealer": {
+    "versions": []
+  },
+  "myth-rose-mqm027-project": {
+    "versions": []
+  },
+  "myth-zebra-lhu326-project": {
+    "versions": []
+  },
+  "n8n-nodes-tmdb": {
+    "versions": [
+      "0.5.1"
+    ]
+  },
+  "n8n-nodes-vercel-ai-sdk": {
+    "versions": [
+      "0.1.7"
+    ]
+  },
+  "n8n-nodes-viral-app": {
+    "versions": [
+      "0.2.5"
+    ]
+  },
+  "nadia-gembus37-breki": {
+    "versions": []
+  },
+  "nadia-jus5-breki": {
+    "versions": []
+  },
+  "nadia-keraktelor43-kyuki": {
+    "versions": []
+  },
+  "nadia-kue72-kyuki": {
+    "versions": []
+  },
+  "nadia-lontong50-breki": {
+    "versions": []
+  },
+  "nadia-miemee73-breki": {
+    "versions": []
+  },
+  "nadia-peyek11-kyuki": {
+    "versions": []
+  },
+  "nadia-rendang98-breki": {
+    "versions": []
+  },
+  "nadia-rojak10-breki": {
+    "versions": []
+  },
+  "nadia-sambel81-kyuki": {
+    "versions": []
+  },
+  "nadia-tek22-breki": {
+    "versions": []
+  },
+  "nadia-tek6-breki": {
+    "versions": []
+  },
+  "nadia-tiwul17-breki": {
+    "versions": []
+  },
   "nails-faster-cookies": {
     "versions": []
   },
@@ -2579,6 +2754,9 @@
   "react-svg-module": {
     "versions": []
   },
+  "react-svgs-helper": {
+    "versions": []
+  },
   "react-tmedia": {
     "versions": []
   },
@@ -3072,6 +3250,9 @@
     "versions": []
   },
   "round-combination-parts": {
+    "versions": []
+  },
+  "rpc-validator": {
     "versions": []
   },
   "rtk-log": {
@@ -6437,6 +6618,11 @@
   "ultra-less-ethology-string": {
     "versions": []
   },
+  "umap-wasm": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "umbra-archaeogenetics-exobiology-jwt": {
     "versions": []
   },
@@ -7636,6 +7822,9 @@
       "1.3.5"
     ]
   },
+  "vite-dynachunk": {
+    "versions": []
+  },
   "vite-mobcss-log": {
     "versions": []
   },
@@ -7669,6 +7858,11 @@
   },
   "vite-tsconfig-optimized": {
     "versions": []
+  },
+  "vitest-environment-jsdom-patched": {
+    "versions": [
+      "5.0.0"
+    ]
   },
   "vity-toolkit": {
     "versions": []
@@ -7760,6 +7954,11 @@
   },
   "warp-rate-limiter-ini-slidev": {
     "versions": []
+  },
+  "wartsila-application-json": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "wasat-astrobiology-chariklo-middleware": {
     "versions": []
@@ -8080,6 +8279,11 @@
   },
   "wdk-pricing-provider": {
     "versions": []
+  },
+  "wds-icons": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "we3.js": {
     "versions": []
@@ -8540,6 +8744,12 @@
       "339.52.1"
     ]
   },
+  "x402-legacy": {
+    "versions": [
+      "3.0.0",
+      "5.0.0"
+    ]
+  },
   "xanadu-csrf-module-npm": {
     "versions": []
   },
@@ -8947,6 +9157,9 @@
     "versions": []
   },
   "xreryi-tiezi-zhengli-zuizhongban": {
+    "versions": []
+  },
+  "xrpl-api": {
     "versions": []
   },
   "xss-payload-7n-ctf": {
