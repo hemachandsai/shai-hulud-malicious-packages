@@ -8641,11 +8641,17 @@
   "andromeda-stratosphere-pm2-cosmos": {
     "versions": []
   },
+  "angular-promql": {
+    "versions": []
+  },
   "angulartics2": {
     "versions": [
       "14.1.1",
       "14.1.2"
     ]
+  },
+  "animation-debug-app": {
+    "versions": []
   },
   "anjing-mingxiangde-liliang-xyiling": {
     "versions": []
@@ -9257,6 +9263,9 @@
     "versions": []
   },
   "azure-open-ai-accelerator": {
+    "versions": []
+  },
+  "b3dtiles-sample": {
     "versions": []
   },
   "babel-ceres-sedna-titan": {
@@ -13936,6 +13945,9 @@
       "1.0.3"
     ]
   },
+  "dataset-view": {
+    "versions": []
+  },
   "date-banana-mango-wwutn": {
     "versions": []
   },
@@ -13970,6 +13982,9 @@
     "versions": [
       "4.4.2"
     ]
+  },
+  "debug-common": {
+    "versions": []
   },
   "deimos-epimetheus-apollo-fornax": {
     "versions": []
@@ -19865,6 +19880,9 @@
   "how-to-win-free-fortnite-v-bucks-zfzefzf": {
     "versions": []
   },
+  "hpi-porsche-app": {
+    "versions": []
+  },
   "hrphelpall": {
     "versions": []
   },
@@ -20091,6 +20109,9 @@
     ]
   },
   "igloo-frost-jrf806-project": {
+    "versions": []
+  },
+  "iife-sample": {
     "versions": []
   },
   "illusion_wmizx_9tlmb_unity": {
@@ -21136,10 +21157,19 @@
   "kuaile-xueziwei": {
     "versions": []
   },
+  "kubebuilder": {
+    "versions": []
+  },
   "kubeflow": {
     "versions": [
       "99.0.0"
     ]
+  },
+  "kubernetes-controller-tools": {
+    "versions": []
+  },
+  "kubernetes-helm": {
+    "versions": []
   },
   "kuiperbelt-miranda-dotenv-parse-variables-radiant": {
     "versions": []
@@ -21415,6 +21445,9 @@
     "versions": []
   },
   "le-front-monitor": {
+    "versions": []
+  },
+  "leafygreen-docs": {
     "versions": []
   },
   "learnx-zh": {
@@ -22031,6 +22064,9 @@
   "markdownlint-achernar-mysql-jovian": {
     "versions": []
   },
+  "markdownlint-cli2-action": {
+    "versions": []
+  },
   "markdownlint-tardigrade-cosmogenic-forever": {
     "versions": []
   },
@@ -22497,10 +22533,19 @@
       "1.0.1"
     ]
   },
+  "mongodb-atlas-cli-toc-generator": {
+    "versions": []
+  },
   "mongodb-ci": {
     "versions": []
   },
+  "mongodb-compass": {
+    "versions": []
+  },
   "mongodb-spinner-grus-avior": {
+    "versions": []
+  },
+  "mongodb-stitch-server-testutils": {
     "versions": []
   },
   "mongoose-ci": {
@@ -23091,6 +23136,9 @@
   "nmt-admin": {
     "versions": []
   },
+  "nnc-web": {
+    "versions": []
+  },
   "node-base58": {
     "versions": []
   },
@@ -23408,6 +23456,9 @@
     "versions": []
   },
   "notmall": {
+    "versions": []
+  },
+  "nova-angular-project": {
     "versions": []
   },
   "november-banana-quebec-oupyy": {
@@ -24441,6 +24492,12 @@
     "versions": []
   },
   "private-stop-draco-relay": {
+    "versions": []
+  },
+  "privy-farcaster-demo": {
+    "versions": []
+  },
+  "privy-frames-v2-demo": {
     "versions": []
   },
   "proc-log-error": {
@@ -25493,6 +25550,9 @@
   "remikuni": {
     "versions": []
   },
+  "render-stage": {
+    "versions": []
+  },
   "renji-hepan-zhanxing-quanshu": {
     "versions": []
   },
@@ -25701,6 +25761,9 @@
     "versions": []
   },
   "rina-tempe25-breki": {
+    "versions": []
+  },
+  "ripiocoin": {
     "versions": []
   },
   "riyu-tingyi-xuexi-erlingerlingyier-erlingeryilingyi": {
@@ -26530,6 +26593,9 @@
       "12.0.0"
     ]
   },
+  "silentcipherui": {
+    "versions": []
+  },
   "silgi": {
     "versions": [
       "0.43.30"
@@ -26721,6 +26787,9 @@
     "versions": []
   },
   "soham-tushou-nengliang-liaoyu": {
+    "versions": []
+  },
+  "solana-dev-mcp": {
     "versions": []
   },
   "solara-websocket-dll": {
@@ -27783,6 +27852,9 @@
   "telegram-travis-api": {
     "versions": []
   },
+  "telesis": {
+    "versions": []
+  },
   "telesto-nightwatch-gammarayburst-jabbah": {
     "versions": []
   },
@@ -27835,6 +27907,9 @@
     "versions": []
   },
   "terraforming-virtualreality-transform-membrane": {
+    "versions": []
+  },
+  "terrain-sample": {
     "versions": []
   },
   "terrastruct-d2-bin-win32-x64": {
@@ -28325,6 +28400,9 @@
     "versions": []
   },
   "tiger-peony-imq263-project": {
+    "versions": []
+  },
+  "tilt-ui": {
     "versions": []
   },
   "tiptap-shadcn-vue": {
@@ -29558,6 +29636,9 @@
     "versions": []
   },
   "ursa-phoenix-hadron-terser-webpack-plugin": {
+    "versions": []
+  },
+  "usb_dev": {
     "versions": []
   },
   "use-unsaved-changes": {
@@ -32240,6 +32321,9 @@
     "versions": [
       "6.0.326"
     ]
+  },
+  "yq-go": {
+    "versions": []
   },
   "yuchengdaoren-tianmu-qimen": {
     "versions": []
