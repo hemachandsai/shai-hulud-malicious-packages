@@ -1,4 +1,12 @@
 {
+  "calc-loan-interest": {
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "callback-cybernetics-readable-eridanus": {
+    "versions": []
+  },
   "callback-scorpius-planetology-wavefunction": {
     "versions": []
   },
@@ -8258,6 +8266,9 @@
   "handle-pattern-east": {
     "versions": []
   },
+  "handtalk-test-app": {
+    "versions": []
+  },
   "hang-announced-customs": {
     "versions": []
   },
@@ -9743,6 +9754,9 @@
   "kk8myr2025": {
     "versions": []
   },
+  "kmf-cookieservice": {
+    "versions": []
+  },
   "kns-error-code": {
     "versions": [
       "1.0.8"
@@ -10226,6 +10240,9 @@
   "liaoyu-chuliao-haojiandan": {
     "versions": []
   },
+  "libdebugrouter.so": {
+    "versions": []
+  },
   "liblynxtextra.so": {
     "versions": [
       "5.0.0",
@@ -10623,6 +10640,9 @@
     "versions": [
       "1.1.16"
     ]
+  },
+  "m365-action-sdk": {
+    "versions": []
   },
   "magellan-geckodriver-toml-leda": {
     "versions": []
@@ -11289,24 +11309,6 @@
     ]
   },
   "moon-eagle-ydc904-project": {
-    "versions": []
-  },
-  "morgan-geomorphology-jabbah-bionics": {
-    "versions": []
-  },
-  "morgan-logger": {
-    "versions": []
-  },
-  "morgan-shelljs-outercore-izar": {
-    "versions": []
-  },
-  "motionflow": {
-    "versions": []
-  },
-  "mountain-nest-range": {
-    "versions": []
-  },
-  "mountain-topaz-wbx083-project": {
     "versions": []
   }
 }

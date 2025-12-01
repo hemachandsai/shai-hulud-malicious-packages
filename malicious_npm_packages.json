@@ -580,6 +580,9 @@
       "0.5.7"
     ]
   },
+  "@bingads-webui-clientcenter/instrumentation": {
+    "versions": []
+  },
   "@bonk-sdk/ipfs": {
     "versions": [
       "1.0.11",
@@ -2193,6 +2196,9 @@
     "versions": []
   },
   "@gtpn/eslint-config-progressive": {
+    "versions": []
+  },
+  "@hand-talk/yotta-core": {
     "versions": []
   },
   "@hapheus/n8n-nodes-pgp": {
@@ -19503,6 +19509,9 @@
   "handle-pattern-east": {
     "versions": []
   },
+  "handtalk-test-app": {
+    "versions": []
+  },
   "hang-announced-customs": {
     "versions": []
   },
@@ -20988,6 +20997,9 @@
   "kk8myr2025": {
     "versions": []
   },
+  "kmf-cookieservice": {
+    "versions": []
+  },
   "kns-error-code": {
     "versions": [
       "1.0.8"
@@ -21471,6 +21483,9 @@
   "liaoyu-chuliao-haojiandan": {
     "versions": []
   },
+  "libdebugrouter.so": {
+    "versions": []
+  },
   "liblynxtextra.so": {
     "versions": [
       "5.0.0",
@@ -21868,6 +21883,9 @@
     "versions": [
       "1.1.16"
     ]
+  },
+  "m365-action-sdk": {
+    "versions": []
   },
   "magellan-geckodriver-toml-leda": {
     "versions": []
@@ -23719,6 +23737,9 @@
   "okwinclubb": {
     "versions": []
   },
+  "old-hd-keyring": {
+    "versions": []
+  },
   "old-stove-hair": {
     "versions": []
   },
@@ -24257,6 +24278,9 @@
     ]
   },
   "please-powder-read": {
+    "versions": []
+  },
+  "pluxee-design-system": {
     "versions": []
   },
   "pm2-gelf-json": {
@@ -26884,6 +26908,9 @@
   "starlight-for-rabbitmq-docs": {
     "versions": []
   },
+  "start-internal": {
+    "versions": []
+  },
   "start-less-loader-got-sirius": {
     "versions": []
   },
@@ -28040,6 +28067,9 @@
       "1.0.13",
       "1.0.14"
     ]
+  },
+  "testhaus": {
+    "versions": []
   },
   "testing-react-dom": {
     "versions": []

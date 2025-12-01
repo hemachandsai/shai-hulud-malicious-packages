@@ -580,6 +580,9 @@
       "0.5.7"
     ]
   },
+  "@bingads-webui-clientcenter/instrumentation": {
+    "versions": []
+  },
   "@bonk-sdk/ipfs": {
     "versions": [
       "1.0.11",
@@ -2193,6 +2196,9 @@
     "versions": []
   },
   "@gtpn/eslint-config-progressive": {
+    "versions": []
+  },
+  "@hand-talk/yotta-core": {
     "versions": []
   },
   "@hapheus/n8n-nodes-pgp": {
@@ -11234,14 +11240,6 @@
     "versions": []
   },
   "caikangyongde-shuohua-zhidao": {
-    "versions": []
-  },
-  "calc-loan-interest": {
-    "versions": [
-      "1.0.4"
-    ]
-  },
-  "callback-cybernetics-readable-eridanus": {
     "versions": []
   }
 }
