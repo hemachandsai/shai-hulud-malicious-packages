@@ -10777,7 +10777,9 @@
   },
   "browser-client-neptune": {
     "versions": [
-      "99.99.91"
+      "99.99.91",
+      "99.99.92",
+      "99.99.93"
     ]
   },
   "browser-webdriver-downloader": {

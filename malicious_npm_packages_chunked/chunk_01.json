@@ -1,4 +1,7 @@
 {
+  "caifude-xiyinli-faze": {
+    "versions": []
+  },
   "caijing-zhanxing-quanshu": {
     "versions": []
   },
@@ -11300,9 +11303,6 @@
     "versions": []
   },
   "mongodb-stitch-server-testutils": {
-    "versions": []
-  },
-  "mongoose-ci": {
     "versions": []
   }
 }

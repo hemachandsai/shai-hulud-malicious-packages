@@ -1,4 +1,7 @@
 {
+  "mongoose-ci": {
+    "versions": []
+  },
   "mongoose-helmet-procyon-native": {
     "versions": []
   },
