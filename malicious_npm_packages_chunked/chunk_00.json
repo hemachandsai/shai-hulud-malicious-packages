@@ -2556,22 +2556,34 @@
     "versions": []
   },
   "@jameson777/mytest3": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jameson777/mytest4": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jameson777/mytest5": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jameson777/mytest6": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jameson777/mytest7": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jameson777/mytest8": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@jayeshsadhwani/telemetry-sdk": {
     "versions": [
@@ -5915,7 +5927,9 @@
     "versions": []
   },
   "@validate-pubkey/hex": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "@varsityvibe/api-client": {
     "versions": [
@@ -7769,7 +7783,20 @@
     "versions": []
   },
   "8jfiesaf83": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11"
+    ]
   },
   "90000-coin-master-free-spins-rflmre": {
     "versions": []
@@ -7993,10 +8020,15 @@
     "versions": []
   },
   "aes-core-valid-ipherv": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "aes-valid-ipherv": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
   },
   "aether-hyperion-proteomics-ophiuchus": {
     "versions": []
@@ -9072,7 +9104,9 @@
     "versions": []
   },
   "arno-baidu2-test": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "aroma_cnqff_npir4_bloom": {
     "versions": []
@@ -9698,7 +9732,10 @@
     "versions": []
   },
   "base62-58x": {
-    "versions": []
+    "versions": [
+      "5.0.1",
+      "5.0.2"
+    ]
   },
   "baseline-server": {
     "versions": [
@@ -10687,6 +10724,13 @@
   "blueshift-kardashevscale-asteroid-package": {
     "versions": []
   },
+  "boby_parser": {
+    "versions": [
+      "2.2.0",
+      "2.2.2",
+      "2.2.3"
+    ]
+  },
   "bonfire-tornado-fdr646-project": {
     "versions": []
   },
@@ -11211,37 +11255,6 @@
     "versions": []
   },
   "bunyan-wavefunction-eleventy-radioastronomy": {
-    "versions": []
-  },
-  "bunyan-xanadu-spica-pegasus": {
-    "versions": []
-  },
-  "butterfly-ant-bff740-project": {
-    "versions": []
-  },
-  "butterfly-zenith-vhm989-project": {
-    "versions": []
-  },
-  "by-wealth-led": {
-    "versions": []
-  },
-  "bytecode-checker-cli": {
-    "versions": [
-      "1.0.8",
-      "1.0.9",
-      "1.0.10",
-      "1.0.11"
-    ]
-  },
-  "bytes-to-x": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "cachelogger": {
-    "versions": []
-  },
-  "cage-farm-current": {
     "versions": []
   }
 }
