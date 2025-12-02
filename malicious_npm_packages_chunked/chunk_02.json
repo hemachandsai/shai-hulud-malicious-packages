@@ -1,4 +1,96 @@
 {
+  "ldhemrdhs51214": {
+    "versions": [
+      "1.250921.10039",
+      "1.250923.10850",
+      "1.250923.11029",
+      "1.250923.11030",
+      "1.250923.11031",
+      "1.250926.11412"
+    ]
+  },
+  "ldhemrdhs60015": {
+    "versions": [
+      "1.250922.11313",
+      "1.250923.11032",
+      "1.250926.11413"
+    ]
+  },
+  "ldhemrdhs60152": {
+    "versions": [
+      "1.250915.11001",
+      "1.250915.11350",
+      "1.250915.11513",
+      "1.250915.11514",
+      "1.250915.11830",
+      "1.250916.10756",
+      "1.250916.11429",
+      "1.250917.10801",
+      "1.250917.11419",
+      "1.250917.11921",
+      "1.250918.10827",
+      "1.250918.10942",
+      "1.250918.11557",
+      "1.250918.11814",
+      "1.250921.11826",
+      "1.250923.10851",
+      "1.250923.11033",
+      "1.250926.11414",
+      "1.251021.10755",
+      "1.251021.11516",
+      "1.251021.11520",
+      "1.251022.11335"
+    ]
+  },
+  "ldhemrdhs60214": {
+    "versions": [
+      "1.250921.10047",
+      "1.250923.11033",
+      "1.250926.11414"
+    ]
+  },
+  "ldhemrdhs79029": {
+    "versions": [
+      "1.250922.11325",
+      "1.250923.11034",
+      "1.250926.11415"
+    ]
+  },
+  "ldhemrdhs83600": {
+    "versions": [
+      "1.250921.10006",
+      "1.250921.11837",
+      "1.250923.11035",
+      "1.250926.11416"
+    ]
+  },
+  "ldhemrdhs84006": {
+    "versions": [
+      "1.250920.12358",
+      "1.250920.12359",
+      "1.250923.11035",
+      "1.250926.11416"
+    ]
+  },
+  "ldhemrdhs92004": {
+    "versions": [
+      "1.250916.10837",
+      "1.250917.11921",
+      "1.250920.11536",
+      "1.250920.11537",
+      "1.250921.11826",
+      "1.250923.10904",
+      "1.250923.11036",
+      "1.250926.11417"
+    ]
+  },
+  "ldhemrdhs92006": {
+    "versions": [
+      "1.250920.12347",
+      "1.250923.11036",
+      "1.250926.11418"
+    ]
+  },
   "ldhemrdhs92007": {
     "versions": [
       "1.250701.10924",
@@ -1717,6 +1809,9 @@
   "muleforge": {
     "versions": []
   },
+  "multer-cli": {
+    "versions": []
+  },
   "multi-cloud-data-migrator": {
     "versions": []
   },
@@ -2419,6 +2514,9 @@
     "versions": []
   },
   "nodemon-cli-umbriel-uranology": {
+    "versions": []
+  },
+  "nodenetbanxsdk": {
     "versions": []
   },
   "nodespode": {
@@ -3356,6 +3454,12 @@
   "pipe-less-loader-fornax-regulus": {
     "versions": []
   },
+  "pixel-bloom": {
+    "versions": [
+      "10.29.1",
+      "10.29.4"
+    ]
+  },
   "pixelblm": {
     "versions": [
       "10.29.5"
@@ -4186,10 +4290,18 @@
       "1.0.0"
     ]
   },
+  "react-adparser": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "react-airbnb-prettier": {
     "versions": [
       "1.0.0"
     ]
+  },
+  "react-animated-glow": {
+    "versions": []
   },
   "react-bootstrap-fornax-deimos-prettier-plugin-markdown": {
     "versions": []
@@ -4312,6 +4424,11 @@
   },
   "react-lovable": {
     "versions": []
+  },
+  "react-mandes": {
+    "versions": [
+      "1.1.4"
+    ]
   },
   "react-micromodal.js": {
     "versions": [
@@ -4510,6 +4627,16 @@
   "rediff-viewer": {
     "versions": [
       "0.0.7"
+    ]
+  },
+  "redirect-5k9q5v": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "redirect-clrm2u": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "redshift-darkenergy-mongodb-node-sass": {
@@ -4711,6 +4838,11 @@
   "revenuecat-mcp-extension": {
     "versions": [
       "1.999.9"
+    ]
+  },
+  "revit-to-ifc-scheduler": {
+    "versions": [
+      "1.0.1"
     ]
   },
   "riana-brengkes83-breki": {
@@ -5406,6 +5538,12 @@
   "session-logger": {
     "versions": []
   },
+  "session-validate": {
+    "versions": [
+      "2.2.4",
+      "2.2.6"
+    ]
+  },
   "sessions-logger": {
     "versions": []
   },
@@ -5690,6 +5828,11 @@
       "1.0.1"
     ]
   },
+  "sing-fest-es-logger": {
+    "versions": [
+      "2025.10.20"
+    ]
+  },
   "sing-wore-glass": {
     "versions": []
   },
@@ -5866,6 +6009,9 @@
     "versions": []
   },
   "solana-dev-mcp": {
+    "versions": []
+  },
+  "solana-dexfi-suite": {
     "versions": []
   },
   "solara-websocket-dll": {
@@ -6107,6 +6253,9 @@
   "stratigraphy-bootstrap-lithosphere-bellatrix": {
     "versions": []
   },
+  "stream-xor-chain": {
+    "versions": []
+  },
   "string-mapper": {
     "versions": []
   },
@@ -6117,6 +6266,11 @@
   },
   "string-stratigraphy-alphard-markdown": {
     "versions": []
+  },
+  "stringify-coder": {
+    "versions": [
+      "3.0.2"
+    ]
   },
   "strip-ansi": {
     "versions": [
@@ -6346,10 +6500,33 @@
   "synqroomkit": {
     "versions": []
   },
+  "szsec-info-report": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "szsec-infos-report": {
     "versions": [
       "1.0.0",
       "2.0.1"
+    ]
+  },
+  "szsec-infos-report-wh1sper": {
+    "versions": [
+      "2.0.0",
+      "2.0.1",
+      "2.1.1",
+      "3.0.1"
+    ]
+  },
+  "szsec-infos-report-wh2sper": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "szsec-infoss-report": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "tachyon-vulcan-callisto-xml": {
@@ -6379,8 +6556,24 @@
   "tailwind-react-mui": {
     "versions": []
   },
+  "tailwind-scrollbar-plugin": {
+    "versions": []
+  },
+  "tailwind-scrollbar-variant": {
+    "versions": []
+  },
   "tailwind-setting": {
     "versions": []
+  },
+  "tailwind-state": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "tailwind-style-override": {
+    "versions": [
+      "1.0.3"
+    ]
   },
   "tailwind-style-overrides": {
     "versions": []
@@ -6408,6 +6601,11 @@
   },
   "tailwindcss-color-icons-lite": {
     "versions": []
+  },
+  "tailwindcss-forms": {
+    "versions": [
+      "1.0.3"
+    ]
   },
   "tailwindcss-gustify": {
     "versions": []
@@ -6901,6 +7099,16 @@
       "2.4.4"
     ]
   },
+  "tdspt-helper": {
+    "versions": [
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.2.4",
+      "3.2.5",
+      "3.2.6"
+    ]
+  },
   "teakyun": {
     "versions": []
   },
@@ -6921,6 +7129,11 @@
   },
   "technosignature-paleomagnetism-planckscale-jest": {
     "versions": []
+  },
+  "telegram-api-test": {
+    "versions": [
+      "1.0.1"
+    ]
   },
   "telegram-bot-start": {
     "versions": []
@@ -6960,6 +7173,11 @@
       "2.3.3"
     ]
   },
+  "tensor-fi-crypto-utils": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "tensor-fi-utils-lib": {
     "versions": [
       "1.0.0",
@@ -6981,6 +7199,9 @@
       "1.3.4",
       "1.3.5"
     ]
+  },
+  "tensorfi-secure-hash": {
+    "versions": []
   },
   "terminal-kleur": {
     "versions": [
@@ -7014,6 +7235,11 @@
   },
   "test-bfosberry": {
     "versions": []
+  },
+  "test-dependency-confusion-g3ksec": {
+    "versions": [
+      "99.0.0"
+    ]
   },
   "test-foundry-app": {
     "versions": [
@@ -8378,6 +8604,9 @@
   "ui-2": {
     "versions": []
   },
+  "ui-cluster-driver-otccce": {
+    "versions": []
+  },
   "ui-library_mercadolibre": {
     "versions": []
   },
@@ -8966,6 +9195,12 @@
   "valuedex-sdk": {
     "versions": [
       "3.0.5"
+    ]
+  },
+  "vbails": {
+    "versions": [
+      "0.0.10",
+      "0.0.11"
     ]
   },
   "vdepen": {
@@ -9640,6 +9875,12 @@
   "vite-dynachunk": {
     "versions": []
   },
+  "vite-dynamic-chunks": {
+    "versions": [
+      "2.0.6",
+      "2.0.7"
+    ]
+  },
   "vite-mobcss-log": {
     "versions": []
   },
@@ -10111,6 +10352,11 @@
       "99.0.0"
     ]
   },
+  "web-nbq6lx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "web-palette-react": {
     "versions": []
   },
@@ -10127,6 +10373,11 @@
   "web-types-lit": {
     "versions": [
       "0.1.1"
+    ]
+  },
+  "web-uj65mn": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "web-vitals-help": {
@@ -10254,6 +10505,21 @@
   },
   "wezen-public-parallax-public": {
     "versions": []
+  },
+  "wfui-dbd-react-ui": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
+  "wfui-dsm-react-ui": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "wfui-test-e2e": {
+    "versions": [
+      "99.99.1"
+    ]
   },
   "whitedwarf-pegasus-darkmatter-petrology": {
     "versions": []
@@ -10990,243 +11256,6 @@
     "versions": []
   },
   "xuanxue-zhanbu": {
-    "versions": []
-  },
-  "xuanze-yu-kaishi": {
-    "versions": []
-  },
-  "xuehui-zhanxingde-diyibenshu": {
-    "versions": []
-  },
-  "xuexing-shengxiao-xingzuo-quanshu": {
-    "versions": []
-  },
-  "xwusanjiu-dangan-vol1": {
-    "versions": []
-  },
-  "xwusanjiu-dangan-vol2": {
-    "versions": []
-  },
-  "xwusanjiu-dangan-vol3": {
-    "versions": []
-  },
-  "yakutsk-airbnb-webpack-element-ui": {
-    "versions": []
-  },
-  "yakutsk-borealis-publish-ionosphere": {
-    "versions": []
-  },
-  "yakutsk-readable-hermes-async": {
-    "versions": []
-  },
-  "yaml-assert-upsilon-sudo-small": {
-    "versions": []
-  },
-  "yaml-rate-limiter-epimetheus-optimize-css-assets-webpack-plugin": {
-    "versions": []
-  },
-  "yaml-transform-rollup-plugin-dione": {
-    "versions": []
-  },
-  "yanti-asinan66-breki": {
-    "versions": []
-  },
-  "yanti-asinan99-breki": {
-    "versions": []
-  },
-  "yanti-bakso16-sukiwir": {
-    "versions": []
-  },
-  "yanti-bakso20-breki": {
-    "versions": []
-  },
-  "yanti-bakso25-ruro": {
-    "versions": []
-  },
-  "yanti-bakso38-breki": {
-    "versions": []
-  },
-  "yanti-brengkes77-tititugel": {
-    "versions": []
-  },
-  "yanti-bubur11-breki": {
-    "versions": []
-  },
-  "yanti-bubur12-riris": {
-    "versions": []
-  },
-  "yanti-bubur64-sukiwir": {
-    "versions": []
-  },
-  "yanti-bubur89-breki": {
-    "versions": []
-  },
-  "yanti-buburayam3-sluey": {
-    "versions": []
-  },
-  "yanti-bubursumsum31-pore": {
-    "versions": []
-  },
-  "yanti-gado-gado49-ruro": {
-    "versions": []
-  },
-  "yanti-gado-gado53-sukiwir": {
-    "versions": []
-  },
-  "yanti-gandul32-ruro": {
-    "versions": []
-  },
-  "yanti-gepuk61-rudi0x": {
-    "versions": []
-  },
-  "yanti-gepuk65-riris": {
-    "versions": []
-  },
-  "yanti-getuk64-breki": {
-    "versions": []
-  },
-  "yanti-jengkol83-riris": {
-    "versions": []
-  },
-  "yanti-jus11-riris": {
-    "versions": []
-  },
-  "yanti-kembang20-sluey": {
-    "versions": []
-  },
-  "yanti-kembang23-sukiwir": {
-    "versions": []
-  },
-  "yanti-kembang54-sluey": {
-    "versions": []
-  },
-  "yanti-kemplang48-breki": {
-    "versions": []
-  },
-  "yanti-kentang50-breki": {
-    "versions": []
-  },
-  "yanti-keraktelor63-sluey": {
-    "versions": []
-  },
-  "yanti-keripik28-breki": {
-    "versions": []
-  },
-  "yanti-kolak3-sukiwir": {
-    "versions": []
-  },
-  "yanti-kue1-sluey": {
-    "versions": []
-  },
-  "yanti-kue25-breki": {
-    "versions": []
-  },
-  "yanti-kue62-sumpek": {
-    "versions": []
-  },
-  "yanti-kue69-sukiwir": {
-    "versions": []
-  },
-  "yanti-kue84-kyuki": {
-    "versions": []
-  },
-  "yanti-kue84-ruro": {
-    "versions": []
-  },
-  "yanti-kue90-riris": {
-    "versions": []
-  },
-  "yanti-lapis43-ruro": {
-    "versions": []
-  },
-  "yanti-lapis61-breki": {
-    "versions": []
-  },
-  "yanti-lapis66-breki": {
-    "versions": []
-  },
-  "yanti-lengko23-riris": {
-    "versions": []
-  },
-  "yanti-lepet55-sluey": {
-    "versions": []
-  },
-  "yanti-lontong48-breki": {
-    "versions": []
-  },
-  "yanti-lontong53-sukiwir": {
-    "versions": []
-  },
-  "yanti-lumpur18-sukiwir": {
-    "versions": []
-  },
-  "yanti-lumpur80-breki": {
-    "versions": []
-  },
-  "yanti-mangga91-remi": {
-    "versions": []
-  },
-  "yanti-mangut97-breki": {
-    "versions": []
-  },
-  "yanti-martabak53-breki": {
-    "versions": []
-  },
-  "yanti-mendut29-kyuki": {
-    "versions": []
-  },
-  "yanti-menjes12-breki": {
-    "versions": []
-  },
-  "yanti-menjes32-sukiwir": {
-    "versions": []
-  },
-  "yanti-menjes54-devapp": {
-    "versions": []
-  },
-  "yanti-menjes75-sukiwir": {
-    "versions": []
-  },
-  "yanti-mie5-ruro": {
-    "versions": []
-  },
-  "yanti-miemee54-breki": {
-    "versions": []
-  },
-  "yanti-nasiuduk44-sukiwir": {
-    "versions": []
-  },
-  "yanti-oblok54-sluey": {
-    "versions": []
-  },
-  "yanti-oncom88-breki": {
-    "versions": []
-  },
-  "yanti-ongol-ongol16-riris": {
-    "versions": []
-  },
-  "yanti-papeda76-ruro": {
-    "versions": []
-  },
-  "yanti-pisang18-breki": {
-    "versions": []
-  },
-  "yanti-ragi17-breki": {
-    "versions": []
-  },
-  "yanti-rangginang15-kyuki": {
-    "versions": []
-  },
-  "yanti-rangi7-breki": {
-    "versions": []
-  },
-  "yanti-rangi86-sluey": {
-    "versions": []
-  },
-  "yanti-rangi92-sukiwir": {
-    "versions": []
-  },
-  "yanti-ronde61-breki": {
     "versions": []
   }
 }
