@@ -17117,6 +17117,11 @@
       "99.0.1"
     ]
   },
+  "elf-stats-cocoa-ribbon-476": {
+    "versions": [
+      "3.0.0"
+    ]
+  },
   "elf-stats-cocoa-train-606": {
     "versions": [
       "1.0.0"
@@ -17520,6 +17525,11 @@
       "999.0.2"
     ]
   },
+  "elf-stats-holly-wishlist-355": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-jolly-toolkit-984": {
     "versions": [
       "1.0.0"
@@ -17657,6 +17667,13 @@
       "1.0.6"
     ]
   },
+  "elf-stats-marzipan-pantry-560": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
   "elf-stats-merry-bell-515": {
     "versions": [
       "1.0.0"
@@ -17699,6 +17716,13 @@
       "1.0.3",
       "1.0.4",
       "2.0.0"
+    ]
+  },
+  "elf-stats-merry-garland-548": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "elf-stats-merry-sparkler-742": {
@@ -17850,6 +17874,11 @@
       "1.0.6"
     ]
   },
+  "elf-stats-nutmeg-cocoa-967": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-nutmeg-cookie-584": {
     "versions": [
       "1.0.0",
@@ -17867,6 +17896,11 @@
     ]
   },
   "elf-stats-nutmeg-stocking-515": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-nutmeg-stockpile-999": {
     "versions": [
       "1.0.0"
     ]
@@ -18003,6 +18037,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-shimmering-muffin-598": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-shimmering-nightcap-245": {
     "versions": [
       "99.9.9"
@@ -18014,6 +18053,11 @@
     ]
   },
   "elf-stats-shimmering-pinecone-965": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-workbench-301": {
     "versions": [
       "1.0.0"
     ]
@@ -18054,6 +18098,11 @@
       "999.0.0"
     ]
   },
+  "elf-stats-silvered-stocking-120": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "elf-stats-sleighing-bow-514": {
     "versions": [
       "1.0.0",
@@ -18088,6 +18137,12 @@
   "elf-stats-sleighing-nutcracker-806": {
     "versions": [
       "10.0.0"
+    ]
+  },
+  "elf-stats-sleighing-stocking-579": {
+    "versions": [
+      "1.0.2",
+      "1.0.3"
     ]
   },
   "elf-stats-snowdusted-bauble-104": {
@@ -28841,6 +28896,9 @@
   "remark-pulsar-vortex-lint-staged": {
     "versions": []
   },
+  "remark-stringify10": {
+    "versions": []
+  },
   "remiko": {
     "versions": []
   },
@@ -32961,6 +33019,9 @@
     "versions": [
       "0.3.1"
     ]
+  },
+  "unified10": {
+    "versions": []
   },
   "uninstall-enceladus-luna-testcafe": {
     "versions": []
