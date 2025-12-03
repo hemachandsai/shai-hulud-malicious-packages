@@ -1,4 +1,13 @@
 {
+  "budi-tumis65-riris": {
+    "versions": []
+  },
+  "budi-tumis74-miaww": {
+    "versions": []
+  },
+  "budi-tumis75-sluey": {
+    "versions": []
+  },
   "budi-ubi40-riris": {
     "versions": []
   },
@@ -5682,6 +5691,9 @@
   "elf-stats-bright-garland-287": {
     "versions": []
   },
+  "elf-stats-cosy-stockpile-694": {
+    "versions": []
+  },
   "elf-stats-cranberry-workbench-671": {
     "versions": []
   },
@@ -5689,6 +5701,18 @@
     "versions": []
   },
   "elf-stats-northbound-ledger-135": {
+    "versions": []
+  },
+  "elf-stats-silvered-ornament-756": {
+    "versions": []
+  },
+  "elf-stats-snowdusted-sparkler-261": {
+    "versions": []
+  },
+  "elf-stats-snowdusted-wishlist-166": {
+    "versions": []
+  },
+  "elf-stats-sparkly-hammer-880": {
     "versions": []
   },
   "elf-stats-storybook-cocoa-790": {
@@ -10579,6 +10603,9 @@
   "kardashevscale-accretion-borealis-archaeometry": {
     "versions": []
   },
+  "karem5": {
+    "versions": []
+  },
   "karemv1": {
     "versions": [
       "1.0.0",
@@ -10591,6 +10618,11 @@
       "1.0.9",
       "1.0.11",
       "1.0.12"
+    ]
+  },
+  "karemz": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "karma-europa-australis-prompts": {
@@ -10772,8 +10804,18 @@
   "kk8myr2025": {
     "versions": []
   },
+  "kkkarem": {
+    "versions": [
+      "4.0.0"
+    ]
+  },
   "kmf-cookieservice": {
     "versions": []
+  },
+  "kmz1": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "kns-error-code": {
     "versions": [
@@ -11088,42 +11130,5 @@
   },
   "laopu-shizi-erlingyiqiyier-erlingyibalinger": {
     "versions": []
-  },
-  "layers-foreign-mainly": {
-    "versions": []
-  },
-  "lbank-connector": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "lbank-connector-nodejs": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "ldhchukyso": {
-    "versions": [
-      "1.250722.11350",
-      "1.250722.11354",
-      "1.250722.11403",
-      "1.250722.11405",
-      "1.250722.11414",
-      "1.250722.11426",
-      "1.250722.11456",
-      "1.250722.11459",
-      "1.250722.11838",
-      "1.250722.11842",
-      "1.250722.11849",
-      "1.250722.11938",
-      "1.250723.11132",
-      "1.250723.11154",
-      "1.250801.10956",
-      "1.250801.11033",
-      "1.250801.11446",
-      "1.250801.11713",
-      "1.250801.11721",
-      "1.250819.11113"
-    ]
   }
 }

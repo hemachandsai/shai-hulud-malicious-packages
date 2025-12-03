@@ -1,4 +1,48 @@
 {
+  "xo-fornax-blitz-stream": {
+    "versions": []
+  },
+  "xo-jquery-mask-plugin": {
+    "versions": [
+      "88.8.9"
+    ]
+  },
+  "xo-npm-writable-farout": {
+    "versions": []
+  },
+  "xo-react": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "xo-space": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "xo-typescript": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "xo-wolf-playwright-nestjs": {
+    "versions": []
+  },
+  "xreryi-tiezi-zhengli-zuizhongban": {
+    "versions": []
+  },
+  "xrpl-api": {
+    "versions": []
+  },
+  "xss-payload-7n-ctf": {
+    "versions": []
+  },
+  "xss-payload-all": {
+    "versions": []
+  },
+  "xuanxue-zhanbu": {
+    "versions": []
+  },
   "xuanze-yu-kaishi": {
     "versions": []
   },

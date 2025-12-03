@@ -2225,6 +2225,9 @@
   "@hand-talk/yotta-core": {
     "versions": []
   },
+  "@hand-talk/yotta-icons": {
+    "versions": []
+  },
   "@hapheus/n8n-nodes-pgp": {
     "versions": [
       "1.5.1"
@@ -6378,6 +6381,9 @@
   "@walletwave/ui": {
     "versions": []
   },
+  "@wb-drive/icons": {
+    "versions": []
+  },
   "@wen-community/wen-new-standard": {
     "versions": []
   },
@@ -8728,6 +8734,9 @@
     "versions": []
   },
   "angular-promql": {
+    "versions": []
+  },
+  "angular-trackjs": {
     "versions": []
   },
   "angulartics2": {
@@ -16956,6 +16965,9 @@
   "elf-stats-bright-garland-287": {
     "versions": []
   },
+  "elf-stats-cosy-stockpile-694": {
+    "versions": []
+  },
   "elf-stats-cranberry-workbench-671": {
     "versions": []
   },
@@ -16963,6 +16975,18 @@
     "versions": []
   },
   "elf-stats-northbound-ledger-135": {
+    "versions": []
+  },
+  "elf-stats-silvered-ornament-756": {
+    "versions": []
+  },
+  "elf-stats-snowdusted-sparkler-261": {
+    "versions": []
+  },
+  "elf-stats-snowdusted-wishlist-166": {
+    "versions": []
+  },
+  "elf-stats-sparkly-hammer-880": {
     "versions": []
   },
   "elf-stats-storybook-cocoa-790": {
@@ -21853,6 +21877,9 @@
   "kardashevscale-accretion-borealis-archaeometry": {
     "versions": []
   },
+  "karem5": {
+    "versions": []
+  },
   "karemv1": {
     "versions": [
       "1.0.0",
@@ -21865,6 +21892,11 @@
       "1.0.9",
       "1.0.11",
       "1.0.12"
+    ]
+  },
+  "karemz": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "karma-europa-australis-prompts": {
@@ -22046,8 +22078,18 @@
   "kk8myr2025": {
     "versions": []
   },
+  "kkkarem": {
+    "versions": [
+      "4.0.0"
+    ]
+  },
   "kmf-cookieservice": {
     "versions": []
+  },
+  "kmz1": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "kns-error-code": {
     "versions": [

@@ -2225,6 +2225,9 @@
   "@hand-talk/yotta-core": {
     "versions": []
   },
+  "@hand-talk/yotta-icons": {
+    "versions": []
+  },
   "@hapheus/n8n-nodes-pgp": {
     "versions": [
       "1.5.1"
@@ -6378,6 +6381,9 @@
   "@walletwave/ui": {
     "versions": []
   },
+  "@wb-drive/icons": {
+    "versions": []
+  },
   "@wen-community/wen-new-standard": {
     "versions": []
   },
@@ -8728,6 +8734,9 @@
     "versions": []
   },
   "angular-promql": {
+    "versions": []
+  },
+  "angular-trackjs": {
     "versions": []
   },
   "angulartics2": {
@@ -11262,15 +11271,6 @@
     "versions": []
   },
   "budi-toge17-sukiwir": {
-    "versions": []
-  },
-  "budi-tumis65-riris": {
-    "versions": []
-  },
-  "budi-tumis74-miaww": {
-    "versions": []
-  },
-  "budi-tumis75-sluey": {
     "versions": []
   }
 }
