@@ -5688,44 +5688,1395 @@
   "eleventy-webdriver-mocha-draco-iota": {
     "versions": []
   },
+  "elf-stats-aurora-candy-291": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-aurora-garland-513": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-aurora-workbench-513": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-aurora-workbench-5l3": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-bright-bow-377": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-bright-cushion-246": {
+    "versions": [
+      "2.1.0",
+      "2.2.0",
+      "3.0.0",
+      "4.0.0"
+    ]
+  },
   "elf-stats-bright-garland-287": {
     "versions": []
+  },
+  "elf-stats-bright-star-712": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-candlelit-reindeer-881": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-candlelit-toy-571": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-candystriped-hollyberry-986": {
+    "versions": [
+      "99.9.9",
+      "99.9.99"
+    ]
+  },
+  "elf-stats-candystriped-lantern-205": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-candystriped-saddlebag-217": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "elf-stats-caroling-hollyberry-628": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-caroling-sleigh-970": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-caroling-toy-109": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "elf-stats-cheery-bell-343": {
+    "versions": [
+      "999.0.2",
+      "999.0.5"
+    ]
+  },
+  "elf-stats-cheery-chimney-392": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cheery-fireplace-598": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cheery-satchel-119": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cocoa-muffin-395": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cocoa-northstar-632": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cocoa-reindeer-663": {
+    "versions": [
+      "99.0.1"
+    ]
+  },
+  "elf-stats-cocoa-train-606": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cocoa-train-606-pwn": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cosy-pantry-344": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cosy-sleigh-356": {
+    "versions": [
+      "99.0.0",
+      "99.0.1"
+    ]
   },
   "elf-stats-cosy-stockpile-694": {
     "versions": []
   },
+  "elf-stats-cosy-wishlist-811": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "elf-stats-cranberry-icicle-864": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-cranberry-mailbag-505": {
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
+  },
+  "elf-stats-cranberry-sleigh-853": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
   "elf-stats-cranberry-workbench-671": {
-    "versions": []
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-ember-hammer-340": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-ember-muffin-717": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-ember-stockpile-641": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-evergreen-bow-653": {
+    "versions": [
+      "9.9.9",
+      "9.9.10"
+    ]
+  },
+  "elf-stats-evergreen-chimney-857": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-evergreen-fir-211": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-evergreen-mailbag-606": {
+    "versions": [
+      "99.0.0",
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5"
+    ]
+  },
+  "elf-stats-evergreen-mitten-361": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-evergreen-muffin-867": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-evergreen-sled-681": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "elf-stats-evergreen-snowglobe-961": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-evergreen-workbench-462": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-festive-cocoa-106": {
+    "versions": [
+      "2.0.0",
+      "3.0.0"
+    ]
+  },
+  "elf-stats-festive-hollyberry-572": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "elf-stats-festive-snowglobe-440": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-festive-train-714": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-festive-wreath-502": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-flickering-candy-280": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "elf-stats-flickering-fir-572": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-flickering-saddlebag-301": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-flickering-wishlist-695": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "elf-stats-flickering-workbench-929": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frostbitten-bow-539": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frostbitten-ribbon-950": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frostbitten-train-315": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-frostbitten-wishlist-794": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frosty-candy-152": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "elf-stats-frosty-toy-870": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-fuzzy-cushion-615": {
+    "versions": [
+      "999.0.0",
+      "999.1.0"
+    ]
+  },
+  "elf-stats-fuzzy-fir-973": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "elf-stats-fuzzy-marshmallow-280": {
+    "versions": [
+      "99.0.1",
+      "99.0.2"
+    ]
+  },
+  "elf-stats-fuzzy-mitten-891": {
+    "versions": [
+      "3.0.0"
+    ]
+  },
+  "elf-stats-fuzzy-ornament-236": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-fuzzy-pantry-827": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-fuzzy-sparkler-922": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "elf-stats-ginger-bell-819": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-ginger-cookiejar-383": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "elf-stats-ginger-hammer-326": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "2.0.1"
+    ]
+  },
+  "elf-stats-ginger-icicle-707": {
+    "versions": [
+      "99.19.12"
+    ]
+  },
+  "elf-stats-ginger-ledger-106": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-ginger-workshop-948": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-gingersnap-pinecone-440": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-gingersnap-reindeer-987": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-gingersnap-sparkler-768": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-glittering-cookie-772": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-glittering-lantern-418": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-glittering-marshmallow-217": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-glittering-nutcracker-591": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-glittering-wishlist-537": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-holly-hammer-741": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "elf-stats-holly-stockpile-968": {
+    "versions": [
+      "999.0.0",
+      "999.0.1",
+      "999.0.2"
+    ]
+  },
+  "elf-stats-jolly-toolkit-984": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-fireplace-187": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-hollyberry-379": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-mailbag-164": {
+    "versions": [
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18",
+      "1.0.19",
+      "1.0.20"
+    ]
+  },
+  "elf-stats-joyous-pinecone-528": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-sled-261": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-sparkler-347": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-sparkler-816": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-joyous-toy-475": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "elf-stats-joyous-toy-934": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-jubilant-chimney-189": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-lanternlit-fir-106": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-lanternlit-fir-170": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-lanternlit-sled-571": {
+    "versions": [
+      "9998.0.1",
+      "9999.0.2"
+    ]
+  },
+  "elf-stats-magical-sleigh-777": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.1.0"
+    ]
+  },
+  "elf-stats-marzipan-cookiejar-316": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-marzipan-fir-219": {
+    "versions": [
+      "999.0.0",
+      "999.0.1",
+      "999.0.2",
+      "999.0.4",
+      "999.0.5",
+      "999.0.6",
+      "999.0.7",
+      "999.0.8"
+    ]
+  },
+  "elf-stats-marzipan-fir-795": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-marzipan-muffin-733": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "elf-stats-merry-bell-515": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-merry-chimney-765": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "elf-stats-merry-cookiejar-754": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-merry-cookiejar-915": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-merry-cookiejar-987": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "2.0.0"
+    ]
+  },
+  "elf-stats-merry-sparkler-742": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-merry-stocking-539": {
+    "versions": [
+      "1.1.11"
+    ]
+  },
+  "elf-stats-midnight-drum-606": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-midnight-mitten-226": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-midnight-pinecone-982": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-midnight-star-734": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-midnight-toy-513": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-midnight-workbench-208": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-midnight-wreath-655": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-mistletoe-bell-913": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-mistletoe-pinecone-620": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-mistletoe-sparkler-211": {
+    "versions": [
+      "9999.1.1",
+      "9999.1.3"
+    ]
+  },
+  "elf-stats-mulled-bauble-252": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.8",
+      "1.0.9",
+      "1.2.9"
+    ]
+  },
+  "elf-stats-mulled-drum-529": {
+    "versions": [
+      "2.2.0",
+      "2.2.1"
+    ]
+  },
+  "elf-stats-mulled-rocket-415": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-mulled-stockpile-411": {
+    "versions": [
+      "1.999.0"
+    ]
+  },
+  "elf-stats-mulled-wishlist-789": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elf-stats-northbound-candy-916": {
     "versions": []
   },
+  "elf-stats-northbound-garland-782": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-northbound-icicle-485": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-northbound-ledger-135": {
     "versions": []
+  },
+  "elf-stats-northbound-star-801": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-northbound-wishlist-426": {
+    "versions": [
+      "99.9.9",
+      "99.9.10"
+    ]
+  },
+  "elf-stats-northbound-wishlist-684": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-nutmeg-chimney-245": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.6"
+    ]
+  },
+  "elf-stats-nutmeg-giftbox-398": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-nutmeg-nutcracker-538": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
+  "elf-stats-nutmeg-stocking-515": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-peppermint-candy-233": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-peppermint-icicle-890": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "elf-stats-peppermint-stocking-949": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-piney-fireplace-695": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-piney-garland-824": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-piney-icicle-501": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.8",
+      "1.1.0",
+      "99.9.12"
+    ]
+  },
+  "elf-stats-piney-ledger-864": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-piney-pinecone-203": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-rooftop-candy-837": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-rooftop-garland-184": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-rooftop-giftbox-464": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-rooftop-hammer-362": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "elf-stats-rooftop-hammer-580": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "elf-stats-rooftop-stockpile-626": {
+    "versions": [
+      "99.0.0",
+      "99.0.1",
+      "99.0.2",
+      "99.0.3",
+      "99.0.4",
+      "99.0.5",
+      "99.0.6",
+      "99.0.7",
+      "99.0.8",
+      "99.0.9",
+      "99.0.10",
+      "99.0.11",
+      "99.0.12",
+      "99.0.13",
+      "99.0.14"
+    ]
+  },
+  "elf-stats-shimmering-icicle-212": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-icicle-213": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-icicle-214": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-nightcap-245": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "elf-stats-shimmering-northstar-293": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-shimmering-pinecone-965": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-workbench-778": {
+    "versions": [
+      "5.0.0"
+    ]
+  },
+  "elf-stats-shimmering-workshop-590": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9"
+    ]
+  },
+  "elf-stats-silvered-bauble-482": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-silvered-mitten-503": {
+    "versions": [
+      "999.999.999"
+    ]
   },
   "elf-stats-silvered-ornament-756": {
     "versions": []
   },
+  "elf-stats-silvered-snowman-898": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-sleighing-bow-514": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
+  "elf-stats-sleighing-hammer-214": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-sleighing-hollyberry-360": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-sleighing-lantern-878": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.1.2",
+      "1.1.3"
+    ]
+  },
+  "elf-stats-snowdusted-bauble-104": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowdusted-fireplace-396": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowdusted-saddlebag-790": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-snowdusted-sparkler-261": {
     "versions": []
+  },
+  "elf-stats-snowdusted-stocking-130": {
+    "versions": [
+      "2.5.2",
+      "2.7.2",
+      "2.8.2"
+    ]
   },
   "elf-stats-snowdusted-wishlist-166": {
     "versions": []
   },
+  "elf-stats-snowy-candy-850": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-cookiejar-589": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-sleigh-766": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-snowman-433": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-train-565": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-snowy-train-725": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snuggly-cookie-673": {
+    "versions": [
+      "2.0.0",
+      "2.1.0",
+      "2.2.0",
+      "2.2.1",
+      "2.2.2"
+    ]
+  },
+  "elf-stats-snuggly-rocket-941": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snuggly-workbench-425": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snuggly-workshop-421": {
+    "versions": [
+      "9999.0.2",
+      "9999.0.3",
+      "9999.0.5",
+      "9999.0.6",
+      "9999.0.7"
+    ]
+  },
+  "elf-stats-sparkly-bow-901": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "elf-stats-sparkly-cocoa-863": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sparkly-cushion-340": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sparkly-garland-970": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
   "elf-stats-sparkly-hammer-880": {
     "versions": []
+  },
+  "elf-stats-sparkly-snowflake-139": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sprucey-icicle-606": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-sprucey-mitten-825": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-sprucey-snowman-250": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sprucey-train-471": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-starlit-mitten-980": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.1.9",
+      "1.2.9",
+      "1.2.10",
+      "1.2.11",
+      "1.2.12",
+      "1.2.13",
+      "1.2.14",
+      "1.2.15",
+      "1.2.16",
+      "1.2.17",
+      "1.2.18",
+      "1.2.19",
+      "1.2.20",
+      "1.2.21",
+      "1.2.22",
+      "1.2.23",
+      "1.2.24",
+      "1.2.25",
+      "1.2.26",
+      "1.2.27",
+      "1.2.28"
+    ]
+  },
+  "elf-stats-starlit-northstar-873": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "elf-stats-starlit-rocket-905": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-starlit-train-195": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-storybook-bow-866": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elf-stats-storybook-cocoa-790": {
     "versions": []
   },
+  "elf-stats-storybook-cookiejar-394": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "elf-stats-storybook-cookiejar-481": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
   "elf-stats-storybook-cookiejar-880": {
     "versions": []
+  },
+  "elf-stats-storybook-marshmallow-729": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-storybook-reindeer-552": {
+    "versions": [
+      "2.0.7",
+      "2.0.8",
+      "2.0.9",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "2.2.0"
+    ]
+  },
+  "elf-stats-storybook-stocking-662": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-sugarplum-fireplace-278": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-sugarplum-saddlebag-236": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sugarplum-star-404": {
+    "versions": [
+      "99.9.9",
+      "99.9.10",
+      "99.9.12"
+    ]
+  },
+  "elf-stats-sugarplum-stockpile-238": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sugarplum-workshop-950": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-tinsel-drum-369": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "elf-stats-tinsel-giftbox-192": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-tinsel-pantry-856": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-ledger-863": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-ledger-989": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-marshmallow-913": {
+    "versions": [
+      "1.0.1",
+      "2.0.1"
+    ]
+  },
+  "elf-stats-twinkling-reindeer-382": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-sled-276": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-wreath-730": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-velvet-cocoa-992": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elf-stats-velvet-fir-824": {
     "versions": []
   },
+  "elf-stats-velvet-ornament-935": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "elf-stats-whimsical-lantern-823": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-whimsical-ledger-767": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "elf-stats-whimsical-marshmallow-212": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-whimsical-marshmallow-258": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-whimsical-muffin-613": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-whimsical-rocket-922": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "elf-stats-whimsical-snowflake-250": {
+    "versions": [
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
+    ]
+  },
   "elf-stats-whimsical-train-322": {
-    "versions": []
+    "versions": [
+      "3.0.0"
+    ]
+  },
+  "elf-stats-wintry-fir-892": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-wintry-hammer-196": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-wintry-hollyberry-832": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-wintry-icicle-283": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-wintry-northstar-674": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-wintry-ornament-960": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-wintry-satchel-723": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-wintry-sled-578": {
+    "versions": [
+      "999.0.0"
+    ]
   },
   "email-deliverability-tester": {
     "versions": [
@@ -9895,1240 +11246,6 @@
     "versions": []
   },
   "indah-enting86-kyuki": {
-    "versions": []
-  },
-  "indah-ikan5-breki": {
-    "versions": []
-  },
-  "indah-kepok56-breki": {
-    "versions": []
-  },
-  "indah-klanting18-breki": {
-    "versions": []
-  },
-  "indah-kue86-kyuki": {
-    "versions": []
-  },
-  "indah-kue98-breki": {
-    "versions": []
-  },
-  "indah-lapis25-kyuki": {
-    "versions": []
-  },
-  "indah-nasi25-breki": {
-    "versions": []
-  },
-  "indah-pecel69-breki": {
-    "versions": []
-  },
-  "india-apple-victor-nrhoy": {
-    "versions": []
-  },
-  "india-date-watermelon-aeufe": {
-    "versions": []
-  },
-  "india-mango-oscar-tucca": {
-    "versions": []
-  },
-  "india-nectarine-golf-grpfe": {
-    "versions": []
-  },
-  "indigo_ngdyn_cwmlg_crown": {
-    "versions": []
-  },
-  "individual-correct-manner": {
-    "versions": []
-  },
-  "infinity-dove-qev776-project": {
-    "versions": []
-  },
-  "ing-ideal-acquiring-shared": {
-    "versions": [
-      "15.1.26"
-    ]
-  },
-  "ini-envconfig-less-loader-hadron": {
-    "versions": []
-  },
-  "ini-nodejs-speleology-filament": {
-    "versions": []
-  },
-  "initial-path": {
-    "versions": []
-  },
-  "inline-dep": {
-    "versions": []
-  },
-  "inmaa-map": {
-    "versions": [
-      "1.0.0-beta.4"
-    ]
-  },
-  "insomnia-plugin-random-pick": {
-    "versions": [
-      "1.0.4"
-    ]
-  },
-  "instacart-ui": {
-    "versions": [
-      "296.8.0"
-    ]
-  },
-  "install-eleventy-cluster-element-ui": {
-    "versions": []
-  },
-  "instead-typical-growth": {
-    "versions": []
-  },
-  "int_affirm_controllers": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "integrator-2829": {
-    "versions": []
-  },
-  "integrator-2830": {
-    "versions": []
-  },
-  "integrator-filescrypt2025": {
-    "versions": []
-  },
-  "intel_collab": {
-    "versions": [
-      "1.1.1",
-      "1.3.5"
-    ]
-  },
-  "intel-ai-assistant-ui": {
-    "versions": [
-      "1.1.1",
-      "1.3.5"
-    ]
-  },
-  "interferometry-install-phenomic-mysql": {
-    "versions": []
-  },
-  "internallib_v189": {
-    "versions": []
-  },
-  "internallib_v249": {
-    "versions": []
-  },
-  "internallib_v354": {
-    "versions": []
-  },
-  "internallib_v606": {
-    "versions": []
-  },
-  "internallib_v663": {
-    "versions": []
-  },
-  "internallib_v691": {
-    "versions": []
-  },
-  "internallib_v714": {
-    "versions": []
-  },
-  "internallib_v715": {
-    "versions": []
-  },
-  "internallib_v731": {
-    "versions": []
-  },
-  "internallib_v773": {
-    "versions": []
-  },
-  "internallib_v799": {
-    "versions": []
-  },
-  "internallib_v881": {
-    "versions": []
-  },
-  "invent-with-python-zh": {
-    "versions": []
-  },
-  "invo": {
-    "versions": [
-      "0.2.2"
-    ]
-  },
-  "ionosphere-ursa-asthenosphere-mongoose": {
-    "versions": []
-  },
-  "iota-dione-membrane-browserify": {
-    "versions": []
-  },
-  "iota-sync-json-andromeda": {
-    "versions": []
-  },
-  "iota-terser-webpack-plugin-hermes-postcss": {
-    "versions": []
-  },
-  "ip-checking": {
-    "versions": []
-  },
-  "ip-checks": {
-    "versions": []
-  },
-  "irb": {
-    "versions": []
-  },
-  "irma-bika60-breki": {
-    "versions": []
-  },
-  "irma-getas93-kyuki": {
-    "versions": []
-  },
-  "irma-gorengan76-breki": {
-    "versions": []
-  },
-  "irma-klentik17-breki": {
-    "versions": []
-  },
-  "irma-kue75-breki": {
-    "versions": []
-  },
-  "irma-kupang100-breki": {
-    "versions": []
-  },
-  "irma-martabak7-kyuki": {
-    "versions": []
-  },
-  "irma-rangginang89-breki": {
-    "versions": []
-  },
-  "irma-rendang31-breki": {
-    "versions": []
-  },
-  "irma-soto57-breki": {
-    "versions": []
-  },
-  "iron-shield-miniapp": {
-    "versions": [
-      "0.0.2"
-    ]
-  },
-  "is-arrayish": {
-    "versions": [
-      "0.3.3"
-    ]
-  },
-  "island-peacock-hro883-project": {
-    "versions": []
-  },
-  "isostasy-config-astrophysics-stop": {
-    "versions": []
-  },
-  "isostasy-wezen-phylogenetics-solis": {
-    "versions": []
-  },
-  "issueprocessor": {
-    "versions": []
-  },
-  "item-box": {
-    "versions": []
-  },
-  "ito-button": {
-    "versions": [
-      "8.0.3"
-    ]
-  },
-  "itobuz-angular": {
-    "versions": [
-      "0.0.1"
-    ]
-  },
-  "itobuz-angular-auth": {
-    "versions": [
-      "8.0.11"
-    ]
-  },
-  "itobuz-angular-button": {
-    "versions": [
-      "8.0.11"
-    ]
-  },
-  "itself-country-orange": {
-    "versions": []
-  },
-  "ivy_mrbx5_tv2ls_yarn": {
-    "versions": []
-  },
-  "iwan-bakwan81-kyuki": {
-    "versions": []
-  },
-  "iwan-bubur58-breki": {
-    "versions": []
-  },
-  "iwan-dradag76-breki": {
-    "versions": []
-  },
-  "iwan-enting91-breki": {
-    "versions": []
-  },
-  "iwan-klentik23-breki": {
-    "versions": []
-  },
-  "iwan-mangut20-breki": {
-    "versions": []
-  },
-  "iwan-nasi78-breki": {
-    "versions": []
-  },
-  "iwan-otak-otak6-breki": {
-    "versions": []
-  },
-  "iwan-saguer21-breki": {
-    "versions": []
-  },
-  "iwan-sambel17-kyuki": {
-    "versions": []
-  },
-  "iwan-semur87-kyuki": {
-    "versions": []
-  },
-  "izar-halley-mutation-rigel": {
-    "versions": []
-  },
-  "izar-magellan-readable-nodejs": {
-    "versions": []
-  },
-  "izar-neptune-spectron-webdriver-install": {
-    "versions": []
-  },
-  "jabbah-antares-protractor-html-webpack-plugin": {
-    "versions": []
-  },
-  "jabbah-eclipse-hexo-pipe": {
-    "versions": []
-  },
-  "jabbah-server-chakra-ui-antimatter": {
-    "versions": []
-  },
-  "jabbah-steganography-whitedwarf-astrophysics": {
-    "versions": []
-  },
-  "jacob-zuma": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "jade_8ocua_rm08t_indigo": {
-    "versions": []
-  },
-  "jade-cliff-qbk511-project": {
-    "versions": []
-  },
-  "jade-icicle-jcu267-project": {
-    "versions": []
-  },
-  "jade-wave-gwh666-project": {
-    "versions": []
-  },
-  "jade-yeti-tns661-project": {
-    "versions": []
-  },
-  "jaetut-varit-test": {
-    "versions": [
-      "1.0.2"
-    ]
-  },
-  "jaja-miebogor23-kyuki": {
-    "versions": []
-  },
-  "jaja-ronde63-kyuki": {
-    "versions": []
-  },
-  "jaja-rujaksoto43-breki": {
-    "versions": []
-  },
-  "jaja-sambel4-kyuki": {
-    "versions": []
-  },
-  "jaja-tiwul25-breki": {
-    "versions": []
-  },
-  "jan-browser": {
-    "versions": [
-      "0.13.1"
-    ]
-  },
-  "janus-install-bunyan-sync": {
-    "versions": []
-  },
-  "janus-planetology-neutronstar-start": {
-    "versions": []
-  },
-  "janus-react-bootstrap-less-loader-biomimicry": {
-    "versions": []
-  },
-  "janus-scorpius-gemini-gravitationalwave": {
-    "versions": []
-  },
-  "janus-selenium-async-sails": {
-    "versions": []
-  },
-  "janus-vuepress-arcturus-soap": {
-    "versions": []
-  },
-  "jasmine_9q2ju_m7l5i_underworld": {
-    "versions": []
-  },
-  "jasmine_cnk21_ms6kj_crystal": {
-    "versions": []
-  },
-  "jasmine_oib8l_hda5e_firefly": {
-    "versions": []
-  },
-  "jasmine-arcturus-pegasus-resolvers": {
-    "versions": []
-  },
-  "jasmine-geochemistry-markdown-sirius": {
-    "versions": []
-  },
-  "jasmine-unicorn-lyo115-project": {
-    "versions": []
-  },
-  "javascript-auth0-selenology-blaze": {
-    "versions": []
-  },
-  "javascript-spinner-rocket-nightwatch": {
-    "versions": []
-  },
-  "jekyll-spinner-barnard-non-blocking": {
-    "versions": []
-  },
-  "jellyfish-dolphin-art145-project": {
-    "versions": []
-  },
-  "jenkinslogger": {
-    "versions": []
-  },
-  "jest-betelgeuse-yakutsk-meteor": {
-    "versions": []
-  },
-  "jest-weywot-leda-stream": {
-    "versions": []
-  },
-  "jewel_1r4i4_u7dsr_quintessence": {
-    "versions": []
-  },
-  "jewel_oergf_whvo8_solstice": {
-    "versions": []
-  },
-  "jewel-glacier-iia532-project": {
-    "versions": []
-  },
-  "jiandan-mingxiangshu": {
-    "versions": []
-  },
-  "jiankang-zhidao": {
-    "versions": []
-  },
-  "jiazu-zhanxing": {
-    "versions": []
-  },
-  "jiemi-xiyinli-fazede-zhenxiang": {
-    "versions": []
-  },
-  "jigsaw_bvwl7_mar8m_zenith": {
-    "versions": []
-  },
-  "jingdian-taluo-rumen": {
-    "versions": []
-  },
-  "jingtong-csharp-heike-zhuru-biancheng": {
-    "versions": []
-  },
-  "jingtong-heike-biancheng": {
-    "versions": []
-  },
-  "jingtong-heike-miansha": {
-    "versions": []
-  },
-  "jingtong-jiaoben-heike": {
-    "versions": []
-  },
-  "jingtong-jiaoben-heiruan-gongji-jishu": {
-    "versions": []
-  },
-  "jingtong-pojie-gongju": {
-    "versions": []
-  },
-  "jingtong-vb-heike-biancheng": {
-    "versions": []
-  },
-  "jinqian-mofa": {
-    "versions": []
-  },
-  "jinqian-zhengli": {
-    "versions": []
-  },
-  "jira-lint": {
-    "versions": []
-  },
-  "jito-components": {
-    "versions": []
-  },
-  "jito-prop-exec": {
-    "versions": []
-  },
-  "jito-shred-propo-excutor": {
-    "versions": []
-  },
-  "jiugong-qimen": {
-    "versions": []
-  },
-  "jjkrtyugh": {
-    "versions": []
-  },
-  "joko-bakso90-kyuki": {
-    "versions": []
-  },
-  "joko-bakwan54-breki": {
-    "versions": []
-  },
-  "joko-esdoger1-breki": {
-    "versions": []
-  },
-  "joko-gepuk11-kyuki": {
-    "versions": []
-  },
-  "joko-kemplang45-kyuki": {
-    "versions": []
-  },
-  "joko-ketan94-breki": {
-    "versions": []
-  },
-  "joko-kripik98-kyuki": {
-    "versions": []
-  },
-  "joko-lapis51-breki": {
-    "versions": []
-  },
-  "joko-martabak31-breki": {
-    "versions": []
-  },
-  "joko-mie97-kyuki": {
-    "versions": []
-  },
-  "joko-nasi73-breki": {
-    "versions": []
-  },
-  "joko-papeda92-kyuki": {
-    "versions": []
-  },
-  "joko-telurtahu100-breki": {
-    "versions": []
-  },
-  "joko-tomat99-breki": {
-    "versions": []
-  },
-  "joni-bakso86-kyuki": {
-    "versions": []
-  },
-  "joni-bika49-breki": {
-    "versions": []
-  },
-  "joni-brengkes6-breki": {
-    "versions": []
-  },
-  "joni-gembus75-breki": {
-    "versions": []
-  },
-  "joni-ketan71-kyuki": {
-    "versions": []
-  },
-  "joni-lengko10-breki": {
-    "versions": []
-  },
-  "joni-lupis37-breki": {
-    "versions": []
-  },
-  "joni-mendoan42-kyuki": {
-    "versions": []
-  },
-  "joni-mie36-breki": {
-    "versions": []
-  },
-  "joni-mieayam90-kyuki": {
-    "versions": []
-  },
-  "joni-moci37-breki": {
-    "versions": []
-  },
-  "joni-papeda87-kyuki": {
-    "versions": []
-  },
-  "joni-saguer89-breki": {
-    "versions": []
-  },
-  "joni-tahu100-breki": {
-    "versions": []
-  },
-  "jovian-andromeda-altair-auriga": {
-    "versions": []
-  },
-  "joviology-void-pino-pretty-sadr": {
-    "versions": []
-  },
-  "joy_ughwc_2smbp_echo": {
-    "versions": []
-  },
-  "jquery-bindings": {
-    "versions": [
-      "1.1.2",
-      "1.1.3"
-    ]
-  },
-  "jqxcore": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "jsii-1.x": {
-    "versions": []
-  },
-  "json-aquarius-exoplanetology-semantic-release": {
-    "versions": []
-  },
-  "json-rules-engine-simplified": {
-    "versions": [
-      "0.2.1",
-      "0.2.2",
-      "0.2.3",
-      "0.2.4"
-    ]
-  },
-  "json-schema-to-typescript-example": {
-    "versions": [
-      "11.0.0",
-      "12.0.0"
-    ]
-  },
-  "jsonjoy.com": {
-    "versions": [
-      "20.1.1"
-    ]
-  },
-  "jsonp-subduction-babel-solis": {
-    "versions": []
-  },
-  "jsonp-update-ini-jupiter": {
-    "versions": []
-  },
-  "jsonp-xanadu-hapi-auriga": {
-    "versions": []
-  },
-  "jsonretype": {
-    "versions": []
-  },
-  "jsons-logger": {
-    "versions": []
-  },
-  "jsonsurge": {
-    "versions": [
-      "1.0.7"
-    ]
-  },
-  "juexingde-baiwan-fuweng": {
-    "versions": []
-  },
-  "juliet-date-foxtrot-wuflb": {
-    "versions": []
-  },
-  "juliet-echo-nectarine-irosa": {
-    "versions": []
-  },
-  "juliet-elderberry-quince-ycwyg": {
-    "versions": []
-  },
-  "juliet-fig-grape-isucf": {
-    "versions": []
-  },
-  "juliet-orange-oscar-yeceo": {
-    "versions": []
-  },
-  "juliet-tangerine-november-gkvpj": {
-    "versions": []
-  },
-  "jumpgate": {
-    "versions": [
-      "0.0.2"
-    ]
-  },
-  "jungle-careful-blind": {
-    "versions": []
-  },
-  "jungle-unicorn-clk121-project": {
-    "versions": []
-  },
-  "jungle-zenith-kth084-project": {
-    "versions": []
-  },
-  "jupiter-react-bootstrap-sedimentology-prettier-stylelint": {
-    "versions": []
-  },
-  "jupiter-schema-oberon-avior": {
-    "versions": []
-  },
-  "just-a-calculator": {
-    "versions": []
-  },
-  "just-toasty": {
-    "versions": [
-      "1.7.1"
-    ]
-  },
-  "jvector-release": {
-    "versions": []
-  },
-  "kale-kite-ykz423-project": {
-    "versions": []
-  },
-  "kaleidoscope_amyqx_0apfl_ripple": {
-    "versions": []
-  },
-  "kaleidoscope_o29pi_6p2q4_ripple": {
-    "versions": []
-  },
-  "kaleidoscope-jellyfish-dws925-project": {
-    "versions": []
-  },
-  "kaleidoscope-nautilus-xur295-project": {
-    "versions": []
-  },
-  "kardashevscale-accretion-borealis-archaeometry": {
-    "versions": []
-  },
-  "karem5": {
-    "versions": []
-  },
-  "karemv1": {
-    "versions": [
-      "1.0.0",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9",
-      "1.0.11",
-      "1.0.12"
-    ]
-  },
-  "karemz": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "karma-europa-australis-prompts": {
-    "versions": []
-  },
-  "kastra-entanglement-lint-staged-wormhole": {
-    "versions": []
-  },
-  "kastra-wezen-cache-json": {
-    "versions": []
-  },
-  "kaus-triton-lightyear-dagda": {
-    "versions": []
-  },
-  "kb-first-package": {
-    "versions": []
-  },
-  "kb-rnd-package": {
-    "versions": []
-  },
-  "kc-next": {
-    "versions": [
-      "2.3.2"
-    ]
-  },
-  "kecks": {
-    "versions": []
-  },
-  "kelp-acorn-qzw749-project": {
-    "versions": []
-  },
-  "kelp-tulip-bif360-project": {
-    "versions": []
-  },
-  "kenmcmil": {
-    "versions": []
-  },
-  "kenmcmil-slot": {
-    "versions": []
-  },
-  "kestrel_h4008_qgrcu_noir": {
-    "versions": []
-  },
-  "keysmoke": {
-    "versions": []
-  },
-  "keystone_e043u_1jxoj_giraffe": {
-    "versions": []
-  },
-  "keystone_epaf6_9le3i_opal": {
-    "versions": []
-  },
-  "kiatu-bolivia": {
-    "versions": []
-  },
-  "kiki-brengkes54-breki": {
-    "versions": []
-  },
-  "kiki-donat50-kyuki": {
-    "versions": []
-  },
-  "kiki-getuk20-kyuki": {
-    "versions": []
-  },
-  "kiki-keripik58-breki": {
-    "versions": []
-  },
-  "kiki-lapis53-breki": {
-    "versions": []
-  },
-  "kiki-mangut41-breki": {
-    "versions": []
-  },
-  "kiki-ongol-ongol89-kyuki": {
-    "versions": []
-  },
-  "kiki-rawon60-breki": {
-    "versions": []
-  },
-  "kiki-ronde83-kyuki": {
-    "versions": []
-  },
-  "kiki-sate47-kyuki": {
-    "versions": []
-  },
-  "kiki-sego89-kyuki": {
-    "versions": []
-  },
-  "kiki-tahu100-kyuki": {
-    "versions": []
-  },
-  "kiki-ubi51-breki": {
-    "versions": []
-  },
-  "kill-port": {
-    "versions": [
-      "2.0.2",
-      "2.0.3"
-    ]
-  },
-  "kilo-golf-tangerine-djtii": {
-    "versions": []
-  },
-  "kilo-november-banana-ykktm": {
-    "versions": []
-  },
-  "kilo-raspberry-tango-kjtzw": {
-    "versions": []
-  },
-  "kilo-tango-banana-utzzo": {
-    "versions": []
-  },
-  "kilo-yankee-november-itgzi": {
-    "versions": []
-  },
-  "kinetic-xo-tool-polaris": {
-    "versions": []
-  },
-  "kinetix-default-token-list": {
-    "versions": [
-      "1.0.5"
-    ]
-  },
-  "kingasd": {
-    "versions": []
-  },
-  "kinvey-cli-wrapper": {
-    "versions": [
-      "0.3.1"
-    ]
-  },
-  "kinvey-flex-scripts": {
-    "versions": [
-      "0.5.1"
-    ]
-  },
-  "kiota": {
-    "versions": []
-  },
-  "kismet_bhbap_zyo2f_willow": {
-    "versions": []
-  },
-  "kismet_dgs5f_u0r0y_maple": {
-    "versions": []
-  },
-  "kite-quasar-wxh940-project": {
-    "versions": []
-  },
-  "kite-whirlpool-bvb755-project": {
-    "versions": []
-  },
-  "kiwi-apple-lima-dhvdb": {
-    "versions": []
-  },
-  "kiwi-crystal-xla773-project": {
-    "versions": []
-  },
-  "kiwi-honeydew-nectarine-iuoju": {
-    "versions": []
-  },
-  "kiwi-icicle-bun067-project": {
-    "versions": []
-  },
-  "kiwi-sierra-xigua-sdleq": {
-    "versions": []
-  },
-  "kiwi-unicorn-ovp308-project": {
-    "versions": []
-  },
-  "kk8my": {
-    "versions": []
-  },
-  "kk8my2025": {
-    "versions": []
-  },
-  "kk8myr": {
-    "versions": []
-  },
-  "kk8myr2025": {
-    "versions": []
-  },
-  "kkkarem": {
-    "versions": [
-      "4.0.0"
-    ]
-  },
-  "kmf-cookieservice": {
-    "versions": []
-  },
-  "kmz1": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "kns-error-code": {
-    "versions": [
-      "1.0.8"
-    ]
-  },
-  "koa2-swagger-ui": {
-    "versions": [
-      "5.11.1",
-      "5.11.2"
-    ]
-  },
-  "kong-manager": {
-    "versions": []
-  },
-  "korea-administrative-area-geo-json-util": {
-    "versions": [
-      "1.0.7"
-    ]
-  },
-  "kresna-bubur2-breki": {
-    "versions": []
-  },
-  "kresna-getuk20-kyuki": {
-    "versions": []
-  },
-  "kresna-ketoprak12-breki": {
-    "versions": []
-  },
-  "kresna-mie62-kyuki": {
-    "versions": []
-  },
-  "kresna-mieayam25-kyuki": {
-    "versions": []
-  },
-  "kresna-papeda83-breki": {
-    "versions": []
-  },
-  "kresna-semur51-breki": {
-    "versions": []
-  },
-  "kresna-soto77-kyuki": {
-    "versions": []
-  },
-  "kresna-tempe80-kyuki": {
-    "versions": []
-  },
-  "kronos-blitz-event-iota": {
-    "versions": []
-  },
-  "kronos-geochemistry-query-solarnebula": {
-    "versions": []
-  },
-  "kronos-hexo-nodemon-firebase": {
-    "versions": []
-  },
-  "kronos-init-carpo-transform": {
-    "versions": []
-  },
-  "kryptonite_hwt6p_qwc2v_fern": {
-    "versions": []
-  },
-  "kryptonite_kpbw1_peo9r_crown": {
-    "versions": []
-  },
-  "kryptonite_q6jly_he2fj_quartz": {
-    "versions": []
-  },
-  "kryptonite_ulsfy_v5mrf_fireworks": {
-    "versions": []
-  },
-  "kssd-app": {
-    "versions": []
-  },
-  "kssd-vol1-basic": {
-    "versions": []
-  },
-  "kssd-vol2-rev": {
-    "versions": []
-  },
-  "kssd-vol3-sys": {
-    "versions": []
-  },
-  "kssd-vol4-debug-app": {
-    "versions": []
-  },
-  "kssd-vol4-debug-demo": {
-    "versions": []
-  },
-  "kssd-vol4-debug-encry": {
-    "versions": []
-  },
-  "kssd-vol4-debug-serial-erlinglingling-erlinglinger": {
-    "versions": []
-  },
-  "kssd-vol4-debug-serial-erlinglingliu-erlingyiyi": {
-    "versions": []
-  },
-  "kssd-vol4-debug-serial-erlinglingsan-erlinglingwu": {
-    "versions": []
-  },
-  "kssd-vol4-debug-upk": {
-    "versions": []
-  },
-  "kssd-vol5-lang": {
-    "versions": []
-  },
-  "kssd-vol6-prot": {
-    "versions": []
-  },
-  "kssd-vol7-pediy": {
-    "versions": []
-  },
-  "kssd-vol8-prog": {
-    "versions": []
-  },
-  "kssd-vol9-virus": {
-    "versions": []
-  },
-  "kssd-volyier-etc": {
-    "versions": []
-  },
-  "kssd-volyiling-vuln": {
-    "versions": []
-  },
-  "kssd-volyisan-bbs": {
-    "versions": []
-  },
-  "kssd-volyiyi-web-sec": {
-    "versions": []
-  },
-  "kuaciyuan-hulianwang": {
-    "versions": []
-  },
-  "kuaile-xueziwei": {
-    "versions": []
-  },
-  "kubebuilder": {
-    "versions": []
-  },
-  "kubeflow": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "kubernetes-controller-tools": {
-    "versions": []
-  },
-  "kubernetes-helm": {
-    "versions": []
-  },
-  "kuiperbelt-miranda-dotenv-parse-variables-radiant": {
-    "versions": []
-  },
-  "kurnia-buburayam77-breki": {
-    "versions": []
-  },
-  "kurnia-empal64-breki": {
-    "versions": []
-  },
-  "kurnia-gudeg50-kyuki": {
-    "versions": []
-  },
-  "kurnia-jus60-kyuki": {
-    "versions": []
-  },
-  "kurnia-kupat46-kyuki": {
-    "versions": []
-  },
-  "kurnia-menjes67-kyuki": {
-    "versions": []
-  },
-  "kurnia-mieayam59-kyuki": {
-    "versions": []
-  },
-  "kurnia-nasi21-breki": {
-    "versions": []
-  },
-  "kurnia-papeda19-breki": {
-    "versions": []
-  },
-  "kurnia-pisang15-breki": {
-    "versions": []
-  },
-  "kurnia-rujaksoto31-breki": {
-    "versions": []
-  },
-  "kurnia-sambel89-kyuki": {
-    "versions": []
-  },
-  "kurnia-sasag12-kyuki": {
-    "versions": []
-  },
-  "kurnia-sate34-kyuki": {
-    "versions": []
-  },
-  "kurnia-semur2-kyuki": {
-    "versions": []
-  },
-  "kurnia-soto72-breki": {
-    "versions": []
-  },
-  "kurnia-tahu47-kyuki": {
-    "versions": []
-  },
-  "kurnia-tomat80-kyuki": {
-    "versions": []
-  },
-  "kurniawan-bakwan38-breki": {
-    "versions": []
-  },
-  "kurniawan-getuk27-breki": {
-    "versions": []
-  },
-  "kurniawan-gorengan34-kyuki": {
-    "versions": []
-  },
-  "kurniawan-gulai52-breki": {
-    "versions": []
-  },
-  "kurniawan-kemplang89-kyuki": {
-    "versions": []
-  },
-  "kurniawan-ketoprak24-breki": {
-    "versions": []
-  },
-  "kurniawan-klanting66-breki": {
-    "versions": []
-  },
-  "kurniawan-nasipecel57-kyuki": {
-    "versions": []
-  },
-  "kurniawan-nasipecel89-kyuki": {
-    "versions": []
-  },
-  "kurniawan-nasiuduk98-breki": {
-    "versions": []
-  },
-  "kurniawan-ronde89-kyuki": {
-    "versions": []
-  },
-  "kurniawan-sate20-breki": {
-    "versions": []
-  },
-  "kurniawan-sego85-breki": {
-    "versions": []
-  },
-  "kuryaken": {
-    "versions": []
-  },
-  "kwami": {
-    "versions": [
-      "1.5.9",
-      "1.5.10"
-    ]
-  },
-  "kyjnzu": {
-    "versions": [
-      "4.2.3"
-    ]
-  },
-  "labyrinth_abylg_0roo7_opal": {
-    "versions": []
-  },
-  "labyrinth_cuix7_3u1cb_iris": {
-    "versions": []
-  },
-  "labyrinth_nj01m_ioebj_nymph": {
-    "versions": []
-  },
-  "laila-asinan59-breki": {
-    "versions": []
-  },
-  "laila-esdoger69-breki": {
-    "versions": []
-  },
-  "laila-keripik39-breki": {
-    "versions": []
-  },
-  "laila-menjes18-kyuki": {
-    "versions": []
-  },
-  "laila-naget12-breki": {
-    "versions": []
-  },
-  "laila-rujak67-breki": {
-    "versions": []
-  },
-  "laizi-yabolahande-mimi": {
-    "versions": []
-  },
-  "lang-codes": {
-    "versions": [
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "langda-baien-zuopinji": {
-    "versions": []
-  },
-  "lanren-zhuanshuqun-zhoubao-erlingereryiyierling": {
-    "versions": []
-  },
-  "laopu-shizi-erlingyiqilinger-lingwu": {
-    "versions": []
-  },
-  "laopu-shizi-erlingyiqilingjiu-yiyi": {
-    "versions": []
-  },
-  "laopu-shizi-erlingyiqilingliu-lingba": {
-    "versions": []
-  },
-  "laopu-shizi-erlingyiqiyier-erlingyibalinger": {
     "versions": []
   }
 }
