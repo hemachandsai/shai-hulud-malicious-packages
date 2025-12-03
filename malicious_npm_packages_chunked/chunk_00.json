@@ -580,6 +580,9 @@
       "0.5.7"
     ]
   },
+  "@bhyolken/echotest": {
+    "versions": []
+  },
   "@bingads-webui-clientcenter/instrumentation": {
     "versions": []
   },
@@ -11269,9 +11272,6 @@
     "versions": []
   },
   "budi-telur21-sluey": {
-    "versions": []
-  },
-  "budi-tempe28-breki": {
     "versions": []
   }
 }

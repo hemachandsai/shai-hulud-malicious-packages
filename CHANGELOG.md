@@ -1,3 +1,23 @@
+## 2025-12-03 20:05:51 — Added 8 new packages, updated 3 versions
+
+### 🆕 New Packages (8)
+- @bhyolken/echotest
+- elf-stats-candystriped-ornament-933
+- elf-stats-jolly-workshop-110
+- elf-stats-merry-cookiejar-139
+- elf-stats-snowdusted-stockpile-595
+- elf-stats-snowy-northstar-860
+- elf-stats-sugarplum-ribbon-151
+- elf-stats-tinsel-candy-605
+
+### 🔄 Updated Versions (3)
+| Package | Version | Type |
+|---------|---------|-------|
+| elf-stats-silvered-star-676 | 1.0.1 | new-version |
+| elf-stats-snowdusted-lantern-234 | 1.0.5 | new-version |
+| elf-stats-snowdusted-lantern-234 | 1.0.6 | new-version |
+
+
 ## 2025-12-03 19:35:31 — Added 11 new packages, updated 0 versions
 
 ### 🆕 New Packages (11)

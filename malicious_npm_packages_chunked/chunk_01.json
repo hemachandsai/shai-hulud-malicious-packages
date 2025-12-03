@@ -1,4 +1,7 @@
 {
+  "budi-tempe28-breki": {
+    "versions": []
+  },
   "budi-tempe42-sluey": {
     "versions": []
   },
@@ -5763,6 +5766,11 @@
       "1.0.1"
     ]
   },
+  "elf-stats-candystriped-ornament-933": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-candystriped-saddlebag-217": {
     "versions": [
       "1.0.2",
@@ -6276,6 +6284,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-jolly-workshop-110": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-joyous-fireplace-187": {
     "versions": [
       "1.0.0"
@@ -6429,6 +6442,11 @@
   "elf-stats-merry-chimney-765": {
     "versions": [
       "9.9.9"
+    ]
+  },
+  "elf-stats-merry-cookiejar-139": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-merry-cookiejar-442": {
@@ -6868,7 +6886,8 @@
   },
   "elf-stats-silvered-star-676": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "elf-stats-silvered-stocking-120": {
@@ -6946,7 +6965,9 @@
   "elf-stats-snowdusted-lantern-234": {
     "versions": [
       "1.0.2",
-      "1.0.4"
+      "1.0.4",
+      "1.0.5",
+      "1.0.6"
     ]
   },
   "elf-stats-snowdusted-saddlebag-790": {
@@ -6962,6 +6983,11 @@
       "2.5.2",
       "2.7.2",
       "2.8.2"
+    ]
+  },
+  "elf-stats-snowdusted-stockpile-595": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-snowdusted-train-837": {
@@ -6988,6 +7014,11 @@
     ]
   },
   "elf-stats-snowy-cookiejar-589": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-snowy-northstar-860": {
     "versions": [
       "1.0.0"
     ]
@@ -7226,6 +7257,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-sugarplum-ribbon-151": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-sugarplum-saddlebag-236": {
     "versions": [
       "1.0.0"
@@ -7244,6 +7280,11 @@
     ]
   },
   "elf-stats-sugarplum-workshop-950": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-tinsel-candy-605": {
     "versions": [
       "1.0.0"
     ]
@@ -11247,39 +11288,6 @@
     ]
   },
   "hollow-iceberg-uif020-project": {
-    "versions": []
-  },
-  "holography-australis-pavo-magnetar": {
-    "versions": []
-  },
-  "holography-karma-plutology-cryonics": {
-    "versions": []
-  },
-  "holography-ursa-restart-jupiter": {
-    "versions": []
-  },
-  "honey-unicorn-kso579-project": {
-    "versions": []
-  },
-  "honeydew-alpha-raspberry-pgmdr": {
-    "versions": []
-  },
-  "honeydew-echo-raspberry-liuag": {
-    "versions": []
-  },
-  "honeydew-elderberry-vanilla-wjwxg": {
-    "versions": []
-  },
-  "honeydew-strawberry-elderberry-hvlik": {
-    "versions": []
-  },
-  "honeydew-strawberry-uniform-wgptz": {
-    "versions": []
-  },
-  "honeydew-ugli-zulu-bzgbp": {
-    "versions": []
-  },
-  "honeydew-uniform-india-molfp": {
     "versions": []
   }
 }
