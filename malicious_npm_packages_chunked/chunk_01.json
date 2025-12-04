@@ -6609,7 +6609,9 @@
   "elf-stats-mulled-stocking-538": {
     "versions": [
       "1.0.0",
-      "1.0.1"
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
     ]
   },
   "elf-stats-mulled-stockpile-411": {
@@ -11288,9 +11290,6 @@
     "versions": []
   },
   "hendra-toge22-kyuki": {
-    "versions": []
-  },
-  "hendra-tumis47-breki": {
     "versions": []
   }
 }
