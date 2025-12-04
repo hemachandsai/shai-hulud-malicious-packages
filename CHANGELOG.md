@@ -1,3 +1,14 @@
+## 2025-12-04 07:37:17 — Added 0 new packages, updated 1 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (1)
+| Package | Version | Type |
+|---------|---------|-------|
+| remark-parse10 | 10.0.0 | new-version |
+
+
 ## 2025-12-03 21:05:28 — Added 0 new packages, updated 1 versions
 
 ### 🆕 New Packages (0)
