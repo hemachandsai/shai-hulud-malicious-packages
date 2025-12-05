@@ -1,4 +1,7 @@
 {
+  "budi-telur11-ruro": {
+    "versions": []
+  },
   "budi-telur21-sluey": {
     "versions": []
   },
@@ -5728,6 +5731,11 @@
       "1.0.1"
     ]
   },
+  "elf-stats-aurora-mailbag-938": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-aurora-toy-659": {
     "versions": [
       "99.9.10",
@@ -5772,6 +5780,11 @@
       "1.0.2"
     ]
   },
+  "elf-stats-candlelit-hollyberry-248": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-candlelit-marshmallow-663": {
     "versions": []
   },
@@ -5800,6 +5813,12 @@
   "elf-stats-candystriped-chimney-879": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "elf-stats-candystriped-garland-735": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "elf-stats-candystriped-hollyberry-986": {
@@ -5922,6 +5941,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-cosy-sled-550": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-cosy-sleigh-356": {
     "versions": [
       "99.0.0",
@@ -5930,6 +5954,11 @@
   },
   "elf-stats-cosy-stockpile-694": {
     "versions": []
+  },
+  "elf-stats-cosy-toy-308": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elf-stats-cosy-wishlist-811": {
     "versions": [
@@ -5950,6 +5979,12 @@
     "versions": [
       "1.0.0",
       "1.1.0"
+    ]
+  },
+  "elf-stats-cranberry-pinecone-878": {
+    "versions": [
+      "1.0.50",
+      "2.0.0"
     ]
   },
   "elf-stats-cranberry-sleigh-853": {
@@ -6032,6 +6067,12 @@
       "99.0.0"
     ]
   },
+  "elf-stats-evergreen-satchel-264": {
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
+  },
   "elf-stats-evergreen-sled-681": {
     "versions": [
       "1.0.1",
@@ -6069,7 +6110,13 @@
   },
   "elf-stats-festive-sparkler-275": {
     "versions": [
-      "2.0.1"
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2"
     ]
   },
   "elf-stats-festive-train-714": {
@@ -6099,6 +6146,11 @@
     "versions": [
       "1.0.0",
       "1.0.1"
+    ]
+  },
+  "elf-stats-flickering-lantern-502": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-flickering-ornament-344": {
@@ -6448,6 +6500,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-lanternlit-saddlebag-279": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-lanternlit-sled-571": {
     "versions": [
       "9998.0.1",
@@ -6603,6 +6660,12 @@
       "1.0.0"
     ]
   },
+  "elf-stats-midnight-rocket-813": {
+    "versions": [
+      "2.0.0",
+      "2.1.0"
+    ]
+  },
   "elf-stats-midnight-saddlebag-720": {
     "versions": [
       "1.0.0"
@@ -6675,6 +6738,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-mulled-snowglobe-636": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
   "elf-stats-mulled-stocking-538": {
     "versions": [
       "1.0.0",
@@ -6696,6 +6764,11 @@
   "elf-stats-northbound-candy-916": {
     "versions": []
   },
+  "elf-stats-northbound-drum-422": {
+    "versions": [
+      "99.1.0"
+    ]
+  },
   "elf-stats-northbound-garland-782": {
     "versions": [
       "1.0.0"
@@ -6711,6 +6784,7 @@
   },
   "elf-stats-northbound-sparkler-410": {
     "versions": [
+      "2.0.0",
       "3.0.0"
     ]
   },
@@ -6899,6 +6973,11 @@
       "99.0.14"
     ]
   },
+  "elf-stats-shimmering-garland-476": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "elf-stats-shimmering-icicle-212": {
     "versions": [
       "1.0.0"
@@ -6937,6 +7016,13 @@
   "elf-stats-shimmering-pinecone-965": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-shimmering-toolkit-483": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "elf-stats-shimmering-workbench-301": {
@@ -7046,6 +7132,11 @@
   "elf-stats-snowdusted-bauble-104": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-snowdusted-chimney-406": {
+    "versions": [
+      "1.1.0"
     ]
   },
   "elf-stats-snowdusted-cocoa-694": {
@@ -7211,7 +7302,17 @@
   "elf-stats-sparkly-hammer-880": {
     "versions": []
   },
+  "elf-stats-sparkly-icicle-845": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-sparkly-snowflake-139": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sparkly-workbench-689": {
     "versions": [
       "1.0.0"
     ]
@@ -7422,6 +7523,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-tinsel-muffin-395": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-tinsel-pantry-856": {
     "versions": [
       "1.0.0"
@@ -7500,6 +7606,11 @@
       "1.0.4"
     ]
   },
+  "elf-stats-velvet-train-152": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-whimsical-chimney-949": {
     "versions": [
       "1.0.0"
@@ -7528,6 +7639,11 @@
     ]
   },
   "elf-stats-whimsical-muffin-613": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-whimsical-pantry-974": {
     "versions": [
       "1.0.0"
     ]
@@ -11200,104 +11316,5 @@
     "versions": [
       "9.0.0"
     ]
-  },
-  "haufe-axera-api-client": {
-    "versions": [
-      "0.0.1",
-      "0.0.2"
-    ]
-  },
-  "hawkingradiation-karma-cosmicsilence-yakutsk": {
-    "versions": []
-  },
-  "healthbot-container": {
-    "versions": []
-  },
-  "heart-replace-whistle": {
-    "versions": []
-  },
-  "heartstone-nft-collcetion957": {
-    "versions": []
-  },
-  "heartstone-nft-collcetion992": {
-    "versions": []
-  },
-  "hedgehog-waterfall-vsl162-project": {
-    "versions": []
-  },
-  "heidong-xiyin": {
-    "versions": []
-  },
-  "heike-cidian-zhongwenban": {
-    "versions": []
-  },
-  "heike-jiaoben-quanben": {
-    "versions": []
-  },
-  "heike-riji-jingzhuangban": {
-    "versions": []
-  },
-  "heike-shegong-dangandai": {
-    "versions": []
-  },
-  "heike-shegong-dangandai2": {
-    "versions": []
-  },
-  "heike-shentou-biji": {
-    "versions": []
-  },
-  "heike-shuyu-tuwen-cidian": {
-    "versions": []
-  },
-  "heike-yuying-shouce": {
-    "versions": []
-  },
-  "heike-zhuliu-gongji-daquan": {
-    "versions": []
-  },
-  "heix-erlinglinger-part1": {
-    "versions": []
-  },
-  "heix-erlinglinger-part2": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part1": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part2": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part3": {
-    "versions": []
-  },
-  "heix-erlinglingliu-part4": {
-    "versions": []
-  },
-  "heix-erlinglingqi-part1": {
-    "versions": []
-  },
-  "heix-erlinglingqi-part2": {
-    "versions": []
-  },
-  "heix-erlinglingqi-part3": {
-    "versions": []
-  },
-  "heix-erlinglingqi-part4": {
-    "versions": []
-  },
-  "heix-erlinglingsan-part3": {
-    "versions": []
-  },
-  "heix-erlinglingsan-part4": {
-    "versions": []
-  },
-  "heix-erlinglingsan-part5": {
-    "versions": []
-  },
-  "heix-erlinglingsan-part6": {
-    "versions": []
-  },
-  "heix-erlinglingwu-part1": {
-    "versions": []
   }
 }

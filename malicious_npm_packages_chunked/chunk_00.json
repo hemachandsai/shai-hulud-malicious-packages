@@ -5659,6 +5659,7 @@
     "versions": [
       "1.0.4",
       "1.0.5",
+      "1.0.6",
       "1.0.7"
     ]
   },
@@ -8445,6 +8446,9 @@
     "versions": []
   },
   "altair-paleoclimatology-wavefunction-library": {
+    "versions": []
+  },
+  "ambient-map": {
     "versions": []
   },
   "analyzer-importer": {
@@ -11272,9 +11276,6 @@
     "versions": []
   },
   "budi-tek99-miaww": {
-    "versions": []
-  },
-  "budi-telur11-ruro": {
     "versions": []
   }
 }
