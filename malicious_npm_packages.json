@@ -10221,6 +10221,9 @@
   "bee-easier-term": {
     "versions": []
   },
+  "beep-types": {
+    "versions": []
+  },
   "bella-asinan83-sluey": {
     "versions": []
   },
@@ -12084,6 +12087,9 @@
   "cg-scratch-zh": {
     "versions": []
   },
+  "chai-as-deployed": {
+    "versions": []
+  },
   "chai-as-sorted": {
     "versions": []
   },
@@ -12123,6 +12129,9 @@
       "2.3.2"
     ]
   },
+  "chai-promised-chain": {
+    "versions": []
+  },
   "chai-proxify": {
     "versions": []
   },
@@ -12136,6 +12145,9 @@
     ]
   },
   "chai-test-async": {
+    "versions": []
+  },
+  "chai-test-await": {
     "versions": []
   },
   "chai-type": {
@@ -16250,6 +16262,9 @@
   "dorado-galaxy-graviton-archaeometry": {
     "versions": []
   },
+  "dotenv-intend": {
+    "versions": []
+  },
   "dotenv-jasmine-cosmicweb-stream": {
     "versions": []
   },
@@ -16302,6 +16317,9 @@
       "0.0.3",
       "0.0.4"
     ]
+  },
+  "dotnetenv": {
+    "versions": []
   },
   "dounvrenxiao": {
     "versions": []
@@ -16988,6 +17006,13 @@
       "1.0.1"
     ]
   },
+  "elf-stats-aurora-toy-659": {
+    "versions": [
+      "99.9.10",
+      "99.9.11",
+      "99.9.12"
+    ]
+  },
   "elf-stats-aurora-workbench-513": {
     "versions": [
       "999.0.0"
@@ -17002,6 +17027,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "elf-stats-bright-cocoa-293": {
+    "versions": []
   },
   "elf-stats-bright-cushion-246": {
     "versions": [
@@ -17021,6 +17049,9 @@
       "1.0.1",
       "1.0.2"
     ]
+  },
+  "elf-stats-candlelit-marshmallow-663": {
+    "versions": []
   },
   "elf-stats-candlelit-reindeer-881": {
     "versions": [
@@ -17314,6 +17345,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-festive-sparkler-275": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "elf-stats-festive-train-714": {
     "versions": [
       "1.0.0"
@@ -17369,6 +17405,11 @@
     ]
   },
   "elf-stats-frostbitten-drum-529": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frostbitten-pantry-235": {
     "versions": [
       "1.0.0"
     ]
@@ -17493,6 +17534,11 @@
     ]
   },
   "elf-stats-ginger-workshop-948": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-ginger-wreath-646": {
     "versions": [
       "1.0.0"
     ]
@@ -17667,6 +17713,9 @@
       "1.0.0"
     ]
   },
+  "elf-stats-jubilant-ornament-641": {
+    "versions": []
+  },
   "elf-stats-lanternlit-fir-106": {
     "versions": [
       "2.0.0"
@@ -17683,6 +17732,9 @@
       "9999.0.2"
     ]
   },
+  "elf-stats-lanternlit-snowman-834": {
+    "versions": []
+  },
   "elf-stats-magical-sleigh-777": {
     "versions": [
       "1.0.0",
@@ -17697,6 +17749,9 @@
       "1.0.9",
       "1.1.0"
     ]
+  },
+  "elf-stats-marzipan-cocoa-562": {
+    "versions": []
   },
   "elf-stats-marzipan-cookiejar-316": {
     "versions": [
@@ -17890,6 +17945,9 @@
       "1.0.1"
     ]
   },
+  "elf-stats-mulled-ornament-810": {
+    "versions": []
+  },
   "elf-stats-mulled-rocket-415": {
     "versions": [
       "1.0.0"
@@ -17928,6 +17986,11 @@
   },
   "elf-stats-northbound-ledger-135": {
     "versions": []
+  },
+  "elf-stats-northbound-sparkler-410": {
+    "versions": [
+      "3.0.0"
+    ]
   },
   "elf-stats-northbound-star-801": {
     "versions": [
@@ -18642,6 +18705,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-tinsel-sparkler-289": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-tinsel-train-397": {
     "versions": [
       "1.0.0"
@@ -18666,6 +18734,11 @@
   "elf-stats-twinkling-reindeer-382": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-ribbon-344": {
+    "versions": [
+      "2.1.1"
     ]
   },
   "elf-stats-twinkling-sled-276": {
@@ -18807,6 +18880,12 @@
     "versions": [
       "1.1.1"
     ]
+  },
+  "email-regexed": {
+    "versions": []
+  },
+  "email-validated": {
+    "versions": []
   },
   "ember_1r0ce_nstrp_aroma": {
     "versions": []
@@ -23575,6 +23654,9 @@
   "json-aquarius-exoplanetology-semantic-release": {
     "versions": []
   },
+  "json-map-source": {
+    "versions": []
+  },
   "json-rules-engine-simplified": {
     "versions": [
       "0.2.1",
@@ -23588,6 +23670,9 @@
       "11.0.0",
       "12.0.0"
     ]
+  },
+  "jsonify-settings": {
+    "versions": []
   },
   "jsonjoy.com": {
     "versions": [
@@ -25932,6 +26017,9 @@
       "1.0.1"
     ]
   },
+  "module-listener": {
+    "versions": []
+  },
   "module-tow": {
     "versions": []
   },
@@ -26771,6 +26859,9 @@
   "node-config-wolf-enif-eslint": {
     "versions": []
   },
+  "node-dpapi1": {
+    "versions": []
+  },
   "node-fetch-v3": {
     "versions": []
   },
@@ -26809,6 +26900,9 @@
     "versions": []
   },
   "node-sass-supercluster-izar-apollo": {
+    "versions": []
+  },
+  "node-tailwind": {
     "versions": []
   },
   "node-winston": {
@@ -28683,6 +28777,9 @@
   "react-icon-pkg": {
     "versions": []
   },
+  "react-icon-updater": {
+    "versions": []
+  },
   "react-icons-toolkit": {
     "versions": []
   },
@@ -28882,10 +28979,19 @@
       "1.0.5"
     ]
   },
+  "react-svg-bundler": {
+    "versions": []
+  },
+  "react-svg-fill": {
+    "versions": []
+  },
   "react-svg-helper": {
     "versions": []
   },
   "react-svg-module": {
+    "versions": []
+  },
+  "react-svg-supporter": {
     "versions": []
   },
   "react-svgs-helper": {
@@ -29797,6 +29903,9 @@
   "sedna-vuetify-zooarchaeology-nightwatch": {
     "versions": []
   },
+  "seeds-random": {
+    "versions": []
+  },
   "seikon": {
     "versions": []
   },
@@ -29827,6 +29936,11 @@
   },
   "selenology-protractor-metabolomics-bionics": {
     "versions": []
+  },
+  "self-service-portal-prod": {
+    "versions": [
+      "5.0.0"
+    ]
   },
   "semantic-release-aether-quantum-elara": {
     "versions": []
@@ -30921,6 +31035,12 @@
   "tailwindcss-animate-ui": {
     "versions": []
   },
+  "tailwindcss-animation-css": {
+    "versions": []
+  },
+  "tailwindcss-animation-helper": {
+    "versions": []
+  },
   "tailwindcss-animation-ux": {
     "versions": []
   },
@@ -30948,6 +31068,9 @@
     "versions": []
   },
   "tailwindcss-setflex": {
+    "versions": []
+  },
+  "tailwindcss-setfont": {
     "versions": []
   },
   "tailwindcss-setgrid": {

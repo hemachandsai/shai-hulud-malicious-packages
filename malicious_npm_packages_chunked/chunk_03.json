@@ -1,4 +1,134 @@
 {
+  "vera-serabi34-sukiwir": {
+    "versions": []
+  },
+  "vera-soto50-sukiwir": {
+    "versions": []
+  },
+  "vera-soto58-riris": {
+    "versions": []
+  },
+  "vera-tahu100-sluey": {
+    "versions": []
+  },
+  "vera-telur1-breki": {
+    "versions": []
+  },
+  "vera-tempe36-riris": {
+    "versions": []
+  },
+  "vera-toge82-breki": {
+    "versions": []
+  },
+  "vera-tomat52-sukiwir": {
+    "versions": []
+  },
+  "verror-extra": {
+    "versions": [
+      "6.0.1"
+    ]
+  },
+  "version-dependencies-link-cressida": {
+    "versions": []
+  },
+  "version-fusion-forever-paleomagnetism": {
+    "versions": []
+  },
+  "vessel": {
+    "versions": []
+  },
+  "vf-oss-template": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "viam": {
+    "versions": []
+  },
+  "victoria-wallet-constants": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-core": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-type": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-utils": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-validator": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoriaxoaquyet-wallet-core": {
+    "versions": [
+      "0.2.1",
+      "0.2.2"
+    ]
+  },
+  "vida-brongkos8-riris": {
+    "versions": []
+  },
+  "vida-buburayam62-breki": {
+    "versions": []
+  },
+  "vida-buburayam92-breki": {
+    "versions": []
+  },
+  "vida-donat12-breki": {
+    "versions": []
+  },
+  "vida-dradag16-ruro": {
+    "versions": []
+  },
+  "vida-empal2-sukiwir": {
+    "versions": []
+  },
+  "vida-empal40-kyuki": {
+    "versions": []
+  },
+  "vida-empal57-sluey": {
+    "versions": []
+  },
+  "vida-empal88-sukiwir": {
+    "versions": []
+  },
+  "vida-enting22-riris": {
+    "versions": []
+  },
+  "vida-enting38-ruro": {
+    "versions": []
+  },
+  "vida-esdoger11-riris": {
+    "versions": []
+  },
+  "vida-esdoger69-kyuki": {
+    "versions": []
+  },
+  "vida-gandul3-breki": {
+    "versions": []
+  },
+  "vida-ikan73-breki": {
+    "versions": []
+  },
   "vida-jengkol79-sumpek": {
     "versions": []
   },

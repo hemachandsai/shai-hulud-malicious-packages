@@ -1,4 +1,7 @@
 {
+  "budi-telur21-sluey": {
+    "versions": []
+  },
   "budi-tempe28-breki": {
     "versions": []
   },
@@ -806,6 +809,9 @@
   "cg-scratch-zh": {
     "versions": []
   },
+  "chai-as-deployed": {
+    "versions": []
+  },
   "chai-as-sorted": {
     "versions": []
   },
@@ -845,6 +851,9 @@
       "2.3.2"
     ]
   },
+  "chai-promised-chain": {
+    "versions": []
+  },
   "chai-proxify": {
     "versions": []
   },
@@ -858,6 +867,9 @@
     ]
   },
   "chai-test-async": {
+    "versions": []
+  },
+  "chai-test-await": {
     "versions": []
   },
   "chai-type": {
@@ -4972,6 +4984,9 @@
   "dorado-galaxy-graviton-archaeometry": {
     "versions": []
   },
+  "dotenv-intend": {
+    "versions": []
+  },
   "dotenv-jasmine-cosmicweb-stream": {
     "versions": []
   },
@@ -5024,6 +5039,9 @@
       "0.0.3",
       "0.0.4"
     ]
+  },
+  "dotnetenv": {
+    "versions": []
   },
   "dounvrenxiao": {
     "versions": []
@@ -5710,6 +5728,13 @@
       "1.0.1"
     ]
   },
+  "elf-stats-aurora-toy-659": {
+    "versions": [
+      "99.9.10",
+      "99.9.11",
+      "99.9.12"
+    ]
+  },
   "elf-stats-aurora-workbench-513": {
     "versions": [
       "999.0.0"
@@ -5724,6 +5749,9 @@
     "versions": [
       "1.0.0"
     ]
+  },
+  "elf-stats-bright-cocoa-293": {
+    "versions": []
   },
   "elf-stats-bright-cushion-246": {
     "versions": [
@@ -5743,6 +5771,9 @@
       "1.0.1",
       "1.0.2"
     ]
+  },
+  "elf-stats-candlelit-marshmallow-663": {
+    "versions": []
   },
   "elf-stats-candlelit-reindeer-881": {
     "versions": [
@@ -6036,6 +6067,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-festive-sparkler-275": {
+    "versions": [
+      "2.0.1"
+    ]
+  },
   "elf-stats-festive-train-714": {
     "versions": [
       "1.0.0"
@@ -6091,6 +6127,11 @@
     ]
   },
   "elf-stats-frostbitten-drum-529": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-frostbitten-pantry-235": {
     "versions": [
       "1.0.0"
     ]
@@ -6215,6 +6256,11 @@
     ]
   },
   "elf-stats-ginger-workshop-948": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-ginger-wreath-646": {
     "versions": [
       "1.0.0"
     ]
@@ -6389,6 +6435,9 @@
       "1.0.0"
     ]
   },
+  "elf-stats-jubilant-ornament-641": {
+    "versions": []
+  },
   "elf-stats-lanternlit-fir-106": {
     "versions": [
       "2.0.0"
@@ -6405,6 +6454,9 @@
       "9999.0.2"
     ]
   },
+  "elf-stats-lanternlit-snowman-834": {
+    "versions": []
+  },
   "elf-stats-magical-sleigh-777": {
     "versions": [
       "1.0.0",
@@ -6419,6 +6471,9 @@
       "1.0.9",
       "1.1.0"
     ]
+  },
+  "elf-stats-marzipan-cocoa-562": {
+    "versions": []
   },
   "elf-stats-marzipan-cookiejar-316": {
     "versions": [
@@ -6612,6 +6667,9 @@
       "1.0.1"
     ]
   },
+  "elf-stats-mulled-ornament-810": {
+    "versions": []
+  },
   "elf-stats-mulled-rocket-415": {
     "versions": [
       "1.0.0"
@@ -6650,6 +6708,11 @@
   },
   "elf-stats-northbound-ledger-135": {
     "versions": []
+  },
+  "elf-stats-northbound-sparkler-410": {
+    "versions": [
+      "3.0.0"
+    ]
   },
   "elf-stats-northbound-star-801": {
     "versions": [
@@ -7364,6 +7427,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-tinsel-sparkler-289": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-tinsel-train-397": {
     "versions": [
       "1.0.0"
@@ -7388,6 +7456,11 @@
   "elf-stats-twinkling-reindeer-382": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "elf-stats-twinkling-ribbon-344": {
+    "versions": [
+      "2.1.1"
     ]
   },
   "elf-stats-twinkling-sled-276": {
@@ -7529,6 +7602,12 @@
     "versions": [
       "1.1.1"
     ]
+  },
+  "email-regexed": {
+    "versions": []
+  },
+  "email-validated": {
+    "versions": []
   },
   "ember_1r0ce_nstrp_aroma": {
     "versions": []
@@ -11219,79 +11298,6 @@
     "versions": []
   },
   "heix-erlinglingwu-part1": {
-    "versions": []
-  },
-  "heix-erlinglingwu-part2": {
-    "versions": []
-  },
-  "heix-erlinglingwu-part3": {
-    "versions": []
-  },
-  "heix-erlinglingwu-part4": {
-    "versions": []
-  },
-  "heix-erlingyiyi-part4": {
-    "versions": []
-  },
-  "heix-heike-rumen": {
-    "versions": []
-  },
-  "heka-hercules-react-bootstrap-darkenergy": {
-    "versions": []
-  },
-  "heliophysics-comet-rollup-plugin-commitlint-config-angular": {
-    "versions": []
-  },
-  "heliophysics-cosmochemistry-xenobiology-gravitationalwave": {
-    "versions": []
-  },
-  "heliophysics-sedimentology-paleoclimatology-css-minimizer-webpack-plugin": {
-    "versions": []
-  },
-  "helios-magellan-server-helmet": {
-    "versions": []
-  },
-  "hello-arc": {
-    "versions": [
-      "10.0.1"
-    ]
-  },
-  "hello-arc-windows": {
-    "versions": []
-  },
-  "hello-shai": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "hellospa": {
-    "versions": [
-      "95.999.0",
-      "96.999.0"
-    ]
-  },
-  "helmet-antares-meissa-koa": {
-    "versions": []
-  },
-  "hemi-tunnel-actions": {
-    "versions": []
-  },
-  "hemi-viem-stake-actions": {
-    "versions": []
-  },
-  "hendra-donat44-kyuki": {
-    "versions": []
-  },
-  "hendra-kue62-breki": {
-    "versions": []
-  },
-  "hendra-miebogor42-kyuki": {
-    "versions": []
-  },
-  "hendra-miemee66-breki": {
-    "versions": []
-  },
-  "hendra-pecel30-kyuki": {
     "versions": []
   }
 }
