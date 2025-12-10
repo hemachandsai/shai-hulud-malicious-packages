@@ -655,6 +655,13 @@
   "@chatgptclaudeclub/claude-code": {
     "versions": []
   },
+  "@cheqplease/structured-logger": {
+    "versions": [
+      "2.2.3",
+      "2.2.5",
+      "9.3.2"
+    ]
+  },
   "@chtijs/eslint-config": {
     "versions": [
       "1.0.1"
@@ -3375,6 +3382,9 @@
       "0.1.3"
     ]
   },
+  "@notrainers/nobtrainer-sdk": {
+    "versions": []
+  },
   "@nstudio/angular": {
     "versions": [
       "20.0.4",
@@ -3663,6 +3673,9 @@
     "versions": [
       "0.6.2"
     ]
+  },
+  "@onlytoodles/crypto-jsa": {
+    "versions": []
   },
   "@opentermsarchive/engine": {
     "versions": [
@@ -8418,6 +8431,9 @@
   "aligntrue": {
     "versions": []
   },
+  "allow-deny": {
+    "versions": []
+  },
   "alpha-juliet-orange-mndgx": {
     "versions": []
   },
@@ -9426,6 +9442,12 @@
   },
   "baguwen-wiki": {
     "versions": []
+  },
+  "baidu-oscp": {
+    "versions": [
+      "19.9.30",
+      "19.9.31"
+    ]
   },
   "baidu-src-test": {
     "versions": [
@@ -11255,27 +11277,6 @@
     "versions": []
   },
   "budi-takokak34-sluey": {
-    "versions": []
-  },
-  "budi-tapai29-breki": {
-    "versions": []
-  },
-  "budi-tapai70-breki": {
-    "versions": []
-  },
-  "budi-teh45-sluey": {
-    "versions": []
-  },
-  "budi-tek45-breki": {
-    "versions": []
-  },
-  "budi-tek6-sluey": {
-    "versions": []
-  },
-  "budi-tek69-sluey": {
-    "versions": []
-  },
-  "budi-tek99-miaww": {
     "versions": []
   }
 }

@@ -1,4 +1,25 @@
 {
+  "budi-tapai29-breki": {
+    "versions": []
+  },
+  "budi-tapai70-breki": {
+    "versions": []
+  },
+  "budi-teh45-sluey": {
+    "versions": []
+  },
+  "budi-tek45-breki": {
+    "versions": []
+  },
+  "budi-tek6-sluey": {
+    "versions": []
+  },
+  "budi-tek69-sluey": {
+    "versions": []
+  },
+  "budi-tek99-miaww": {
+    "versions": []
+  },
   "budi-telur11-ruro": {
     "versions": []
   },
@@ -126,6 +147,9 @@
     ]
   },
   "callback-cybernetics-readable-eridanus": {
+    "versions": []
+  },
+  "callback-hook": {
     "versions": []
   },
   "callback-scorpius-planetology-wavefunction": {
@@ -876,6 +900,9 @@
     "versions": []
   },
   "chai-type": {
+    "versions": []
+  },
+  "chai-uuids": {
     "versions": []
   },
   "chai-version-asthenosphere-fermion": {
@@ -2494,6 +2521,14 @@
   "configstore-oberon-proxima-duplex": {
     "versions": []
   },
+  "configurator-framework": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "confluent-kafka": {
+    "versions": []
+  },
   "congress-lady-short": {
     "versions": []
   },
@@ -2893,6 +2928,20 @@
   "data-xabit": {
     "versions": []
   },
+  "database-mongoose-kit": {
+    "versions": []
+  },
+  "datadog-checks-base": {
+    "versions": [
+      "50.0.0"
+    ]
+  },
+  "datadog-checks-dependency-provider": {
+    "versions": []
+  },
+  "datadog-checks-downloader": {
+    "versions": []
+  },
   "dataset-view": {
     "versions": []
   },
@@ -2924,6 +2973,9 @@
     ]
   },
   "ddos-l7": {
+    "versions": []
+  },
+  "ddp-common": {
     "versions": []
   },
   "de-sxm-reactlib": {
@@ -5180,6 +5232,9 @@
   "eclipse-sublimation-epigenetics-middleware": {
     "versions": []
   },
+  "ecmascript-runtime-client": {
+    "versions": []
+  },
   "ect-472839": {
     "versions": []
   },
@@ -5868,6 +5923,11 @@
   "elf-stats-caroling-toy-109": {
     "versions": [
       "99.0.1"
+    ]
+  },
+  "elf-stats-caroling-wishlist-626": {
+    "versions": [
+      "2.0.1"
     ]
   },
   "elf-stats-cheery-bell-343": {
@@ -7144,6 +7204,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-snowdusted-cookiejar-250": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "elf-stats-snowdusted-drum-647": {
     "versions": [
       "1.0.1"
@@ -7782,6 +7847,11 @@
   },
   "enceladus-altair-dependencies-eventhoriz": {
     "versions": []
+  },
+  "enclose-eslint": {
+    "versions": [
+      "99.99.2"
+    ]
   },
   "encounter-playground": {
     "versions": [
@@ -8855,6 +8925,11 @@
   "express-document-sdk": {
     "versions": []
   },
+  "express-my-error-handler": {
+    "versions": [
+      "10.0.0"
+    ]
+  },
   "express-prisma": {
     "versions": []
   },
@@ -8878,6 +8953,9 @@
     "versions": []
   },
   "fachaibiz2025": {
+    "versions": []
+  },
+  "facts-base": {
     "versions": []
   },
   "fadhil-asinan2-ruro": {
@@ -9333,6 +9411,9 @@
   "farout-adonis-tool-soap": {
     "versions": []
   },
+  "fastavro": {
+    "versions": []
+  },
   "fastxmlexploit": {
     "versions": []
   },
@@ -9585,6 +9666,26 @@
   "fbjs-opensource": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "fdir1": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "fdir2": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "fdir4": {
+    "versions": [
+      "99.99.2"
+    ]
+  },
+  "fdir5": {
+    "versions": [
+      "99.99.2"
     ]
   },
   "feature-flip": {
@@ -11068,6 +11169,13 @@
   "grus-lacerta-mysql-nebula": {
     "versions": []
   },
+  "gs-uitk-lodash": {
+    "versions": [
+      "35.3.3",
+      "35.9.9",
+      "36.0.0"
+    ]
+  },
   "guanli-junhuoku": {
     "versions": []
   },
@@ -11225,96 +11333,5 @@
   },
   "hanafi-enting91-breki": {
     "versions": []
-  },
-  "hanafi-kacang72-breki": {
-    "versions": []
-  },
-  "hanafi-kue58-kyuki": {
-    "versions": []
-  },
-  "hanafi-lengko74-kyuki": {
-    "versions": []
-  },
-  "hanafi-lupis29-kyuki": {
-    "versions": []
-  },
-  "hanafi-martabak17-breki": {
-    "versions": []
-  },
-  "hanafi-mendoan59-breki": {
-    "versions": []
-  },
-  "hanafi-mieayam9-breki": {
-    "versions": []
-  },
-  "hanafi-nasicampur87-kyuki": {
-    "versions": []
-  },
-  "hanafi-nasipecel31-kyuki": {
-    "versions": []
-  },
-  "hanafi-teh22-breki": {
-    "versions": []
-  },
-  "hanafi-telur23-breki": {
-    "versions": []
-  },
-  "hanafi-telur25-kyuki": {
-    "versions": []
-  },
-  "hanafi-tongseng64-breki": {
-    "versions": []
-  },
-  "hanafi-ubi90-kyuki": {
-    "versions": []
-  },
-  "hand-earn-nation": {
-    "versions": []
-  },
-  "handle-entire-bow": {
-    "versions": []
-  },
-  "handle-pattern-east": {
-    "versions": []
-  },
-  "handtalk-test-app": {
-    "versions": []
-  },
-  "hang-announced-customs": {
-    "versions": []
-  },
-  "hapi-mocha-geochemistry-thermosphere": {
-    "versions": []
-  },
-  "hapi-terser-webpack-plugin-cz-conventional-changelog-despina": {
-    "versions": []
-  },
-  "harbor-fjord-wkz821-project": {
-    "versions": []
-  },
-  "harmonic_ivoa4_q26er_tundra": {
-    "versions": []
-  },
-  "harmonic_np1hi_vafs1_atlas": {
-    "versions": []
-  },
-  "harmony_ku8yn_h56k2_topaz": {
-    "versions": []
-  },
-  "harmony_tfhgo_4ay69_fable": {
-    "versions": []
-  },
-  "has-ansi": {
-    "versions": [
-      "6.0.1"
-    ]
-  },
-  "hash-guard": {
-    "versions": []
-  },
-  "hast-util-to-mdast9": {
-    "versions": [
-      "9.0.0"
-    ]
   }
 }
