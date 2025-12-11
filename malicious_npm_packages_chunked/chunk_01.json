@@ -1,4 +1,7 @@
 {
+  "budi-takokak34-sluey": {
+    "versions": []
+  },
   "budi-tapai29-breki": {
     "versions": []
   },
@@ -5901,6 +5904,11 @@
       "1.0.6"
     ]
   },
+  "elf-stats-candystriped-snowglobe-426": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-caroling-hollyberry-628": {
     "versions": [
       "1.0.0",
@@ -5996,6 +6004,11 @@
       "999.999.999"
     ]
   },
+  "elf-stats-cosy-garland-592": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-cosy-pantry-344": {
     "versions": [
       "1.0.0"
@@ -6074,6 +6087,11 @@
     ]
   },
   "elf-stats-ember-reindeer-211": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-ember-stockpile-448": {
     "versions": [
       "1.0.0"
     ]
@@ -6458,6 +6476,11 @@
       "1.0.1"
     ]
   },
+  "elf-stats-jolly-hammer-980": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-jolly-toolkit-984": {
     "versions": [
       "1.0.0"
@@ -6686,6 +6709,11 @@
       "1.0.0",
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "elf-stats-merry-icicle-449": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-merry-sparkler-742": {
@@ -7113,6 +7141,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-silvered-mailbag-755": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-silvered-mitten-503": {
     "versions": [
       "999.999.999"
@@ -7135,6 +7168,11 @@
   "elf-stats-silvered-stocking-120": {
     "versions": [
       "999.0.0"
+    ]
+  },
+  "elf-stats-silvered-wishlist-243": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-sleighing-bow-514": {
@@ -7291,6 +7329,11 @@
       "1.0.0"
     ]
   },
+  "elf-stats-snowy-toolkit-186": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-snowy-train-565": {
     "versions": [
       "1.0.0",
@@ -7373,6 +7416,11 @@
     ]
   },
   "elf-stats-sparkly-snowflake-139": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-sparkly-snowglobe-243": {
     "versions": [
       "1.0.0"
     ]
@@ -7535,6 +7583,11 @@
       "1.0.0",
       "1.0.1",
       "1.0.2"
+    ]
+  },
+  "elf-stats-sugarplum-mitten-141": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "elf-stats-sugarplum-muffin-944": {
@@ -8956,6 +9009,9 @@
     "versions": []
   },
   "facts-base": {
+    "versions": []
+  },
+  "fadafas3": {
     "versions": []
   },
   "fadhil-asinan2-ruro": {
@@ -11171,6 +11227,7 @@
   },
   "gs-uitk-lodash": {
     "versions": [
+      "33.3.3",
       "35.3.3",
       "35.9.9",
       "36.0.0"
@@ -11281,57 +11338,6 @@
     "versions": []
   },
   "hadianto-miemee1-kyuki": {
-    "versions": []
-  },
-  "hadianto-naget75-breki": {
-    "versions": []
-  },
-  "hadianto-nasi70-kyuki": {
-    "versions": []
-  },
-  "hadianto-rojak82-breki": {
-    "versions": []
-  },
-  "hadianto-sambalado24-breki": {
-    "versions": []
-  },
-  "hadianto-tahutek39-kyuki": {
-    "versions": []
-  },
-  "hadianto-toge48-breki": {
-    "versions": []
-  },
-  "hadianto-tomat64-breki": {
-    "versions": []
-  },
-  "hadianto-ubi21-kyuki": {
-    "versions": []
-  },
-  "haidi-xingxue-baogao": {
-    "versions": []
-  },
-  "haizi-doushi-laolinghun": {
-    "versions": []
-  },
-  "halley-barnard-kaus-transport": {
-    "versions": []
-  },
-  "halley-chariklo-rollup-plugin-xenos": {
-    "versions": []
-  },
-  "halmos-cheatcodes": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "hammock-undertow-lsx730-project": {
-    "versions": []
-  },
-  "hanafi-dradag9-breki": {
-    "versions": []
-  },
-  "hanafi-enting91-breki": {
     "versions": []
   }
 }
