@@ -6411,7 +6411,9 @@
     "versions": []
   },
   "@wb-drive/icons": {
-    "versions": []
+    "versions": [
+      "2.4.9"
+    ]
   },
   "@wen-community/wen-new-standard": {
     "versions": []
