@@ -17498,6 +17498,7 @@
   },
   "elf-stats-caroling-sled-530": {
     "versions": [
+      "999.0.0",
       "999.0.1",
       "999.0.2",
       "999.0.3"
@@ -17521,6 +17522,7 @@
   },
   "elf-stats-caroling-wishlist-626": {
     "versions": [
+      "2.0.0",
       "2.0.1"
     ]
   },
@@ -17537,6 +17539,8 @@
   },
   "elf-stats-cheery-bell-343": {
     "versions": [
+      "999.0.0",
+      "999.0.1",
       "999.0.2",
       "999.0.5"
     ]
@@ -17553,7 +17557,8 @@
   },
   "elf-stats-cheery-muffin-949": {
     "versions": [
-      "99.99.99"
+      "99.99.99",
+      "999.99.99"
     ]
   },
   "elf-stats-cheery-northstar-345": {

@@ -1,4 +1,9 @@
 {
+  "geopost-angular-components": {
+    "versions": [
+      "4.100.0"
+    ]
+  },
   "geopost-web-component": {
     "versions": [
       "17.8.0",
@@ -11292,12 +11297,6 @@
     "versions": []
   },
   "tuti-bubur6-breki": {
-    "versions": []
-  },
-  "tuti-empal87-breki": {
-    "versions": []
-  },
-  "tuti-enting21-ruro": {
     "versions": []
   }
 }
