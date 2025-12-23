@@ -1,3 +1,20 @@
+## 2025-12-23 21:36:24 — Added 0 new packages, updated 7 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (7)
+| Package | Version | Type |
+|---------|---------|-------|
+| elf-stats-shimmering-nightcap-245 | 99.9.25 | new-version |
+| elf-stats-shimmering-nightcap-245 | 99.9.30 | new-version |
+| elf-stats-shimmering-nightcap-245 | 99.9.57 | new-version |
+| elf-stats-shimmering-nightcap-245 | 99.9.67 | new-version |
+| elf-stats-silvered-star-676 | 1.0.2 | new-version |
+| elf-stats-sleighing-stocking-579 | 1.0.0 | new-version |
+| elf-stats-sleighing-stocking-579 | 1.0.1 | new-version |
+
+
 ## 2025-12-23 21:06:07 — Added 0 new packages, updated 8 versions
 
 ### 🆕 New Packages (0)

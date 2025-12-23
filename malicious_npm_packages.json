@@ -18942,7 +18942,11 @@
   },
   "elf-stats-shimmering-nightcap-245": {
     "versions": [
-      "99.9.9"
+      "99.9.9",
+      "99.9.25",
+      "99.9.30",
+      "99.9.57",
+      "99.9.67"
     ]
   },
   "elf-stats-shimmering-northstar-293": {
@@ -19016,7 +19020,8 @@
   "elf-stats-silvered-star-676": {
     "versions": [
       "1.0.0",
-      "1.0.1"
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "elf-stats-silvered-stocking-120": {
@@ -19087,6 +19092,8 @@
   },
   "elf-stats-sleighing-stocking-579": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
       "1.0.3"
     ]
