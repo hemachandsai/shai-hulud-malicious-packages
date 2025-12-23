@@ -6584,7 +6584,9 @@
   },
   "elf-stats-festive-hollyberry-572": {
     "versions": [
-      "9.9.9"
+      "9.9.8",
+      "9.9.9",
+      "9.9.10"
     ]
   },
   "elf-stats-festive-sleigh-368": {
@@ -6674,7 +6676,8 @@
   },
   "elf-stats-frostbitten-drum-529": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "elf-stats-frostbitten-muffin-867": {
