@@ -7841,10 +7841,14 @@
   },
   "elf-stats-snowdusted-lantern-234": {
     "versions": [
+      "1.0.0",
+      "1.0.1",
       "1.0.2",
+      "1.0.3",
       "1.0.4",
       "1.0.5",
-      "1.0.6"
+      "1.0.6",
+      "1.0.7"
     ]
   },
   "elf-stats-snowdusted-marshmallow-228": {
@@ -8030,7 +8034,9 @@
   "elf-stats-sparkly-toolkit-821": {
     "versions": [
       "1.0.1",
-      "1.0.2"
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
     ]
   },
   "elf-stats-sparkly-workbench-689": {
@@ -8115,11 +8121,13 @@
     "versions": [
       "1.0.2",
       "9.9.9",
-      "99.9.9"
+      "99.9.9",
+      "999.9.9"
     ]
   },
   "elf-stats-starlit-ribbon-255": {
     "versions": [
+      "1.0.0",
       "1.0.1"
     ]
   },
@@ -11397,12 +11405,6 @@
     ]
   },
   "generator-roblox-robux-unlimited-codes-dkdedz": {
-    "versions": []
-  },
-  "genesis-drop-actions": {
-    "versions": []
-  },
-  "geoarchaeology-lint-staged-primatology-exosphere": {
     "versions": []
   }
 }
