@@ -1,4 +1,10 @@
 {
+  "geochemistry-nova-galaxy-perturbation": {
+    "versions": []
+  },
+  "geochronology-weywot-higgs-geochemistry": {
+    "versions": []
+  },
   "geodynamo-build-passport-writable": {
     "versions": []
   },
@@ -11288,15 +11294,6 @@
     "versions": []
   },
   "tuti-bakso90-sukiwir": {
-    "versions": []
-  },
-  "tuti-botok9-sluey": {
-    "versions": []
-  },
-  "tuti-brengkes20-sluey": {
-    "versions": []
-  },
-  "tuti-brengkes73-miaww": {
     "versions": []
   }
 }

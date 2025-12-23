@@ -1,3 +1,21 @@
+## 2025-12-23 21:06:07 — Added 0 new packages, updated 8 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (8)
+| Package | Version | Type |
+|---------|---------|-------|
+| elf-stats-marzipan-muffin-733 | 1.0.7 | new-version |
+| elf-stats-merry-cookiejar-987 | 1.0.0 | new-version |
+| elf-stats-midnight-chimney-291 | 1.0.3 | new-version |
+| elf-stats-midnight-chimney-291 | 1.0.4 | new-version |
+| elf-stats-midnight-chimney-291 | 1.0.6 | new-version |
+| elf-stats-mistletoe-sparkler-211 | 9999.0.0 | new-version |
+| elf-stats-mulled-drum-529 | 2.0.1 | new-version |
+| elf-stats-nutmeg-giftbox-398 | 1.0.1 | new-version |
+
+
 ## 2025-12-23 20:38:22 — Added 0 new packages, updated 3 versions
 
 ### 🆕 New Packages (0)
