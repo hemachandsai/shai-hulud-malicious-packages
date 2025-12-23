@@ -582,12 +582,16 @@
   },
   "@bhyolken/echotest": {
     "versions": [
+      "1.0.0",
       "1.1.0",
       "1.4.0"
     ]
   },
   "@bingads-webui-clientcenter/instrumentation": {
-    "versions": []
+    "versions": [
+      "99.9.9",
+      "99.9.10"
+    ]
   },
   "@bonk-sdk/ipfs": {
     "versions": [
@@ -650,7 +654,15 @@
     ]
   },
   "@chatclub/claude-code": {
-    "versions": []
+    "versions": [
+      "0.0.1",
+      "2.0.27",
+      "2.0.28",
+      "2.0.29",
+      "2.0.30",
+      "2.0.31",
+      "2.0.34"
+    ]
   },
   "@chatgptclaudeclub/claude-code": {
     "versions": []
@@ -1477,6 +1489,8 @@
   },
   "@deputyapp/copilot2": {
     "versions": [
+      "2.9.9",
+      "2.10.11",
       "2.10.20"
     ]
   },
@@ -2238,10 +2252,15 @@
     "versions": []
   },
   "@hand-talk/yotta-core": {
-    "versions": []
+    "versions": [
+      "999.0.0",
+      "9991.0.0"
+    ]
   },
   "@hand-talk/yotta-icons": {
-    "versions": []
+    "versions": [
+      "991.0.0"
+    ]
   },
   "@hapheus/n8n-nodes-pgp": {
     "versions": [
@@ -11266,21 +11285,6 @@
     "versions": []
   },
   "budi-papeda99-kyuki": {
-    "versions": []
-  },
-  "budi-peyek60-breki": {
-    "versions": []
-  },
-  "budi-pisang95-miaww": {
-    "versions": []
-  },
-  "budi-rangginang36-miaww": {
-    "versions": []
-  },
-  "budi-rangginang67-sluey": {
-    "versions": []
-  },
-  "budi-rangi44-ruro": {
     "versions": []
   }
 }

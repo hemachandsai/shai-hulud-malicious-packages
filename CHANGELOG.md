@@ -1,3 +1,28 @@
+## 2025-12-23 15:38:22 — Added 0 new packages, updated 15 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (15)
+| Package | Version | Type |
+|---------|---------|-------|
+| @bhyolken/echotest | 1.0.0 | new-version |
+| @bingads-webui-clientcenter/instrumentation | 99.9.9 | new-version |
+| @bingads-webui-clientcenter/instrumentation | 99.9.10 | new-version |
+| @chatclub/claude-code | 0.0.1 | new-version |
+| @chatclub/claude-code | 2.0.27 | new-version |
+| @chatclub/claude-code | 2.0.28 | new-version |
+| @chatclub/claude-code | 2.0.29 | new-version |
+| @chatclub/claude-code | 2.0.30 | new-version |
+| @chatclub/claude-code | 2.0.31 | new-version |
+| @chatclub/claude-code | 2.0.34 | new-version |
+| @deputyapp/copilot2 | 2.9.9 | new-version |
+| @deputyapp/copilot2 | 2.10.11 | new-version |
+| @hand-talk/yotta-core | 999.0.0 | new-version |
+| @hand-talk/yotta-core | 9991.0.0 | new-version |
+| @hand-talk/yotta-icons | 991.0.0 | new-version |
+
+
 ## 2025-12-22 23:05:36 — Added 7 new packages, updated 0 versions
 
 ### 🆕 New Packages (7)
