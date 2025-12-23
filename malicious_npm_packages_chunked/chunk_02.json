@@ -1,4 +1,7 @@
 {
+  "geodynamo-start-umbra-abiogenesis": {
+    "versions": []
+  },
   "geopost-angular-components": {
     "versions": [
       "4.100.0"
@@ -11294,9 +11297,6 @@
     "versions": []
   },
   "tuti-brongkos45-breki": {
-    "versions": []
-  },
-  "tuti-bubur6-breki": {
     "versions": []
   }
 }

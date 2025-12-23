@@ -6310,7 +6310,8 @@
   },
   "elf-stats-cocoa-pinecone-118": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "elf-stats-cocoa-reindeer-663": {
@@ -6320,6 +6321,7 @@
   },
   "elf-stats-cocoa-ribbon-476": {
     "versions": [
+      "2.0.0",
       "3.0.0"
     ]
   },
@@ -6409,6 +6411,7 @@
   },
   "elf-stats-cranberry-pinecone-878": {
     "versions": [
+      "1.0.1",
       "1.0.50",
       "2.0.0"
     ]
@@ -11391,9 +11394,6 @@
     "versions": []
   },
   "geodynamo-build-passport-writable": {
-    "versions": []
-  },
-  "geodynamo-start-umbra-abiogenesis": {
     "versions": []
   }
 }
