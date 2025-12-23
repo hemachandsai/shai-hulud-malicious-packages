@@ -10840,10 +10840,14 @@
     "versions": []
   },
   "bignumex": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "bignumx": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "bingo-log": {
     "versions": []
@@ -11557,7 +11561,9 @@
     "versions": []
   },
   "camscanner-seo": {
-    "versions": []
+    "versions": [
+      "999.0.0"
+    ]
   },
   "candra-bika85-sukiwir": {
     "versions": []
@@ -12049,7 +12055,10 @@
     ]
   },
   "capes-ui": {
-    "versions": []
+    "versions": [
+      "10.0.7",
+      "10.0.8"
+    ]
   },
   "captcha-paypal": {
     "versions": [
@@ -12244,7 +12253,10 @@
     "versions": []
   },
   "chai-as-deployed": {
-    "versions": []
+    "versions": [
+      "2.3.1",
+      "2.3.2"
+    ]
   },
   "chai-as-sorted": {
     "versions": []
@@ -12253,10 +12265,14 @@
     "versions": []
   },
   "chai-async-chain": {
-    "versions": []
+    "versions": [
+      "2.4.1"
+    ]
   },
   "chai-auth": {
-    "versions": []
+    "versions": [
+      "5.1.0"
+    ]
   },
   "chai-await-test": {
     "versions": [
@@ -12292,13 +12308,17 @@
     ]
   },
   "chai-promised-chain": {
-    "versions": []
+    "versions": [
+      "2.4.2"
+    ]
   },
   "chai-proxify": {
     "versions": []
   },
   "chai-status": {
-    "versions": []
+    "versions": [
+      "2.4.2"
+    ]
   },
   "chai-sync": {
     "versions": [
@@ -12307,10 +12327,14 @@
     ]
   },
   "chai-test-async": {
-    "versions": []
+    "versions": [
+      "3.3.5"
+    ]
   },
   "chai-test-await": {
-    "versions": []
+    "versions": [
+      "3.3.5"
+    ]
   },
   "chai-type": {
     "versions": []
@@ -12332,7 +12356,9 @@
     ]
   },
   "chain-test-async": {
-    "versions": []
+    "versions": [
+      "3.3.5"
+    ]
   },
   "chain-xor": {
     "versions": [
@@ -13710,7 +13736,10 @@
     "versions": []
   },
   "cms_comp": {
-    "versions": []
+    "versions": [
+      "999.0.0",
+      "999.0.1"
+    ]
   },
   "cms_comp_static": {
     "versions": []

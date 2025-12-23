@@ -10840,10 +10840,14 @@
     "versions": []
   },
   "bignumex": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "bignumx": {
-    "versions": []
+    "versions": [
+      "1.0.0"
+    ]
   },
   "bingo-log": {
     "versions": []
@@ -11287,9 +11291,6 @@
     "versions": []
   },
   "budi-ongol-ongol46-ruro": {
-    "versions": []
-  },
-  "budi-otak-otak84-sukiwir": {
     "versions": []
   }
 }
