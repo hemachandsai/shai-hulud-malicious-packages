@@ -1,4 +1,7 @@
 {
+  "@aa-techops-ui/ping-authentication": {
+    "versions": []
+  },
   "@accordproject/concerto-analysis": {
     "versions": [
       "3.24.1"
@@ -121,6 +124,12 @@
   "@actbase/react-native-tiktok": {
     "versions": [
       "1.1.3"
+    ]
+  },
+  "@ads-core/types": {
+    "versions": [
+      "11.7.7",
+      "11.7.9"
     ]
   },
   "@afetcan/api": {
@@ -2221,6 +2230,9 @@
       "20.1.1"
     ]
   },
+  "@google_recaptcha/js": {
+    "versions": []
+  },
   "@gr-common/async": {
     "versions": [
       "1.0.0",
@@ -3942,6 +3954,36 @@
   "@osmanekrem/error-handler": {
     "versions": [
       "1.2.2"
+    ]
+  },
+  "@ownbackup/data-chart": {
+    "versions": [
+      "25.0.0"
+    ]
+  },
+  "@ownbackup/data-grid": {
+    "versions": [
+      "25.0.0"
+    ]
+  },
+  "@ownbackup/icons": {
+    "versions": [
+      "25.0.0"
+    ]
+  },
+  "@ownbackup/ob-design-system": {
+    "versions": [
+      "25.0.0"
+    ]
+  },
+  "@ownbackup/ob-loader": {
+    "versions": [
+      "25.0.0"
+    ]
+  },
+  "@ownbackup/ob-query-builder": {
+    "versions": [
+      "25.0.0"
     ]
   },
   "@patrtorg/autem-et-hic": {
@@ -7991,6 +8033,18 @@
   "acorn-iris-hyt518-project": {
     "versions": []
   },
+  "acz.view.src": {
+    "versions": [
+      "2.1.2",
+      "2.1.3",
+      "2.1.4",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4",
+      "3.1.4"
+    ]
+  },
   "ade-bakso11-sukiwir": {
     "versions": []
   },
@@ -8497,6 +8551,11 @@
   "algol-koa-xenos-redis": {
     "versions": []
   },
+  "alicenpmpackage": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "alicenpmpackage1": {
     "versions": [
       "9.9.10"
@@ -8548,9 +8607,20 @@
   "altair-paleoclimatology-wavefunction-library": {
     "versions": []
   },
+  "amazon-testpackage": {
+    "versions": [
+      "0.0.1",
+      "1.0.0"
+    ]
+  },
   "ambient-map": {
     "versions": [
       "99.99.99"
+    ]
+  },
+  "amournapraia": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "analyzer-importer": {
@@ -9332,6 +9402,11 @@
   "aspen-lagoon-jlo437-project": {
     "versions": []
   },
+  "assert-json-not": {
+    "versions": [
+      "2.3.5"
+    ]
+  },
   "asteroid-bamboo-gxv109-project": {
     "versions": []
   },
@@ -9427,6 +9502,11 @@
   },
   "auth-dotenv-halley-prettier-stylelint": {
     "versions": []
+  },
+  "auth-handler": {
+    "versions": [
+      "2.5.8"
+    ]
   },
   "auth-polaris-rate-limiter-optimize-css-assets-webpack-plugin": {
     "versions": []
@@ -9558,6 +9638,11 @@
     ]
   },
   "baidu-src-test3": {
+    "versions": [
+      "0.0.4"
+    ]
+  },
+  "baidu-src-test4": {
     "versions": [
       "0.0.4"
     ]
@@ -10839,6 +10924,11 @@
   "bigmathlib": {
     "versions": []
   },
+  "bignumberx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "bignumex": {
     "versions": [
       "1.0.0"
@@ -10979,6 +11069,11 @@
       "0.1.2"
     ]
   },
+  "booms-ai": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "bootes-local-nightwatch-mongoose": {
     "versions": []
   },
@@ -10990,6 +11085,22 @@
   },
   "bootstrap-biomimicry-parsec-cressida": {
     "versions": []
+  },
+  "bootstrap-setcolor": {
+    "versions": [
+      "1.9.15",
+      "1.9.16"
+    ]
+  },
+  "bootstrap-setcolors": {
+    "versions": [
+      "1.9.16"
+    ]
+  },
+  "bootstrap-setflexcolor": {
+    "versions": [
+      "1.9.15"
+    ]
   },
   "borealis-innercore-ganymede-solis": {
     "versions": []
@@ -11201,96 +11312,6 @@
     "versions": []
   },
   "budi-lapis17-miaww": {
-    "versions": []
-  },
-  "budi-lapis22-sukiwir": {
-    "versions": []
-  },
-  "budi-lapis49-sukiwir": {
-    "versions": []
-  },
-  "budi-lapis60-sluey": {
-    "versions": []
-  },
-  "budi-lapis74-sluey": {
-    "versions": []
-  },
-  "budi-lapis75-ruro": {
-    "versions": []
-  },
-  "budi-lapis78-sluey": {
-    "versions": []
-  },
-  "budi-lapis93-ruro": {
-    "versions": []
-  },
-  "budi-lengko38-riris": {
-    "versions": []
-  },
-  "budi-lengko57-sukiwir": {
-    "versions": []
-  },
-  "budi-lengko96-breki": {
-    "versions": []
-  },
-  "budi-liwet51-sukiwir": {
-    "versions": []
-  },
-  "budi-lodeh98-ruro": {
-    "versions": []
-  },
-  "budi-lupis2-sukiwir": {
-    "versions": []
-  },
-  "budi-lutis24-miaww": {
-    "versions": []
-  },
-  "budi-lutis83-remi": {
-    "versions": []
-  },
-  "budi-martabak15-riris": {
-    "versions": []
-  },
-  "budi-martabak61-breki": {
-    "versions": []
-  },
-  "budi-martabak61-ruro": {
-    "versions": []
-  },
-  "budi-mendut100-breki": {
-    "versions": []
-  },
-  "budi-mendut43-sumpek": {
-    "versions": []
-  },
-  "budi-menjes82-riris": {
-    "versions": []
-  },
-  "budi-mie64-sluey": {
-    "versions": []
-  },
-  "budi-mieayam11-sukiwir": {
-    "versions": []
-  },
-  "budi-naget41-sluey": {
-    "versions": []
-  },
-  "budi-nasipecel9-breki": {
-    "versions": []
-  },
-  "budi-nasiuduk50-sukiwir": {
-    "versions": []
-  },
-  "budi-nasiuduk93-sukiwir": {
-    "versions": []
-  },
-  "budi-nasiuduk98-ruro": {
-    "versions": []
-  },
-  "budi-oblok8-breki": {
-    "versions": []
-  },
-  "budi-ongol-ongol46-ruro": {
     "versions": []
   }
 }
