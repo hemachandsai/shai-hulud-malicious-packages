@@ -257,6 +257,11 @@
       "99.9.46"
     ]
   },
+  "@adminide-stack/yantra-mobile": {
+    "versions": [
+      "12.0.33"
+    ]
+  },
   "@ads-core/types": {
     "versions": [
       "11.7.7",
@@ -2315,6 +2320,36 @@
       "1.0.4"
     ]
   },
+  "@arv-bedrock/auth": {
+    "versions": [
+      "1.1.7",
+      "1.1.8"
+    ]
+  },
+  "@arv-bedrock/auth-admin": {
+    "versions": [
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "@arv-bedrock/auth-sso": {
+    "versions": [
+      "1.6.1",
+      "1.6.2"
+    ]
+  },
+  "@arv-bedrock/auth-sso-backend": {
+    "versions": [
+      "1.7.1",
+      "1.7.2"
+    ]
+  },
+  "@arv-bedrock/logger": {
+    "versions": [
+      "1.7.1",
+      "1.7.2"
+    ]
+  },
   "@aryanhussain/my-angular-lib": {
     "versions": [
       "0.0.23"
@@ -2948,6 +2983,26 @@
   "@c8o/nimbus-core": {
     "versions": [
       "1.0.13"
+    ]
+  },
+  "@cacheable/memory": {
+    "versions": [
+      "2.2.1"
+    ]
+  },
+  "@cacheable/net": {
+    "versions": [
+      "2.1.1"
+    ]
+  },
+  "@cacheable/node-cache": {
+    "versions": [
+      "3.1.2"
+    ]
+  },
+  "@cacheable/utils": {
+    "versions": [
+      "2.5.1"
     ]
   },
   "@cap-js/db-service": {
@@ -5961,6 +6016,37 @@
       "99.99.3"
     ]
   },
+  "@hubsync/web-sdk-react": {
+    "versions": [
+      "6.3.7",
+      "6.3.8",
+      "6.3.9",
+      "6.3.10",
+      "6.3.11",
+      "6.3.12",
+      "6.3.13",
+      "6.3.14",
+      "6.3.15",
+      "6.3.16",
+      "6.3.17",
+      "6.3.18",
+      "6.3.19",
+      "6.3.20",
+      "6.3.21",
+      "6.3.22",
+      "6.3.23",
+      "6.3.24",
+      "6.3.25",
+      "6.3.26",
+      "6.3.27",
+      "6.3.28",
+      "6.3.29",
+      "6.3.30",
+      "6.3.31",
+      "6.3.32",
+      "6.3.33"
+    ]
+  },
   "@huntersofbook/auth-vue": {
     "versions": [
       "0.4.2"
@@ -7673,6 +7759,116 @@
   "@nazi-team/libsignal-node": {
     "versions": []
   },
+  "@nebula.js/cli": {
+    "versions": [
+      "7.1.2"
+    ]
+  },
+  "@nebula.js/cli-build": {
+    "versions": [
+      "7.1.2"
+    ]
+  },
+  "@nebula.js/cli-sense": {
+    "versions": [
+      "7.1.2"
+    ]
+  },
+  "@nebula.js/cli-serve": {
+    "versions": [
+      "7.1.2"
+    ]
+  },
+  "@nebula.js/locale": {
+    "versions": [
+      "0.6.2"
+    ]
+  },
+  "@nebula.js/nucleus": {
+    "versions": [
+      "0.5.1"
+    ]
+  },
+  "@nebula.js/sn-action-button": {
+    "versions": [
+      "2.3.1"
+    ]
+  },
+  "@nebula.js/sn-animator": {
+    "versions": [
+      "2.13.1"
+    ]
+  },
+  "@nebula.js/sn-distributionplot": {
+    "versions": [
+      "1.0.7"
+    ]
+  },
+  "@nebula.js/sn-layout-container": {
+    "versions": [
+      "4.4.1"
+    ]
+  },
+  "@nebula.js/sn-line-chart": {
+    "versions": [
+      "2.7.1"
+    ]
+  },
+  "@nebula.js/sn-listbox": {
+    "versions": [
+      "0.19.3"
+    ]
+  },
+  "@nebula.js/sn-map": {
+    "versions": [
+      "0.12.7"
+    ]
+  },
+  "@nebula.js/sn-nav-menu": {
+    "versions": [
+      "0.14.2"
+    ]
+  },
+  "@nebula.js/sn-org-chart": {
+    "versions": [
+      "1.7.1"
+    ]
+  },
+  "@nebula.js/sn-shape": {
+    "versions": [
+      "1.5.1"
+    ]
+  },
+  "@nebula.js/sn-slider": {
+    "versions": [
+      "0.20.1"
+    ]
+  },
+  "@nebula.js/sn-tabbed-container": {
+    "versions": [
+      "2.4.1"
+    ]
+  },
+  "@nebula.js/snapshooter": {
+    "versions": [
+      "0.6.1"
+    ]
+  },
+  "@nebula.js/stardust": {
+    "versions": [
+      "7.1.2"
+    ]
+  },
+  "@nebula.js/test-utils": {
+    "versions": [
+      "0.6.1"
+    ]
+  },
+  "@nebula.js/theme": {
+    "versions": [
+      "0.6.1"
+    ]
+  },
   "@needl-ai/common": {
     "versions": [
       "1.0.0",
@@ -8051,6 +8247,553 @@
       "2.93.1"
     ]
   },
+  "@onereach/authorizer-helper": {
+    "versions": [
+      "0.0.11",
+      "0.0.12",
+      "0.0.13"
+    ]
+  },
+  "@onereach/bandwidth-steps-voice-bxml": {
+    "versions": [
+      "0.1.1",
+      "0.1.2",
+      "0.1.3"
+    ]
+  },
+  "@onereach/billing-dto": {
+    "versions": [
+      "27.2.1",
+      "27.2.2",
+      "27.2.3"
+    ]
+  },
+  "@onereach/billing-shared": {
+    "versions": [
+      "27.2.1",
+      "27.2.2",
+      "27.2.3"
+    ]
+  },
+  "@onereach/cb-schema-translator": {
+    "versions": [
+      "1.3.1",
+      "1.3.2",
+      "1.3.3"
+    ]
+  },
+  "@onereach/channel-transformer": {
+    "versions": [
+      "0.0.66",
+      "0.0.67",
+      "0.0.68"
+    ]
+  },
+  "@onereach/channel-transformers": {
+    "versions": [
+      "0.0.5",
+      "0.0.6",
+      "0.0.7"
+    ]
+  },
+  "@onereach/ckeditor5-build-classic": {
+    "versions": [
+      "30.0.1",
+      "30.0.2",
+      "30.0.3"
+    ]
+  },
+  "@onereach/condition-builder": {
+    "versions": [
+      "1.0.8",
+      "1.0.9",
+      "1.0.10"
+    ]
+  },
+  "@onereach/content-builder": {
+    "versions": [
+      "0.0.18",
+      "0.0.19",
+      "0.0.20"
+    ]
+  },
+  "@onereach/content-builder-template-compiler": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5"
+    ]
+  },
+  "@onereach/expression-components": {
+    "versions": [
+      "9.1.1",
+      "9.1.2",
+      "9.1.3"
+    ]
+  },
+  "@onereach/font-icons": {
+    "versions": [
+      "27.0.2",
+      "27.0.3",
+      "27.0.4"
+    ]
+  },
+  "@onereach/get-version-data": {
+    "versions": [
+      "3.1.2",
+      "3.1.3",
+      "3.1.4"
+    ]
+  },
+  "@onereach/idw-apps": {
+    "versions": [
+      "0.1.3",
+      "0.1.4",
+      "0.1.5"
+    ]
+  },
+  "@onereach/idw-contracts": {
+    "versions": [
+      "0.1.2",
+      "0.1.3",
+      "0.1.4"
+    ]
+  },
+  "@onereach/idw-init-account-resources": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "@onereach/idw-sdk": {
+    "versions": [
+      "0.1.2",
+      "0.1.3",
+      "0.1.4"
+    ]
+  },
+  "@onereach/idw-ui-components": {
+    "versions": [
+      "0.1.2",
+      "0.1.3",
+      "0.1.4"
+    ]
+  },
+  "@onereach/lambda-invocation": {
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.3"
+    ]
+  },
+  "@onereach/messengers-infobip-sdk": {
+    "versions": [
+      "0.1.1",
+      "0.1.2",
+      "0.1.3"
+    ]
+  },
+  "@onereach/or-browser": {
+    "versions": [
+      "0.0.48",
+      "0.0.49",
+      "0.0.50"
+    ]
+  },
+  "@onereach/or-browser-next": {
+    "versions": [
+      "0.0.11",
+      "0.0.12",
+      "0.0.13"
+    ]
+  },
+  "@onereach/or-content-builder-renderer": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4"
+    ]
+  },
+  "@onereach/or-file-uploader-next": {
+    "versions": [
+      "0.0.8",
+      "0.0.9",
+      "0.0.10"
+    ]
+  },
+  "@onereach/or-pro": {
+    "versions": [
+      "1.13.1",
+      "1.13.2",
+      "1.13.3"
+    ]
+  },
+  "@onereach/or-sdk-agent-cli": {
+    "versions": [
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@onereach/orest-cli": {
+    "versions": [
+      "2.4.1",
+      "2.4.2",
+      "2.4.3"
+    ]
+  },
+  "@onereach/orest-input-cli": {
+    "versions": [
+      "1.18.1",
+      "1.18.2",
+      "1.18.3"
+    ]
+  },
+  "@onereach/orest-jest-presets": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5"
+    ]
+  },
+  "@onereach/orest-vue-demi-vue2": {
+    "versions": [
+      "0.0.4",
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "@onereach/orest-vue-demi-vue3": {
+    "versions": [
+      "0.0.4",
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "@onereach/orest-vue3": {
+    "versions": [
+      "0.0.4",
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "@onereach/phonenumber-interpreter": {
+    "versions": [
+      "0.0.18",
+      "0.0.19",
+      "0.0.20"
+    ]
+  },
+  "@onereach/pnpm-audit-junit": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "@onereach/postcss-scoped-selector": {
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.3"
+    ]
+  },
+  "@onereach/regex-helper": {
+    "versions": [
+      "0.5.16",
+      "0.5.17",
+      "0.5.18"
+    ]
+  },
+  "@onereach/regular-expressions": {
+    "versions": [
+      "0.5.23",
+      "0.5.24",
+      "0.5.25"
+    ]
+  },
+  "@onereach/regular-expressions-test": {
+    "versions": [
+      "0.0.4",
+      "0.0.5",
+      "0.0.6"
+    ]
+  },
+  "@onereach/rwc-client": {
+    "versions": [
+      "6.4.7",
+      "6.4.8",
+      "6.4.9"
+    ]
+  },
+  "@onereach/salesforce-miaw-client": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5"
+    ]
+  },
+  "@onereach/si-a-button": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5"
+    ]
+  },
+  "@onereach/si-alert": {
+    "versions": [
+      "0.4.11",
+      "0.4.12",
+      "0.4.13"
+    ]
+  },
+  "@onereach/si-checkbox": {
+    "versions": [
+      "0.6.5",
+      "0.6.6",
+      "0.6.7"
+    ]
+  },
+  "@onereach/si-checkbox-group": {
+    "versions": [
+      "0.3.5",
+      "0.3.6",
+      "0.3.7"
+    ]
+  },
+  "@onereach/si-code": {
+    "versions": [
+      "0.6.4",
+      "0.6.5",
+      "0.6.6"
+    ]
+  },
+  "@onereach/si-collapsible-group": {
+    "versions": [
+      "0.6.4",
+      "0.6.5",
+      "0.6.6"
+    ]
+  },
+  "@onereach/si-copyable-text": {
+    "versions": [
+      "0.4.11",
+      "0.4.12",
+      "0.4.13"
+    ]
+  },
+  "@onereach/si-datepicker": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-divider": {
+    "versions": [
+      "0.4.11",
+      "0.4.12",
+      "0.4.13"
+    ]
+  },
+  "@onereach/si-dropdown-advanced": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-dropdown-simple": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-header": {
+    "versions": [
+      "0.4.11",
+      "0.4.12",
+      "0.4.13",
+      "0.4.14"
+    ]
+  },
+  "@onereach/si-list": {
+    "versions": [
+      "0.7.4",
+      "0.7.5",
+      "0.7.6"
+    ]
+  },
+  "@onereach/si-merge-tag-input": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-radio-group": {
+    "versions": [
+      "0.3.5",
+      "0.3.6",
+      "0.3.7"
+    ]
+  },
+  "@onereach/si-root": {
+    "versions": [
+      "0.9.4",
+      "0.9.5",
+      "0.9.6"
+    ]
+  },
+  "@onereach/si-select": {
+    "versions": [
+      "0.1.3",
+      "0.1.4",
+      "0.1.5"
+    ]
+  },
+  "@onereach/si-step-chooser": {
+    "versions": [
+      "0.4.4",
+      "0.4.5",
+      "0.4.6"
+    ]
+  },
+  "@onereach/si-switch": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-text-message": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@onereach/si-textinput": {
+    "versions": [
+      "0.5.5",
+      "0.5.6",
+      "0.5.7"
+    ]
+  },
+  "@onereach/si-validated-timestring-input": {
+    "versions": [
+      "0.3.5",
+      "0.3.6",
+      "0.3.7"
+    ]
+  },
+  "@onereach/slack-helpers": {
+    "versions": [
+      "1.0.3",
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
+  "@onereach/ssml-editor": {
+    "versions": [
+      "2.0.12",
+      "2.0.13",
+      "2.0.14"
+    ]
+  },
+  "@onereach/step-components": {
+    "versions": [
+      "0.1.37",
+      "0.1.38",
+      "0.1.39"
+    ]
+  },
+  "@onereach/step-conversation": {
+    "versions": [
+      "1.0.41",
+      "1.0.42",
+      "1.0.43"
+    ]
+  },
+  "@onereach/step-run-snowflake-query": {
+    "versions": [
+      "0.1.1",
+      "0.1.2",
+      "0.1.3"
+    ]
+  },
+  "@onereach/step-voice": {
+    "versions": [
+      "7.0.32",
+      "7.0.33",
+      "7.0.34"
+    ]
+  },
+  "@onereach/styles": {
+    "versions": [
+      "27.0.2",
+      "27.0.3",
+      "27.0.4"
+    ]
+  },
+  "@onereach/time-interpreter": {
+    "versions": [
+      "1.0.30",
+      "1.0.31",
+      "1.0.32"
+    ]
+  },
+  "@onereach/ts-memoize": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "@onereach/types-contacts-api": {
+    "versions": [
+      "9.0.8",
+      "9.0.9",
+      "9.0.10"
+    ]
+  },
+  "@onereach/ui-components": {
+    "versions": [
+      "27.0.2",
+      "27.0.3",
+      "27.0.4"
+    ]
+  },
+  "@onereach/ui-components-common": {
+    "versions": [
+      "27.0.2",
+      "27.0.3",
+      "27.0.4"
+    ]
+  },
+  "@onereach/ui-components-vue2": {
+    "versions": [
+      "27.0.2",
+      "27.0.3",
+      "27.0.4"
+    ]
+  },
+  "@onereach/v-event-calendar": {
+    "versions": [
+      "0.1.22",
+      "0.1.23",
+      "0.1.24"
+    ]
+  },
+  "@onereach/webform": {
+    "versions": [
+      "0.3.13",
+      "0.3.14",
+      "0.3.15"
+    ]
+  },
   "@onlytoodles/crypto-jsa": {
     "versions": []
   },
@@ -8336,6 +9079,524 @@
   "@opposhop/nuxt-ssr-cache": {
     "versions": []
   },
+  "@or-sdk/account-settings": {
+    "versions": [
+      "1.3.6",
+      "1.3.7",
+      "1.3.8"
+    ]
+  },
+  "@or-sdk/accounts": {
+    "versions": [
+      "2.3.5",
+      "2.3.6",
+      "2.3.7"
+    ]
+  },
+  "@or-sdk/adapters": {
+    "versions": [
+      "0.3.6",
+      "0.3.7",
+      "0.3.8"
+    ]
+  },
+  "@or-sdk/agents": {
+    "versions": [
+      "4.21.3",
+      "4.21.4",
+      "4.21.5"
+    ]
+  },
+  "@or-sdk/api-tokens": {
+    "versions": [
+      "1.4.2",
+      "1.4.3",
+      "1.4.4"
+    ]
+  },
+  "@or-sdk/api-tokens-lambda": {
+    "versions": [
+      "1.4.2",
+      "1.4.3",
+      "1.4.4"
+    ]
+  },
+  "@or-sdk/apps": {
+    "versions": [
+      "1.2.6",
+      "1.2.7",
+      "1.2.8"
+    ]
+  },
+  "@or-sdk/auth": {
+    "versions": [
+      "0.38.1",
+      "0.38.2",
+      "0.38.3"
+    ]
+  },
+  "@or-sdk/authorizer": {
+    "versions": [
+      "0.26.7",
+      "0.26.8",
+      "0.26.9"
+    ]
+  },
+  "@or-sdk/base": {
+    "versions": [
+      "0.44.4",
+      "0.44.5",
+      "0.44.6"
+    ]
+  },
+  "@or-sdk/billing": {
+    "versions": [
+      "27.2.1",
+      "27.2.2",
+      "27.2.3"
+    ]
+  },
+  "@or-sdk/billing-internal": {
+    "versions": [
+      "27.2.1",
+      "27.2.2",
+      "27.2.3"
+    ]
+  },
+  "@or-sdk/bot-templates": {
+    "versions": [
+      "2.2.5",
+      "2.2.6",
+      "2.2.7"
+    ]
+  },
+  "@or-sdk/bots": {
+    "versions": [
+      "1.7.1",
+      "1.7.2",
+      "1.7.3"
+    ]
+  },
+  "@or-sdk/card-templates": {
+    "versions": [
+      "2.2.5",
+      "2.2.6",
+      "2.2.7"
+    ]
+  },
+  "@or-sdk/cards": {
+    "versions": [
+      "1.2.5",
+      "1.2.6",
+      "1.2.7"
+    ]
+  },
+  "@or-sdk/ccp": {
+    "versions": [
+      "10.15.4",
+      "10.15.5",
+      "10.15.6"
+    ]
+  },
+  "@or-sdk/chat": {
+    "versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.3"
+    ]
+  },
+  "@or-sdk/contacts": {
+    "versions": [
+      "4.7.5",
+      "4.7.6",
+      "4.7.7"
+    ]
+  },
+  "@or-sdk/content-request": {
+    "versions": [
+      "0.2.6",
+      "0.2.7",
+      "0.2.8"
+    ]
+  },
+  "@or-sdk/data-hub": {
+    "versions": [
+      "0.26.5",
+      "0.26.6",
+      "0.26.7"
+    ]
+  },
+  "@or-sdk/data-hub-svc": {
+    "versions": [
+      "2.3.5",
+      "2.3.6",
+      "2.3.7"
+    ]
+  },
+  "@or-sdk/deployer": {
+    "versions": [
+      "1.7.5",
+      "1.7.6",
+      "1.7.7"
+    ]
+  },
+  "@or-sdk/deployments": {
+    "versions": [
+      "2.1.5",
+      "2.1.6",
+      "2.1.7"
+    ]
+  },
+  "@or-sdk/discovery": {
+    "versions": [
+      "1.12.1",
+      "1.12.2",
+      "1.12.3"
+    ]
+  },
+  "@or-sdk/druid": {
+    "versions": [
+      "1.4.7",
+      "1.4.8",
+      "1.4.9"
+    ]
+  },
+  "@or-sdk/event-manager": {
+    "versions": [
+      "1.1.5",
+      "1.1.6",
+      "1.1.7"
+    ]
+  },
+  "@or-sdk/files": {
+    "versions": [
+      "3.11.6",
+      "3.11.7",
+      "3.11.8"
+    ]
+  },
+  "@or-sdk/files-sync-node": {
+    "versions": [
+      "0.1.8",
+      "0.1.9",
+      "0.1.10"
+    ]
+  },
+  "@or-sdk/flow-templates": {
+    "versions": [
+      "2.1.5",
+      "2.1.6",
+      "2.1.7"
+    ]
+  },
+  "@or-sdk/flows": {
+    "versions": [
+      "2.7.8",
+      "2.7.9",
+      "2.7.10"
+    ]
+  },
+  "@or-sdk/graph": {
+    "versions": [
+      "1.10.5",
+      "1.10.6",
+      "1.10.7"
+    ]
+  },
+  "@or-sdk/hitl": {
+    "versions": [
+      "0.41.1",
+      "0.41.2",
+      "0.41.3"
+    ]
+  },
+  "@or-sdk/identifiers": {
+    "versions": [
+      "0.27.6",
+      "0.27.7",
+      "0.27.8"
+    ]
+  },
+  "@or-sdk/idw": {
+    "versions": [
+      "9.0.4",
+      "9.0.5",
+      "9.0.6"
+    ]
+  },
+  "@or-sdk/idw-public": {
+    "versions": [
+      "1.6.6",
+      "1.6.7",
+      "1.6.8"
+    ]
+  },
+  "@or-sdk/idw-skill": {
+    "versions": [
+      "1.4.1",
+      "1.4.2",
+      "1.4.3"
+    ]
+  },
+  "@or-sdk/invitations": {
+    "versions": [
+      "1.4.8",
+      "1.4.9",
+      "1.4.10"
+    ]
+  },
+  "@or-sdk/key-value-storage": {
+    "versions": [
+      "0.28.6",
+      "0.28.7",
+      "0.28.8"
+    ]
+  },
+  "@or-sdk/keys": {
+    "versions": [
+      "1.2.6",
+      "1.2.7",
+      "1.2.8"
+    ]
+  },
+  "@or-sdk/knowledge-models": {
+    "versions": [
+      "0.25.5",
+      "0.25.6",
+      "0.25.7"
+    ]
+  },
+  "@or-sdk/library": {
+    "versions": [
+      "0.5.6",
+      "0.5.7",
+      "0.5.8"
+    ]
+  },
+  "@or-sdk/library-categories": {
+    "versions": [
+      "0.2.6",
+      "0.2.7",
+      "0.2.8"
+    ]
+  },
+  "@or-sdk/library-source": {
+    "versions": [
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@or-sdk/library-types-v1": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3"
+    ]
+  },
+  "@or-sdk/library-types-v2": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3"
+    ]
+  },
+  "@or-sdk/lookup": {
+    "versions": [
+      "1.25.1",
+      "1.25.2",
+      "1.25.3"
+    ]
+  },
+  "@or-sdk/markdowner": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3"
+    ]
+  },
+  "@or-sdk/mcp-tools": {
+    "versions": [
+      "0.5.2",
+      "0.5.3",
+      "0.5.4"
+    ]
+  },
+  "@or-sdk/notifications": {
+    "versions": [
+      "1.7.5",
+      "1.7.6",
+      "1.7.7"
+    ]
+  },
+  "@or-sdk/password": {
+    "versions": [
+      "1.3.6",
+      "1.3.7",
+      "1.3.8"
+    ]
+  },
+  "@or-sdk/payments": {
+    "versions": [
+      "3.2.5",
+      "3.2.6",
+      "3.2.7"
+    ]
+  },
+  "@or-sdk/permissions": {
+    "versions": [
+      "2.8.1",
+      "2.8.2",
+      "2.8.3"
+    ]
+  },
+  "@or-sdk/permissions-cli": {
+    "versions": [
+      "1.4.1",
+      "1.4.2",
+      "1.4.3"
+    ]
+  },
+  "@or-sdk/permissions-lambda": {
+    "versions": [
+      "2.5.1",
+      "2.5.2",
+      "2.5.3"
+    ]
+  },
+  "@or-sdk/pgsql": {
+    "versions": [
+      "1.5.1",
+      "1.5.2",
+      "1.5.3"
+    ]
+  },
+  "@or-sdk/providers": {
+    "versions": [
+      "0.3.6",
+      "0.3.7",
+      "0.3.8"
+    ]
+  },
+  "@or-sdk/qna": {
+    "versions": [
+      "3.4.2",
+      "3.4.3",
+      "3.4.4"
+    ]
+  },
+  "@or-sdk/queue-manager": {
+    "versions": [
+      "1.4.6",
+      "1.4.7",
+      "1.4.8"
+    ]
+  },
+  "@or-sdk/sdk-api": {
+    "versions": [
+      "0.29.2",
+      "0.29.3",
+      "0.29.4"
+    ]
+  },
+  "@or-sdk/settings": {
+    "versions": [
+      "0.25.6",
+      "0.25.7",
+      "0.25.8"
+    ]
+  },
+  "@or-sdk/sku-builder": {
+    "versions": [
+      "2.5.1",
+      "2.5.2",
+      "2.5.3"
+    ]
+  },
+  "@or-sdk/source": {
+    "versions": [
+      "2.1.5",
+      "2.1.6",
+      "2.1.7"
+    ]
+  },
+  "@or-sdk/source-api": {
+    "versions": [
+      "1.1.1",
+      "1.1.2",
+      "1.1.3"
+    ]
+  },
+  "@or-sdk/step-templates": {
+    "versions": [
+      "2.2.5",
+      "2.2.6",
+      "2.2.7"
+    ]
+  },
+  "@or-sdk/store": {
+    "versions": [
+      "2.1.5",
+      "2.1.6",
+      "2.1.7"
+    ]
+  },
+  "@or-sdk/tables": {
+    "versions": [
+      "0.28.5",
+      "0.28.6",
+      "0.28.7"
+    ]
+  },
+  "@or-sdk/tags": {
+    "versions": [
+      "1.1.5",
+      "1.1.6",
+      "1.1.7"
+    ]
+  },
+  "@or-sdk/tickets": {
+    "versions": [
+      "1.9.5",
+      "1.9.6",
+      "1.9.7"
+    ]
+  },
+  "@or-sdk/transcripts": {
+    "versions": [
+      "1.2.5",
+      "1.2.6",
+      "1.2.7"
+    ]
+  },
+  "@or-sdk/users": {
+    "versions": [
+      "3.8.1",
+      "3.8.2",
+      "3.8.3"
+    ]
+  },
+  "@or-sdk/view-templates": {
+    "versions": [
+      "2.2.5",
+      "2.2.6",
+      "2.2.7"
+    ]
+  },
+  "@or-sdk/views": {
+    "versions": [
+      "3.1.5",
+      "3.1.6",
+      "3.1.7"
+    ]
+  },
+  "@or-sdk/web-search": {
+    "versions": [
+      "0.6.1",
+      "0.6.2",
+      "0.6.3"
+    ]
+  },
   "@orbitgtbelgium/mapbox-gl-draw-cut-polygon-mode": {
     "versions": [
       "2.0.5"
@@ -8354,6 +9615,627 @@
   "@orbitgtbelgium/time-slider": {
     "versions": [
       "1.0.187"
+    ]
+  },
+  "@ornikar/apollo-link-timeout": {
+    "versions": [
+      "1.4.2",
+      "1.4.3",
+      "1.4.4",
+      "1.4.5",
+      "1.4.6",
+      "1.4.7",
+      "1.4.8",
+      "1.4.9",
+      "1.4.10",
+      "1.4.11"
+    ]
+  },
+  "@ornikar/babel-preset-base": {
+    "versions": [
+      "6.0.3",
+      "6.0.4",
+      "6.0.5",
+      "6.0.6",
+      "6.0.7",
+      "6.0.8",
+      "6.0.9",
+      "6.0.10",
+      "6.0.11",
+      "6.0.12",
+      "6.0.13",
+      "6.0.14"
+    ]
+  },
+  "@ornikar/babel-preset-kitt-universal": {
+    "versions": [
+      "8.0.3",
+      "8.0.4",
+      "8.0.5",
+      "8.0.6",
+      "8.0.7",
+      "8.0.8",
+      "8.0.9",
+      "8.0.10",
+      "8.0.11",
+      "8.0.12"
+    ]
+  },
+  "@ornikar/babel-preset-react": {
+    "versions": [
+      "6.1.4",
+      "6.1.5",
+      "6.1.6",
+      "6.1.7",
+      "6.1.8",
+      "6.1.9",
+      "6.1.10",
+      "6.1.11",
+      "6.1.12",
+      "6.1.13",
+      "6.1.14"
+    ]
+  },
+  "@ornikar/browserslist-config": {
+    "versions": [
+      "8.0.3",
+      "8.0.4",
+      "8.0.5",
+      "8.0.6",
+      "8.0.7",
+      "8.0.8",
+      "8.0.9",
+      "8.0.10",
+      "8.0.11"
+    ]
+  },
+  "@ornikar/commitlint-config": {
+    "versions": [
+      "8.3.2",
+      "8.3.3",
+      "8.3.4",
+      "8.3.5",
+      "8.3.6",
+      "8.3.7",
+      "8.3.8",
+      "8.3.9",
+      "8.3.10",
+      "8.3.11",
+      "8.3.12"
+    ]
+  },
+  "@ornikar/eslint-config": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11",
+      "24.0.12"
+    ]
+  },
+  "@ornikar/eslint-config-babel": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11",
+      "24.0.12"
+    ]
+  },
+  "@ornikar/eslint-config-babel-use": {
+    "versions": [
+      "13.2.1",
+      "13.2.2",
+      "13.2.3",
+      "13.2.4",
+      "13.2.5",
+      "13.2.6",
+      "13.2.7",
+      "13.2.8",
+      "13.2.9",
+      "13.2.10",
+      "13.2.11",
+      "13.2.12"
+    ]
+  },
+  "@ornikar/eslint-config-formatjs": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10"
+    ]
+  },
+  "@ornikar/eslint-config-node": {
+    "versions": [
+      "12.2.1",
+      "12.2.2",
+      "12.2.3",
+      "12.2.4",
+      "12.2.5",
+      "12.2.6",
+      "12.2.7",
+      "12.2.8",
+      "12.2.9",
+      "12.2.10"
+    ]
+  },
+  "@ornikar/eslint-config-react": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11"
+    ]
+  },
+  "@ornikar/eslint-config-typescript": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10"
+    ]
+  },
+  "@ornikar/eslint-config-typescript-nestjs": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11"
+    ]
+  },
+  "@ornikar/eslint-config-typescript-react": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11"
+    ]
+  },
+  "@ornikar/eslint-plugin-neverthrow": {
+    "versions": [
+      "1.3.1",
+      "1.3.2",
+      "1.3.3",
+      "1.3.4",
+      "1.3.5",
+      "1.3.6",
+      "1.3.7",
+      "1.3.8",
+      "1.3.9",
+      "1.3.10",
+      "1.3.11",
+      "1.3.12"
+    ]
+  },
+  "@ornikar/eslint-plugin-ornikar": {
+    "versions": [
+      "24.0.1",
+      "24.0.2",
+      "24.0.3",
+      "24.0.4",
+      "24.0.5",
+      "24.0.6",
+      "24.0.7",
+      "24.0.8",
+      "24.0.9",
+      "24.0.10",
+      "24.0.11"
+    ]
+  },
+  "@ornikar/graphql-config": {
+    "versions": [
+      "1.1.1",
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.1.10",
+      "1.1.11"
+    ]
+  },
+  "@ornikar/intl-config": {
+    "versions": [
+      "10.0.2",
+      "10.0.3",
+      "10.0.4",
+      "10.0.5",
+      "10.0.6",
+      "10.0.7",
+      "10.0.8",
+      "10.0.9"
+    ]
+  },
+  "@ornikar/jest-config": {
+    "versions": [
+      "13.0.3",
+      "13.0.4",
+      "13.0.5",
+      "13.0.6",
+      "13.0.7",
+      "13.0.8",
+      "13.0.9",
+      "13.0.10",
+      "13.0.11",
+      "13.0.12",
+      "13.0.13"
+    ]
+  },
+  "@ornikar/jest-config-react": {
+    "versions": [
+      "18.0.2",
+      "18.0.3",
+      "18.0.4",
+      "18.0.5",
+      "18.0.6",
+      "18.0.7",
+      "18.0.8",
+      "18.0.9",
+      "18.0.10",
+      "18.0.11"
+    ]
+  },
+  "@ornikar/jest-config-react-native": {
+    "versions": [
+      "17.0.2",
+      "17.0.3",
+      "17.0.4",
+      "17.0.5",
+      "17.0.6",
+      "17.0.7",
+      "17.0.8",
+      "17.0.9",
+      "17.0.10",
+      "17.0.11",
+      "17.0.12"
+    ]
+  },
+  "@ornikar/jest-config-react-native-web": {
+    "versions": [
+      "12.0.3",
+      "12.0.4",
+      "12.0.5",
+      "12.0.6",
+      "12.0.7",
+      "12.0.8",
+      "12.0.9",
+      "12.0.10",
+      "12.0.11",
+      "12.0.12",
+      "12.0.13"
+    ]
+  },
+  "@ornikar/kitt2": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11"
+    ]
+  },
+  "@ornikar/lerna-config": {
+    "versions": [
+      "11.0.1",
+      "11.0.2",
+      "11.0.3",
+      "11.0.4",
+      "11.0.5",
+      "11.0.6",
+      "11.0.7",
+      "11.0.8",
+      "11.0.9",
+      "11.0.10",
+      "11.0.11"
+    ]
+  },
+  "@ornikar/monorepo-config": {
+    "versions": [
+      "14.3.2",
+      "14.3.3",
+      "14.3.4",
+      "14.3.5",
+      "14.3.6",
+      "14.3.7",
+      "14.3.8",
+      "14.3.9",
+      "14.3.10",
+      "14.3.11",
+      "14.3.12",
+      "14.3.13"
+    ]
+  },
+  "@ornikar/postcss-config": {
+    "versions": [
+      "9.1.2",
+      "9.1.3",
+      "9.1.4",
+      "9.1.5",
+      "9.1.6",
+      "9.1.7",
+      "9.1.8",
+      "9.1.9",
+      "9.1.10",
+      "9.1.11",
+      "9.1.12"
+    ]
+  },
+  "@ornikar/prettier-config": {
+    "versions": [
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7",
+      "9.0.8",
+      "9.0.9",
+      "9.0.10",
+      "9.0.11"
+    ]
+  },
+  "@ornikar/prismic-components": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.0.10",
+      "0.0.11",
+      "0.0.12"
+    ]
+  },
+  "@ornikar/react-modern-calendar-datepicker": {
+    "versions": [
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.2.4",
+      "3.2.5",
+      "3.2.6",
+      "3.2.7",
+      "3.2.8",
+      "3.2.9",
+      "3.2.10",
+      "3.2.11"
+    ]
+  },
+  "@ornikar/react-native-svg-transformer": {
+    "versions": [
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12"
+    ]
+  },
+  "@ornikar/renovate-config": {
+    "versions": [
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7",
+      "9.0.8",
+      "9.0.9",
+      "9.0.10",
+      "9.0.11",
+      "9.0.12",
+      "9.0.13"
+    ]
+  },
+  "@ornikar/repo-config": {
+    "versions": [
+      "15.3.3",
+      "15.3.4",
+      "15.3.5",
+      "15.3.6",
+      "15.3.7",
+      "15.3.8",
+      "15.3.9",
+      "15.3.10",
+      "15.3.11",
+      "15.3.12",
+      "15.3.13"
+    ]
+  },
+  "@ornikar/repo-config-react": {
+    "versions": [
+      "13.0.8",
+      "13.0.9",
+      "13.0.10",
+      "13.0.11",
+      "13.0.12",
+      "13.0.13",
+      "13.0.14",
+      "13.0.15",
+      "13.0.16",
+      "13.0.17",
+      "13.0.18",
+      "13.0.19"
+    ]
+  },
+  "@ornikar/repo-config-react-legacy-css": {
+    "versions": [
+      "15.1.2",
+      "15.1.3",
+      "15.1.4",
+      "15.1.5",
+      "15.1.6",
+      "15.1.7",
+      "15.1.8",
+      "15.1.9",
+      "15.1.10",
+      "15.1.11",
+      "15.1.12",
+      "15.1.13"
+    ]
+  },
+  "@ornikar/rollup-config": {
+    "versions": [
+      "11.1.2",
+      "11.1.3",
+      "11.1.4",
+      "11.1.5",
+      "11.1.6",
+      "11.1.7",
+      "11.1.8",
+      "11.1.9",
+      "11.1.10",
+      "11.1.11",
+      "11.1.12",
+      "11.1.13"
+    ]
+  },
+  "@ornikar/rollup-plugin-postcss": {
+    "versions": [
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.0.8",
+      "2.0.9",
+      "2.0.10",
+      "2.0.11",
+      "2.0.12",
+      "2.0.13",
+      "2.0.14",
+      "2.0.15"
+    ]
+  },
+  "@ornikar/slate-react-fork": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11"
+    ]
+  },
+  "@ornikar/storybook-config": {
+    "versions": [
+      "12.1.2",
+      "12.1.3",
+      "12.1.4",
+      "12.1.5",
+      "12.1.6",
+      "12.1.7",
+      "12.1.8",
+      "12.1.9",
+      "12.1.10"
+    ]
+  },
+  "@ornikar/stylelint-config": {
+    "versions": [
+      "14.0.3",
+      "14.0.4",
+      "14.0.5",
+      "14.0.6",
+      "14.0.7",
+      "14.0.8",
+      "14.0.9",
+      "14.0.10",
+      "14.0.11",
+      "14.0.12",
+      "14.0.13"
+    ]
+  },
+  "@ornikar/typed-css-modules-loader": {
+    "versions": [
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.8.5",
+      "0.8.6",
+      "0.8.7",
+      "0.8.8",
+      "0.8.9",
+      "0.8.10",
+      "0.8.11",
+      "0.8.12"
+    ]
+  },
+  "@ornikar/webpack-config": {
+    "versions": [
+      "12.0.2",
+      "12.0.3",
+      "12.0.4",
+      "12.0.5",
+      "12.0.6",
+      "12.0.7",
+      "12.0.8",
+      "12.0.9",
+      "12.0.10",
+      "12.0.11",
+      "12.0.12"
     ]
   },
   "@osmanekrem/bmad": {
@@ -8471,6 +10353,16 @@
   },
   "@phonos/types": {
     "versions": []
+  },
+  "@picsart/ai-sdk": {
+    "versions": [
+      "3.32.2"
+    ]
+  },
+  "@picsart/gen-ai": {
+    "versions": [
+      "2.55.11"
+    ]
   },
   "@platform-growth/guidance-channel-provider": {
     "versions": [
@@ -9015,6 +10907,136 @@
   "@pypestream/floating-ui-dom": {
     "versions": [
       "2.15.1"
+    ]
+  },
+  "@qlik/api": {
+    "versions": [
+      "2.14.2"
+    ]
+  },
+  "@qlik/browserslist-config": {
+    "versions": [
+      "3.0.2"
+    ]
+  },
+  "@qlik/carbon-core": {
+    "versions": [
+      "2.1.1"
+    ]
+  },
+  "@qlik/carboncopy": {
+    "versions": [
+      "1.1.6"
+    ]
+  },
+  "@qlik/design-tokens": {
+    "versions": [
+      "1.3.13"
+    ]
+  },
+  "@qlik/embed-react": {
+    "versions": [
+      "2.5.3"
+    ]
+  },
+  "@qlik/embed-runtime": {
+    "versions": [
+      "1.6.4"
+    ]
+  },
+  "@qlik/embed-web-components": {
+    "versions": [
+      "1.7.3"
+    ]
+  },
+  "@qlik/eslint-config": {
+    "versions": [
+      "2.0.20"
+    ]
+  },
+  "@qlik/eslint-config-base": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "@qlik/eslint-config-react": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "@qlik/eslint-config-svelte": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "@qlik/eslint-config-vue": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "@qlik/nebula-table-utils": {
+    "versions": [
+      "2.6.9"
+    ]
+  },
+  "@qlik/oxfmt-config": {
+    "versions": [
+      "0.1.6"
+    ]
+  },
+  "@qlik/oxlint-config": {
+    "versions": [
+      "0.7.2"
+    ]
+  },
+  "@qlik/prettier-config": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "@qlik/react-native-simple-grid": {
+    "versions": [
+      "1.5.5"
+    ]
+  },
+  "@qlik/runtime-module-loader": {
+    "versions": [
+      "1.5.1"
+    ]
+  },
+  "@qlik/sdk": {
+    "versions": [
+      "0.28.1"
+    ]
+  },
+  "@qlik/sprout-design-docs": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "@qlik/sprout-gesture": {
+    "versions": [
+      "0.0.13"
+    ]
+  },
+  "@qlik/sprout-icons": {
+    "versions": [
+      "0.12.3"
+    ]
+  },
+  "@qlik/sprout-react": {
+    "versions": [
+      "6.45.3"
+    ]
+  },
+  "@qlik/sprout-react-table": {
+    "versions": [
+      "0.16.7"
+    ]
+  },
+  "@qlik/tsconfig": {
+    "versions": [
+      "1.0.3"
     ]
   },
   "@qualys/react-web": {
@@ -9594,6 +11616,1581 @@
       "0.0.1-security",
       "0.0.1",
       "99.99.9"
+    ]
+  },
+  "@servicetitan/acquisition-functions": {
+    "versions": [
+      "5.22.1",
+      "5.22.2",
+      "5.22.3",
+      "5.22.4",
+      "5.22.5",
+      "5.22.6",
+      "5.22.7"
+    ]
+  },
+  "@servicetitan/admin-layout": {
+    "versions": [
+      "2.4.3",
+      "2.4.4",
+      "2.4.5",
+      "2.4.6",
+      "2.4.7",
+      "2.4.8",
+      "2.4.9"
+    ]
+  },
+  "@servicetitan/admin-sql-table": {
+    "versions": [
+      "1.0.14",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18",
+      "1.0.19",
+      "1.0.20"
+    ]
+  },
+  "@servicetitan/ajax-handlers": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/anvil-css-utilities": {
+    "versions": [
+      "14.5.4",
+      "14.5.5",
+      "14.5.6",
+      "14.5.7",
+      "14.5.8",
+      "14.5.9",
+      "14.5.10"
+    ]
+  },
+  "@servicetitan/anvil-fonts": {
+    "versions": [
+      "14.5.4",
+      "14.5.5",
+      "14.5.6",
+      "14.5.7",
+      "14.5.8",
+      "14.5.9",
+      "14.5.10"
+    ]
+  },
+  "@servicetitan/anvil-icon": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7"
+    ]
+  },
+  "@servicetitan/anvil-icons": {
+    "versions": [
+      "14.5.4",
+      "14.5.5",
+      "14.5.6",
+      "14.5.7",
+      "14.5.8",
+      "14.5.9",
+      "14.5.10"
+    ]
+  },
+  "@servicetitan/anvil-react": {
+    "versions": [
+      "0.11.3",
+      "0.11.4",
+      "0.11.5",
+      "0.11.6",
+      "0.11.7",
+      "0.11.8",
+      "0.11.9"
+    ]
+  },
+  "@servicetitan/anvil-themes": {
+    "versions": [
+      "14.5.4",
+      "14.5.5",
+      "14.5.6",
+      "14.5.7",
+      "14.5.8",
+      "14.5.9",
+      "14.5.10"
+    ]
+  },
+  "@servicetitan/anvil-token": {
+    "versions": [
+      "0.4.1",
+      "0.4.2",
+      "0.4.3",
+      "0.4.4",
+      "0.4.5",
+      "0.4.6",
+      "0.4.7"
+    ]
+  },
+  "@servicetitan/anvil2": {
+    "versions": [
+      "3.9.1",
+      "3.9.2",
+      "3.9.3",
+      "3.9.4",
+      "3.9.5",
+      "3.9.6",
+      "3.9.7"
+    ]
+  },
+  "@servicetitan/anvil2-codemods": {
+    "versions": [
+      "0.11.2",
+      "0.11.3",
+      "0.11.4",
+      "0.11.5",
+      "0.11.6",
+      "0.11.7",
+      "0.11.8"
+    ]
+  },
+  "@servicetitan/anvil2-ext-atlas": {
+    "versions": [
+      "4.0.2",
+      "4.0.3",
+      "4.0.4",
+      "4.0.5",
+      "4.0.6",
+      "4.0.7",
+      "4.0.8"
+    ]
+  },
+  "@servicetitan/anvil2-ext-charts": {
+    "versions": [
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.2.9",
+      "0.2.10"
+    ]
+  },
+  "@servicetitan/anvil2-ext-common": {
+    "versions": [
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.7.4",
+      "0.7.5",
+      "0.7.6",
+      "0.7.7"
+    ]
+  },
+  "@servicetitan/anvil2-ext-mwv": {
+    "versions": [
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.0.10",
+      "0.0.11"
+    ]
+  },
+  "@servicetitan/anvil2-illustrations": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8"
+    ]
+  },
+  "@servicetitan/anvil2-mcp": {
+    "versions": [
+      "0.0.9",
+      "0.0.10",
+      "0.0.11",
+      "0.0.12",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15"
+    ]
+  },
+  "@servicetitan/assist-ui": {
+    "versions": [
+      "2.1.1",
+      "2.1.2",
+      "2.1.3",
+      "2.1.4",
+      "2.1.5",
+      "2.1.6",
+      "2.1.7"
+    ]
+  },
+  "@servicetitan/assist-utils": {
+    "versions": [
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8"
+    ]
+  },
+  "@servicetitan/carto-charts-core": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@servicetitan/carto-charts-react": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@servicetitan/carto-charts-rn": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@servicetitan/carto-react-kit": {
+    "versions": [
+      "0.8.4",
+      "0.8.5",
+      "0.8.6",
+      "0.8.7",
+      "0.8.8",
+      "0.8.9",
+      "0.8.10"
+    ]
+  },
+  "@servicetitan/carto-rn-kit": {
+    "versions": [
+      "0.0.10",
+      "0.0.11",
+      "0.0.12",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15",
+      "0.0.16"
+    ]
+  },
+  "@servicetitan/carto-tokens": {
+    "versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.3.5",
+      "0.3.6",
+      "0.3.7"
+    ]
+  },
+  "@servicetitan/component-usage": {
+    "versions": [
+      "28.5.1",
+      "28.5.2",
+      "28.5.3",
+      "28.5.4",
+      "28.5.5",
+      "28.5.6",
+      "28.5.7"
+    ]
+  },
+  "@servicetitan/confirm": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/confirm-navigation": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/contentful": {
+    "versions": [
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9"
+    ]
+  },
+  "@servicetitan/contentful-proxy": {
+    "versions": [
+      "1.1.12",
+      "1.1.13",
+      "1.1.14",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18"
+    ]
+  },
+  "@servicetitan/cp-api": {
+    "versions": [
+      "1.115.1",
+      "1.115.2",
+      "1.115.3",
+      "1.115.4",
+      "1.115.5",
+      "1.115.6",
+      "1.115.7"
+    ]
+  },
+  "@servicetitan/cp-mfe": {
+    "versions": [
+      "1.115.1",
+      "1.115.2",
+      "1.115.3",
+      "1.115.4",
+      "1.115.5",
+      "1.115.6",
+      "1.115.7"
+    ]
+  },
+  "@servicetitan/cp-mfe-dev": {
+    "versions": [
+      "1.115.1",
+      "1.115.2",
+      "1.115.3",
+      "1.115.4",
+      "1.115.5",
+      "1.115.6",
+      "1.115.7"
+    ]
+  },
+  "@servicetitan/cp-react-hooks": {
+    "versions": [
+      "1.115.1",
+      "1.115.2",
+      "1.115.3",
+      "1.115.4",
+      "1.115.5",
+      "1.115.6",
+      "1.115.7"
+    ]
+  },
+  "@servicetitan/cp-ui": {
+    "versions": [
+      "1.115.1",
+      "1.115.2",
+      "1.115.3",
+      "1.115.4",
+      "1.115.5",
+      "1.115.6",
+      "1.115.7"
+    ]
+  },
+  "@servicetitan/culture": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/data-query": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/datadog-rum": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/datetime-utils": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/design-system": {
+    "versions": [
+      "14.5.4",
+      "14.5.5",
+      "14.5.6",
+      "14.5.7",
+      "14.5.8",
+      "14.5.9",
+      "14.5.10"
+    ]
+  },
+  "@servicetitan/docs-anvil-uikit-contrib": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/docs-uikit": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/document-title": {
+    "versions": [
+      "2.4.1",
+      "2.4.2",
+      "2.4.3",
+      "2.4.4",
+      "2.4.5",
+      "2.4.6",
+      "2.4.7"
+    ]
+  },
+  "@servicetitan/dte-pdf-editor": {
+    "versions": [
+      "1.76.1",
+      "1.76.2",
+      "1.76.3",
+      "1.76.4",
+      "1.76.5",
+      "1.76.6",
+      "1.76.7"
+    ]
+  },
+  "@servicetitan/dte-unlayer": {
+    "versions": [
+      "0.150.1",
+      "0.150.2",
+      "0.150.3",
+      "0.150.4",
+      "0.150.5",
+      "0.150.6",
+      "0.150.7"
+    ]
+  },
+  "@servicetitan/eh-module-communication": {
+    "versions": [
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7"
+    ]
+  },
+  "@servicetitan/error-boundary": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/eslint-config": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/eslint-plugin": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/eslint-plugin-decorators-declare": {
+    "versions": [
+      "12.8.15",
+      "12.8.16",
+      "12.8.17",
+      "12.8.18",
+      "12.8.19",
+      "12.8.20",
+      "12.8.21"
+    ]
+  },
+  "@servicetitan/eslint-plugin-folder-schema": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/eslint-plugin-mobx-6": {
+    "versions": [
+      "12.8.15",
+      "12.8.16",
+      "12.8.17",
+      "12.8.18",
+      "12.8.19",
+      "12.8.20"
+    ]
+  },
+  "@servicetitan/eslint-plugin-processors-stub": {
+    "versions": [
+      "12.8.15",
+      "12.8.16",
+      "12.8.17",
+      "12.8.18",
+      "12.8.19",
+      "12.8.20",
+      "12.8.21"
+    ]
+  },
+  "@servicetitan/examples": {
+    "versions": [
+      "1.2.5",
+      "1.2.6",
+      "1.2.7",
+      "1.2.8",
+      "1.2.9",
+      "1.2.10",
+      "1.2.11"
+    ]
+  },
+  "@servicetitan/feature-spotlight": {
+    "versions": [
+      "3.9.1",
+      "3.9.2",
+      "3.9.3",
+      "3.9.4",
+      "3.9.5",
+      "3.9.6",
+      "3.9.7"
+    ]
+  },
+  "@servicetitan/folder-lint": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/forge": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7"
+    ]
+  },
+  "@servicetitan/form": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/form-state": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/grid": {
+    "versions": [
+      "0.0.63",
+      "0.0.64",
+      "0.0.65",
+      "0.0.66",
+      "0.0.67",
+      "0.0.68",
+      "0.0.69"
+    ]
+  },
+  "@servicetitan/hammer-icon": {
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "1.2.4",
+      "1.2.5",
+      "1.2.6",
+      "1.2.7"
+    ]
+  },
+  "@servicetitan/hammer-react": {
+    "versions": [
+      "1.42.2",
+      "1.42.3",
+      "1.42.4",
+      "1.42.5",
+      "1.42.6",
+      "1.42.7",
+      "1.42.8"
+    ]
+  },
+  "@servicetitan/hammer-token": {
+    "versions": [
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.1.5",
+      "3.1.6",
+      "3.1.7"
+    ]
+  },
+  "@servicetitan/hash-browser-router": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/help-center": {
+    "versions": [
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14"
+    ]
+  },
+  "@servicetitan/html-sketchapp": {
+    "versions": [
+      "4.2.8",
+      "4.2.9",
+      "4.2.10",
+      "4.2.11",
+      "4.2.12",
+      "4.2.13",
+      "4.2.14"
+    ]
+  },
+  "@servicetitan/install": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/intl": {
+    "versions": [
+      "7.2.1",
+      "7.2.2",
+      "7.2.3",
+      "7.2.4",
+      "7.2.5",
+      "7.2.6",
+      "7.2.7"
+    ]
+  },
+  "@servicetitan/json-render-react": {
+    "versions": [
+      "0.4.6",
+      "0.4.7",
+      "0.4.8",
+      "0.4.9",
+      "0.4.10",
+      "0.4.11",
+      "0.4.12"
+    ]
+  },
+  "@servicetitan/kendo-theme": {
+    "versions": [
+      "0.0.27",
+      "0.0.28",
+      "0.0.29",
+      "0.0.30",
+      "0.0.31",
+      "0.0.32",
+      "0.0.33"
+    ]
+  },
+  "@servicetitan/ko-bridge": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/launchdarkly-service": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/lazy-module": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/ld-type-generator": {
+    "versions": [
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7"
+    ]
+  },
+  "@servicetitan/line-item-editor": {
+    "versions": [
+      "1.5.1",
+      "1.5.2",
+      "1.5.3",
+      "1.5.4",
+      "1.5.5",
+      "1.5.6",
+      "1.5.7"
+    ]
+  },
+  "@servicetitan/link-item": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/log-service": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/marketing-direct-mail-components": {
+    "versions": [
+      "20.1.1",
+      "20.1.2",
+      "20.1.3",
+      "20.1.4",
+      "20.1.5",
+      "20.1.6",
+      "20.1.7"
+    ]
+  },
+  "@servicetitan/marketing-email-components": {
+    "versions": [
+      "20.2.3",
+      "20.2.4",
+      "20.2.5",
+      "20.2.6",
+      "20.2.7",
+      "20.2.8",
+      "20.2.9"
+    ]
+  },
+  "@servicetitan/marketing-form": {
+    "versions": [
+      "0.1.2",
+      "0.1.3",
+      "0.1.4",
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8"
+    ]
+  },
+  "@servicetitan/marketing-global-route": {
+    "versions": [
+      "1.14.1",
+      "1.14.2",
+      "1.14.3",
+      "1.14.4",
+      "1.14.5",
+      "1.14.6",
+      "1.14.7"
+    ]
+  },
+  "@servicetitan/marketing-integration-widgets": {
+    "versions": [
+      "1.0.40",
+      "1.0.41",
+      "1.0.42",
+      "1.0.43",
+      "1.0.44",
+      "1.0.45",
+      "1.0.46"
+    ]
+  },
+  "@servicetitan/marketing-route": {
+    "versions": [
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "1.2.4",
+      "1.2.5",
+      "1.2.6",
+      "1.2.7"
+    ]
+  },
+  "@servicetitan/marketing-ui": {
+    "versions": [
+      "9.3.1",
+      "9.3.2",
+      "9.3.3",
+      "9.3.4",
+      "9.3.5",
+      "9.3.6",
+      "9.3.7"
+    ]
+  },
+  "@servicetitan/marketing-widgets": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7"
+    ]
+  },
+  "@servicetitan/measure-sheet-data": {
+    "versions": [
+      "2.6.1",
+      "2.6.2",
+      "2.6.3",
+      "2.6.4",
+      "2.6.5",
+      "2.6.6",
+      "2.6.7"
+    ]
+  },
+  "@servicetitan/mfe-quick-actions": {
+    "versions": [
+      "0.5.49",
+      "0.5.50",
+      "0.5.51",
+      "0.5.52",
+      "0.5.53",
+      "0.5.54",
+      "0.5.55"
+    ]
+  },
+  "@servicetitan/micro-frontend": {
+    "versions": [
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.0.10"
+    ]
+  },
+  "@servicetitan/microfront": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@servicetitan/microfront-auth": {
+    "versions": [
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.0.10",
+      "0.0.11"
+    ]
+  },
+  "@servicetitan/microfront-tests": {
+    "versions": [
+      "0.0.11",
+      "0.0.12",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15",
+      "0.0.16",
+      "0.0.17"
+    ]
+  },
+  "@servicetitan/microfront-utils": {
+    "versions": [
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.4.4",
+      "1.4.5",
+      "1.4.6",
+      "1.4.7"
+    ]
+  },
+  "@servicetitan/modularpayments-webfields": {
+    "versions": [
+      "1.0.53",
+      "1.0.54",
+      "1.0.55",
+      "1.0.56",
+      "1.0.57",
+      "1.0.58",
+      "1.0.59"
+    ]
+  },
+  "@servicetitan/moneyout-api-client": {
+    "versions": [
+      "1.29.1",
+      "1.29.2",
+      "1.29.3",
+      "1.29.4",
+      "1.29.5",
+      "1.29.6",
+      "1.29.7"
+    ]
+  },
+  "@servicetitan/mpa-components": {
+    "versions": [
+      "2.5.1",
+      "2.5.2",
+      "2.5.3",
+      "2.5.4",
+      "2.5.5",
+      "2.5.6",
+      "2.5.7"
+    ]
+  },
+  "@servicetitan/navigation": {
+    "versions": [
+      "14.1.1",
+      "14.1.2",
+      "14.1.3",
+      "14.1.4",
+      "14.1.5",
+      "14.1.6",
+      "14.1.7"
+    ]
+  },
+  "@servicetitan/notifications": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/onboarding-ui": {
+    "versions": [
+      "18.5.1",
+      "18.5.2",
+      "18.5.3",
+      "18.5.4",
+      "18.5.5",
+      "18.5.6",
+      "18.5.7"
+    ]
+  },
+  "@servicetitan/quick-actions": {
+    "versions": [
+      "1.15.2",
+      "1.15.3",
+      "1.15.4",
+      "1.15.5",
+      "1.15.6",
+      "1.15.7",
+      "1.15.8"
+    ]
+  },
+  "@servicetitan/react-hooks": {
+    "versions": [
+      "7.7.1",
+      "7.7.2",
+      "7.7.3",
+      "7.7.4",
+      "7.7.5",
+      "7.7.6",
+      "7.7.7"
+    ]
+  },
+  "@servicetitan/react-ioc": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/responsive": {
+    "versions": [
+      "6.1.1",
+      "6.1.2",
+      "6.1.3",
+      "6.1.4",
+      "6.1.5",
+      "6.1.6",
+      "6.1.7"
+    ]
+  },
+  "@servicetitan/restrict-imports": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/schema-comparison": {
+    "versions": [
+      "0.1.3",
+      "0.1.4",
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8",
+      "0.1.9"
+    ]
+  },
+  "@servicetitan/skeleton": {
+    "versions": [
+      "9.2.4",
+      "9.2.5",
+      "9.2.6",
+      "9.2.7",
+      "9.2.8",
+      "9.2.9",
+      "9.2.10"
+    ]
+  },
+  "@servicetitan/standalone-core-feature-gates": {
+    "versions": [
+      "1.11.4",
+      "1.11.5",
+      "1.11.6",
+      "1.11.7",
+      "1.11.8",
+      "1.11.9",
+      "1.11.10"
+    ]
+  },
+  "@servicetitan/standalone-feature-flags": {
+    "versions": [
+      "2.3.2",
+      "2.3.3",
+      "2.3.4",
+      "2.3.5",
+      "2.3.6",
+      "2.3.7",
+      "2.3.8"
+    ]
+  },
+  "@servicetitan/standalone-root": {
+    "versions": [
+      "1.11.3",
+      "1.11.4",
+      "1.11.5",
+      "1.11.6",
+      "1.11.7",
+      "1.11.8",
+      "1.11.9"
+    ]
+  },
+  "@servicetitan/standalone-tm-api": {
+    "versions": [
+      "1.1.1",
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7"
+    ]
+  },
+  "@servicetitan/standalone-ui": {
+    "versions": [
+      "2.2.4",
+      "2.2.5",
+      "2.2.6",
+      "2.2.7",
+      "2.2.8",
+      "2.2.9",
+      "2.2.10"
+    ]
+  },
+  "@servicetitan/startup": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/startup-jest": {
+    "versions": [
+      "2.2.1",
+      "2.2.2",
+      "2.2.3",
+      "2.2.4",
+      "2.2.5",
+      "2.2.6",
+      "2.2.7"
+    ]
+  },
+  "@servicetitan/startup-mfe-compat": {
+    "versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7"
+    ]
+  },
+  "@servicetitan/startup-utils": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/stylelint-config": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/suppress-warnings": {
+    "versions": [
+      "34.0.1",
+      "34.1.0",
+      "34.2.0",
+      "34.2.1",
+      "34.3.0-beta.0",
+      "34.3.0",
+      "34.3.0-beta.1",
+      "34.3.0-beta.2",
+      "35.0.0",
+      "35.1.0",
+      "35.2.0",
+      "35.3.0",
+      "36.0.0",
+      "36.1.0",
+      "36.1.1-beta.1",
+      "36.1.1",
+      "36.2.0",
+      "36.3.0",
+      "36.3.1",
+      "36.4.0",
+      "37.0.0",
+      "37.0.1",
+      "37.0.2",
+      "38.0.0",
+      "38.1.0",
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/table": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
+  "@servicetitan/tanstack-query-mobx": {
+    "versions": [
+      "6.2.1",
+      "6.2.2",
+      "6.2.3",
+      "6.2.4",
+      "6.2.5",
+      "6.2.6",
+      "6.2.7"
+    ]
+  },
+  "@servicetitan/temporal-lite": {
+    "versions": [
+      "3.4.1",
+      "3.4.2",
+      "3.4.3",
+      "3.4.4",
+      "3.4.5",
+      "3.4.6",
+      "3.4.7"
+    ]
+  },
+  "@servicetitan/testing-library": {
+    "versions": [
+      "6.6.1",
+      "6.6.2",
+      "6.6.3",
+      "6.6.4",
+      "6.6.5",
+      "6.6.6",
+      "6.6.7"
+    ]
+  },
+  "@servicetitan/thoughtspot-theme": {
+    "versions": [
+      "1.7.1",
+      "1.7.2",
+      "1.7.3",
+      "1.7.4",
+      "1.7.5",
+      "1.7.6",
+      "1.7.7"
+    ]
+  },
+  "@servicetitan/time-zones": {
+    "versions": [
+      "3.8.1",
+      "3.8.2",
+      "3.8.3",
+      "3.8.4",
+      "3.8.5",
+      "3.8.6",
+      "3.8.7"
+    ]
+  },
+  "@servicetitan/titan-chat-ui": {
+    "versions": [
+      "7.1.3",
+      "7.1.4",
+      "7.1.5",
+      "7.1.6",
+      "7.1.7",
+      "7.1.8",
+      "7.1.9"
+    ]
+  },
+  "@servicetitan/titan-chat-ui-anvil2": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7"
+    ]
+  },
+  "@servicetitan/titan-chat-ui-common": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7"
+    ]
+  },
+  "@servicetitan/titan-chat-ui-cypress": {
+    "versions": [
+      "2.1.3",
+      "2.1.4",
+      "2.1.5",
+      "2.1.6",
+      "2.1.7",
+      "2.1.8",
+      "2.1.9"
+    ]
+  },
+  "@servicetitan/titan-chatbot-api": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7"
+    ]
+  },
+  "@servicetitan/titan-chatbot-client": {
+    "versions": [
+      "2.1.3",
+      "2.1.4",
+      "2.1.5",
+      "2.1.6",
+      "2.1.7",
+      "2.1.8",
+      "2.1.9"
+    ]
+  },
+  "@servicetitan/titan-chatbot-ui": {
+    "versions": [
+      "7.1.3",
+      "7.1.4",
+      "7.1.5",
+      "7.1.6",
+      "7.1.7",
+      "7.1.8",
+      "7.1.9"
+    ]
+  },
+  "@servicetitan/titan-chatbot-ui-anvil2": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7"
+    ]
+  },
+  "@servicetitan/titan-chatbot-ui-cypress": {
+    "versions": [
+      "9.0.1",
+      "9.0.2",
+      "9.0.3",
+      "9.0.4",
+      "9.0.5",
+      "9.0.6",
+      "9.0.7"
+    ]
+  },
+  "@servicetitan/tokens": {
+    "versions": [
+      "12.9.1",
+      "12.9.2",
+      "12.9.3",
+      "12.9.4",
+      "12.9.5",
+      "12.9.6",
+      "12.9.7"
+    ]
+  },
+  "@servicetitan/toolbelt-shared-registry": {
+    "versions": [
+      "1.14.1",
+      "1.14.2",
+      "1.14.3",
+      "1.14.4",
+      "1.14.5",
+      "1.14.6",
+      "1.14.7"
+    ]
+  },
+  "@servicetitan/uikit-docs": {
+    "versions": [
+      "22.11.1",
+      "22.11.2",
+      "22.11.3",
+      "22.11.4",
+      "22.11.5",
+      "22.11.6",
+      "22.11.7"
+    ]
+  },
+  "@servicetitan/unit-tests": {
+    "versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.0.8"
+    ]
+  },
+  "@servicetitan/va-mfe-loader": {
+    "versions": [
+      "1.1.1",
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7"
+    ]
+  },
+  "@servicetitan/web-components": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/widget-platform": {
+    "versions": [
+      "5.6.1",
+      "5.6.2",
+      "5.6.3",
+      "5.6.4",
+      "5.6.5",
+      "5.6.6",
+      "5.6.7"
+    ]
+  },
+  "@servicetitan/widget-platform-monolith": {
+    "versions": [
+      "5.6.1",
+      "5.6.2",
+      "5.6.3",
+      "5.6.4",
+      "5.6.5",
+      "5.6.6",
+      "5.6.7"
     ]
   },
   "@settle-sea/supporting-documents": {
@@ -11557,6 +15154,13 @@
       "1.0.0"
     ]
   },
+  "@thiennq/docs-viewer": {
+    "versions": [
+      "1.6.2",
+      "1.6.3",
+      "1.6.4"
+    ]
+  },
   "@things-factory/attachment-base": {
     "versions": [
       "9.0.42",
@@ -12288,6 +15892,46 @@
       "99.0.0"
     ]
   },
+  "@umacloud/cli-darwin-arm64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-darwin-x64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-linux-arm64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-linux-musl-arm64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-linux-musl-x64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-linux-x64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/cli-win32-x64": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
+  "@umacloud/knowledge": {
+    "versions": [
+      "1.0.74"
+    ]
+  },
   "@undress-ai/best-undress-ai": {
     "versions": []
   },
@@ -12883,6 +16527,11 @@
   },
   "@wgu-edu/wgu-icons": {
     "versions": []
+  },
+  "@workbench-stack/core": {
+    "versions": [
+      "3.9.8"
+    ]
   },
   "@workleap-ai/shared": {
     "versions": []
@@ -17618,6 +21267,27 @@
   "babel-plugin-fbtee": {
     "versions": []
   },
+  "babel-plugin-linaria-css-to-undefined": {
+    "versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.3.5",
+      "0.3.6",
+      "0.3.7",
+      "0.3.8",
+      "0.3.9",
+      "0.3.10",
+      "0.3.11",
+      "0.3.12",
+      "0.3.13",
+      "0.3.14",
+      "0.3.15",
+      "0.3.16",
+      "0.3.17"
+    ]
+  },
   "babel-plugin-react-pure-component": {
     "versions": [
       "0.1.6"
@@ -20167,6 +23837,21 @@
       "1.0.3",
       "1.0.8",
       "1.0.10"
+    ]
+  },
+  "cache-manager": {
+    "versions": [
+      "7.2.10"
+    ]
+  },
+  "cacheable": {
+    "versions": [
+      "2.5.1"
+    ]
+  },
+  "cacheable-request": {
+    "versions": [
+      "13.0.20"
     ]
   },
   "cachelogger": {
@@ -23818,6 +27503,20 @@
   "contosoapp": {
     "versions": []
   },
+  "conv-context-next": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10"
+    ]
+  },
   "conventional-changelog-dash": {
     "versions": [
       "1000.0.1"
@@ -24102,7 +27801,8 @@
   "create-cf-token": {
     "versions": [
       "1.1.2",
-      "1.1.3"
+      "1.1.3",
+      "1.1.4"
     ]
   },
   "create-director-app": {
@@ -24715,6 +28415,7 @@
   "dbmux": {
     "versions": [
       "1.0.5",
+      "1.0.6",
       "2.2.5"
     ]
   },
@@ -26849,7 +30550,8 @@
   "discord-search": {
     "versions": [
       "0.1.1",
-      "0.1.2"
+      "0.1.2",
+      "0.1.3"
     ]
   },
   "discover-cast-shot": {
@@ -27587,6 +31289,11 @@
       "0.0.12"
     ]
   },
+  "ecto": {
+    "versions": [
+      "5.0.1"
+    ]
+  },
   "ecto-corsair-lwirz": {
     "versions": [
       "99.0.0"
@@ -27629,6 +31336,26 @@
     "versions": [
       "1.1.1",
       "1.3.5"
+    ]
+  },
+  "editable-contracts": {
+    "versions": [
+      "0.0.12",
+      "0.0.13",
+      "0.0.14",
+      "0.0.15",
+      "0.0.16",
+      "0.0.17",
+      "0.0.18",
+      "0.0.19",
+      "0.0.20",
+      "0.0.21",
+      "0.0.22",
+      "0.0.23",
+      "0.0.24",
+      "0.0.25",
+      "0.0.26",
+      "0.0.27"
     ]
   },
   "edj-shopify-theme": {
@@ -32213,6 +35940,26 @@
       "2.1.8"
     ]
   },
+  "eslint-plugin-folder-schema": {
+    "versions": [
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18",
+      "1.0.19",
+      "1.0.20",
+      "1.0.21"
+    ]
+  },
   "eslint-plugin-fuel-react": {
     "versions": [
       "1.0.1"
@@ -32444,6 +36191,20 @@
   "example-icrc35-shared-library": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "example-js-project": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11"
     ]
   },
   "example-vue2-micro": {
@@ -33714,6 +37475,11 @@
   "filament-resolvers-quito-jabbah": {
     "versions": []
   },
+  "file-entry-cache": {
+    "versions": [
+      "11.1.6"
+    ]
+  },
   "filenames-simple": {
     "versions": [
       "9.9.0"
@@ -34054,6 +37820,11 @@
   "flashbot-sdk-eth": {
     "versions": []
   },
+  "flat-cache": {
+    "versions": [
+      "6.1.24"
+    ]
+  },
   "flatten-unflatten": {
     "versions": [
       "1.0.1",
@@ -34091,6 +37862,26 @@
   "focusync-custom-controls": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "folder-lint": {
+    "versions": [
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18",
+      "1.0.19",
+      "1.0.20",
+      "1.0.21"
     ]
   },
   "follow-monkey-fallen": {
@@ -34411,6 +38202,28 @@
       "2.2.2",
       "2.2.3",
       "2.2.4"
+    ]
+  },
+  "frontend-orb": {
+    "versions": [
+      "4.4.1",
+      "4.4.2",
+      "4.4.3",
+      "4.4.4",
+      "4.4.5",
+      "4.4.6",
+      "4.4.7",
+      "4.4.8",
+      "4.4.9",
+      "4.4.10",
+      "4.4.11",
+      "4.4.12",
+      "4.4.13",
+      "4.4.14",
+      "4.4.15",
+      "4.4.16",
+      "4.4.17",
+      "4.4.18"
     ]
   },
   "frontend-vite": {
@@ -35819,6 +39632,11 @@
   "hammock-undertow-lsx730-project": {
     "versions": []
   },
+  "hamus.js": {
+    "versions": [
+      "0.4.1"
+    ]
+  },
   "hanafi-dradag9-breki": {
     "versions": []
   },
@@ -36373,6 +40191,11 @@
   },
   "http-emailjs": {
     "versions": []
+  },
+  "http-metrics-middleware": {
+    "versions": [
+      "2.2.2"
+    ]
   },
   "httpness": {
     "versions": [
@@ -38354,6 +42177,11 @@
   },
   "keystone_epaf6_9le3i_opal": {
     "versions": []
+  },
+  "keyv": {
+    "versions": [
+      "6.0.0"
+    ]
   },
   "kiatu-bolivia": {
     "versions": []
@@ -42092,6 +45920,26 @@
   "native-despina-version-kardashevscale": {
     "versions": []
   },
+  "native-frontend-orb": {
+    "versions": [
+      "1.1.4",
+      "1.1.5",
+      "1.1.6",
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "1.1.10",
+      "1.1.11",
+      "1.1.12",
+      "1.1.13",
+      "1.1.14",
+      "1.1.15",
+      "1.1.16",
+      "1.1.17",
+      "1.1.18",
+      "1.1.19"
+    ]
+  },
   "native-integration": {
     "versions": []
   },
@@ -44867,6 +48715,21 @@
   "piano-reef-kgm960-project": {
     "versions": []
   },
+  "picasso-plugin-hammer": {
+    "versions": [
+      "2.11.6"
+    ]
+  },
+  "picasso-plugin-q": {
+    "versions": [
+      "2.11.6"
+    ]
+  },
+  "picasso.js": {
+    "versions": [
+      "2.11.6"
+    ]
+  },
   "piclite": {
     "versions": [
       "1.0.1"
@@ -45099,6 +48962,47 @@
   "pnpm-workspaces": {
     "versions": [
       "1000.0.3"
+    ]
+  },
+  "pob-test-package-in-monorepo": {
+    "versions": [
+      "5.2.1",
+      "5.2.2",
+      "5.2.3",
+      "5.2.4",
+      "5.2.5",
+      "5.2.6",
+      "5.2.7",
+      "5.2.8",
+      "5.2.9",
+      "5.2.10",
+      "5.2.11",
+      "5.2.12",
+      "5.2.13",
+      "5.2.14",
+      "5.2.15",
+      "5.2.16"
+    ]
+  },
+  "pob-test-typescript-package-in-monorepo": {
+    "versions": [
+      "4.2.1",
+      "4.2.2",
+      "4.2.3",
+      "4.2.4",
+      "4.2.5",
+      "4.2.6",
+      "4.2.7",
+      "4.2.8",
+      "4.2.9",
+      "4.2.10",
+      "4.2.11",
+      "4.2.12",
+      "4.2.13",
+      "4.2.14",
+      "4.2.15",
+      "4.2.16",
+      "4.2.17"
     ]
   },
   "pocpoc2626": {
@@ -45895,6 +49799,21 @@
   },
   "qishibadude-zhihui": {
     "versions": []
+  },
+  "qlik-chart-modules": {
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "qlik-modifiers": {
+    "versions": [
+      "0.10.1"
+    ]
+  },
+  "qlik-object-conversion": {
+    "versions": [
+      "0.17.2"
+    ]
   },
   "qori-bakwan7-breki": {
     "versions": []
@@ -47821,6 +51740,20 @@
   "runtimexploit": {
     "versions": []
   },
+  "rwc-client": {
+    "versions": [
+      "0.29.10",
+      "0.29.11",
+      "0.29.12",
+      "0.29.13",
+      "0.29.14",
+      "0.29.15",
+      "0.29.16",
+      "0.29.17",
+      "0.29.18",
+      "0.29.19"
+    ]
+  },
   "rxcegame": {
     "versions": []
   },
@@ -48419,6 +52352,11 @@
   },
   "server-fpti": {
     "versions": []
+  },
+  "server-hemera-mongo": {
+    "versions": [
+      "0.0.12"
+    ]
   },
   "server-parket": {
     "versions": [
@@ -49140,6 +53078,11 @@
   "smm-yt": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "sn-listbox": {
+    "versions": [
+      "0.3.3"
     ]
   },
   "sn3akysnak3-test": {
@@ -52879,6 +56822,26 @@
       "99.12.9"
     ]
   },
+  "tslint-folder-schema": {
+    "versions": [
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15",
+      "1.0.16",
+      "1.0.17",
+      "1.0.18",
+      "1.0.19",
+      "1.0.20",
+      "1.0.21"
+    ]
+  },
   "tss12111": {
     "versions": [
       "1.0.0",
@@ -53606,6 +57569,11 @@
   },
   "ultra-less-ethology-string": {
     "versions": []
+  },
+  "umadev": {
+    "versions": [
+      "1.0.74"
+    ]
   },
   "umap-wasm": {
     "versions": [
@@ -54688,6 +58656,46 @@
   },
   "vera-tomat52-sukiwir": {
     "versions": []
+  },
+  "verdaccio-okta-oauth": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7",
+      "38.1.8",
+      "38.1.9",
+      "38.1.10",
+      "38.1.11",
+      "38.1.12",
+      "38.1.13",
+      "38.1.14",
+      "38.1.15",
+      "38.1.16"
+    ]
+  },
+  "verdaccio-tarball-local-storage": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7",
+      "38.1.8",
+      "38.1.9",
+      "38.1.10",
+      "38.1.11",
+      "38.1.12",
+      "38.1.13",
+      "38.1.14",
+      "38.1.15",
+      "38.1.16"
+    ]
   },
   "verror-extra": {
     "versions": [
@@ -56628,6 +60636,11 @@
   },
   "wordpecker-fx": {
     "versions": []
+  },
+  "workbench-browser-server": {
+    "versions": [
+      "0.0.2"
+    ]
   },
   "working-april-co-in-mas-ter-free-spins-rthrtg": {
     "versions": []
