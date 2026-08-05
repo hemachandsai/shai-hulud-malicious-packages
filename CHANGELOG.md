@@ -1,3 +1,20 @@
+## 2026-08-05 20:07:59 — Added 0 new packages, updated 7 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (7)
+| Package | Version | Type |
+|---------|---------|-------|
+| cdk-insights | 1.59.3 | new-version |
+| cdk-insights | 1.60.0 | new-version |
+| cdk-insights | 1.58.1 | new-version |
+| cdk-insights | 1.61.0 | new-version |
+| cdk-insights | 1.59.2 | new-version |
+| cdk-insights | 1.60.1 | new-version |
+| cdk-insights | 1.59.1 | new-version |
+
+
 ## 2026-08-05 17:01:57 — Added 1 new packages, updated 0 versions
 
 ### 🆕 New Packages (1)

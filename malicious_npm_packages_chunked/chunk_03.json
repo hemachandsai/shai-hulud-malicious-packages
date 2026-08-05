@@ -1,4 +1,14 @@
 {
+  "executable-stories-cypress": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
   "executable-stories-demo": {
     "versions": [
       "0.1.11"
@@ -12052,15 +12062,6 @@
     "versions": []
   },
   "patria-enting33-breki": {
-    "versions": []
-  },
-  "patria-jengkol19-breki": {
-    "versions": []
-  },
-  "patria-kue91-breki": {
-    "versions": []
-  },
-  "patria-mangut45-kyuki": {
     "versions": []
   }
 }
