@@ -1,4 +1,30 @@
 {
+  "candra-tongseng89-ruro": {
+    "versions": []
+  },
+  "candra-tumis38-miaww": {
+    "versions": []
+  },
+  "candra-tumis4-ruro": {
+    "versions": []
+  },
+  "candra-ubi24-sluey": {
+    "versions": []
+  },
+  "canva-test": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "canvas-nest.js": {
+    "versions": [
+      "2.1.4",
+      "2.2.4"
+    ]
+  },
+  "caokong-renxinde-yiqilingge-jiqiao": {
+    "versions": []
+  },
   "caokong-renxinde-zhapian-xinlixue": {
     "versions": []
   },
@@ -11930,36 +11956,6 @@
       "6.1.1",
       "7.0.3",
       "8.3.2"
-    ]
-  },
-  "executable-stories-demo": {
-    "versions": [
-      "0.1.11"
-    ]
-  },
-  "executable-stories-formatters": {
-    "versions": [
-      "0.11.2"
-    ]
-  },
-  "executable-stories-init": {
-    "versions": [
-      "0.1.2"
-    ]
-  },
-  "executable-stories-jest": {
-    "versions": [
-      "3.1.1",
-      "4.0.1",
-      "5.0.1",
-      "6.1.1",
-      "7.0.3",
-      "8.3.2"
-    ]
-  },
-  "executable-stories-mcp": {
-    "versions": [
-      "0.3.3"
     ]
   }
 }

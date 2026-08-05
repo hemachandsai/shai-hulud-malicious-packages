@@ -1,4 +1,26 @@
 {
+  "@servicetitan/kendo-theme": {
+    "versions": [
+      "0.0.27",
+      "0.0.28",
+      "0.0.29",
+      "0.0.30",
+      "0.0.31",
+      "0.0.32",
+      "0.0.33"
+    ]
+  },
+  "@servicetitan/ko-bridge": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
   "@servicetitan/launchdarkly-service": {
     "versions": [
       "38.1.1",
@@ -8534,7 +8556,13 @@
       "29.0.2",
       "29.0.3",
       "29.0.4",
-      "29.0.5"
+      "29.0.5",
+      "30.0.0",
+      "31.0.0",
+      "32.0.0",
+      "33.0.0",
+      "34.0.0",
+      "34.0.1"
     ]
   },
   "autotel-vitest": {
@@ -11876,32 +11904,6 @@
     "versions": []
   },
   "candra-tongseng69-breki": {
-    "versions": []
-  },
-  "candra-tongseng89-ruro": {
-    "versions": []
-  },
-  "candra-tumis38-miaww": {
-    "versions": []
-  },
-  "candra-tumis4-ruro": {
-    "versions": []
-  },
-  "candra-ubi24-sluey": {
-    "versions": []
-  },
-  "canva-test": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "canvas-nest.js": {
-    "versions": [
-      "2.1.4",
-      "2.2.4"
-    ]
-  },
-  "caokong-renxinde-yiqilingge-jiqiao": {
     "versions": []
   }
 }

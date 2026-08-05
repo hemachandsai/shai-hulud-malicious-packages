@@ -1,4 +1,32 @@
 {
+  "wind-decode-serialize-balance-xml": {
+    "versions": []
+  },
+  "windows_registry_editor": {
+    "versions": []
+  },
+  "windows-sdks": {
+    "versions": [
+      "10.0.1"
+    ]
+  },
+  "windowston": {
+    "versions": [
+      "3.19.2"
+    ]
+  },
+  "winston-datalog": {
+    "versions": []
+  },
+  "winston-elara-semantic-release-tethys": {
+    "versions": []
+  },
+  "winston-global-proxima-metalsmith": {
+    "versions": []
+  },
+  "winston-log": {
+    "versions": []
+  },
   "winston-loopback-nodejs-bulma": {
     "versions": []
   },

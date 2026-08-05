@@ -1,4 +1,31 @@
 {
+  "patria-mendoan37-kyuki": {
+    "versions": []
+  },
+  "patria-mieaceh97-breki": {
+    "versions": []
+  },
+  "patria-rangi14-breki": {
+    "versions": []
+  },
+  "patria-sambel58-kyuki": {
+    "versions": []
+  },
+  "patria-sate35-breki": {
+    "versions": []
+  },
+  "patria-teh53-breki": {
+    "versions": []
+  },
+  "patria-toge44-breki": {
+    "versions": []
+  },
+  "patria-tongseng54-breki": {
+    "versions": []
+  },
+  "patria-tongseng77-breki": {
+    "versions": []
+  },
   "patria-tumis33-kyuki": {
     "versions": []
   },
@@ -12168,34 +12195,6 @@
     "versions": []
   },
   "winboxmy2025": {
-    "versions": []
-  },
-  "wind-decode-serialize-balance-xml": {
-    "versions": []
-  },
-  "windows_registry_editor": {
-    "versions": []
-  },
-  "windows-sdks": {
-    "versions": [
-      "10.0.1"
-    ]
-  },
-  "windowston": {
-    "versions": [
-      "3.19.2"
-    ]
-  },
-  "winston-datalog": {
-    "versions": []
-  },
-  "winston-elara-semantic-release-tethys": {
-    "versions": []
-  },
-  "winston-global-proxima-metalsmith": {
-    "versions": []
-  },
-  "winston-log": {
     "versions": []
   }
 }

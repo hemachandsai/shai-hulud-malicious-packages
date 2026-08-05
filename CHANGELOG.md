@@ -1,3 +1,26 @@
+## 2026-08-05 08:02:32 — Added 2 new packages, updated 12 versions
+
+### 🆕 New Packages (2)
+- @qlik/dts-bundler
+- @qlik/embed-svelte
+
+### 🔄 Updated Versions (12)
+| Package | Version | Type |
+|---------|---------|-------|
+| @emilgroup/auth-sdk-node | 1.25.0 | new-version |
+| @emilgroup/auth-sdk-node | 1.26.0 | new-version |
+| @emilgroup/auth-sdk-node | 1.28.1-beta.0 | new-version |
+| @emilgroup/auth-sdk-node | 1.28.0 | new-version |
+| @emilgroup/discount-sdk | 1.14.0 | new-version |
+| autotel-terminal | 30.0.0 | new-version |
+| autotel-terminal | 33.0.0 | new-version |
+| autotel-terminal | 34.0.1 | new-version |
+| autotel-terminal | 34.0.0 | new-version |
+| autotel-terminal | 32.0.0 | new-version |
+| autotel-terminal | 31.0.0 | new-version |
+| nitroping | 0.2.14 | new-version |
+
+
 ## 2026-08-05 01:59:58 — Added 439 new packages, updated 3 versions
 
 ### 🆕 New Packages (439)

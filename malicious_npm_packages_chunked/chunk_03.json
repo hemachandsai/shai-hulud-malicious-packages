@@ -1,4 +1,34 @@
 {
+  "executable-stories-demo": {
+    "versions": [
+      "0.1.11"
+    ]
+  },
+  "executable-stories-formatters": {
+    "versions": [
+      "0.11.2"
+    ]
+  },
+  "executable-stories-init": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "executable-stories-jest": {
+    "versions": [
+      "3.1.1",
+      "4.0.1",
+      "5.0.1",
+      "6.1.1",
+      "7.0.3",
+      "8.3.2"
+    ]
+  },
+  "executable-stories-mcp": {
+    "versions": [
+      "0.3.3"
+    ]
+  },
   "executable-stories-playwright": {
     "versions": [
       "3.1.1",
@@ -10153,7 +10183,8 @@
       "0.2.10",
       "0.2.11",
       "0.2.12",
-      "0.2.13"
+      "0.2.13",
+      "0.2.14"
     ]
   },
   "nj-logger": {
@@ -12030,33 +12061,6 @@
     "versions": []
   },
   "patria-mangut45-kyuki": {
-    "versions": []
-  },
-  "patria-mendoan37-kyuki": {
-    "versions": []
-  },
-  "patria-mieaceh97-breki": {
-    "versions": []
-  },
-  "patria-rangi14-breki": {
-    "versions": []
-  },
-  "patria-sambel58-kyuki": {
-    "versions": []
-  },
-  "patria-sate35-breki": {
-    "versions": []
-  },
-  "patria-teh53-breki": {
-    "versions": []
-  },
-  "patria-toge44-breki": {
-    "versions": []
-  },
-  "patria-tongseng54-breki": {
-    "versions": []
-  },
-  "patria-tongseng77-breki": {
     "versions": []
   }
 }
