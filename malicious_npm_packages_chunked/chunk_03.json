@@ -1,4 +1,18 @@
 {
+  "exec-exoplanetology-hercules-titan": {
+    "versions": []
+  },
+  "execfences": {
+    "versions": [
+      "5.0.2",
+      "5.0.3",
+      "5.0.4",
+      "5.0.5",
+      "5.0.6",
+      "5.1.0",
+      "5.1.1"
+    ]
+  },
   "executable-stories-cypress": {
     "versions": [
       "3.1.1",
@@ -12048,20 +12062,5 @@
     "versions": [
       "1.0.1"
     ]
-  },
-  "path-to-regexp-updated": {
-    "versions": [
-      "99.99.1",
-      "99.99.2"
-    ]
-  },
-  "patria-bubur96-kyuki": {
-    "versions": []
-  },
-  "patria-donat41-kyuki": {
-    "versions": []
-  },
-  "patria-enting33-breki": {
-    "versions": []
   }
 }

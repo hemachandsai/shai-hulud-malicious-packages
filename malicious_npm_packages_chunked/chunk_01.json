@@ -1,4 +1,15 @@
 {
+  "@servicetitan/json-render-react": {
+    "versions": [
+      "0.4.6",
+      "0.4.7",
+      "0.4.8",
+      "0.4.9",
+      "0.4.10",
+      "0.4.11",
+      "0.4.12"
+    ]
+  },
   "@servicetitan/kendo-theme": {
     "versions": [
       "0.0.27",
@@ -2955,6 +2966,11 @@
   "@trackstar/test-package": {
     "versions": [
       "1.1.5"
+    ]
+  },
+  "@trackunit/iris-app-sdk-vite": {
+    "versions": [
+      "1.2.10-alpha-d785aff3531.0"
     ]
   },
   "@transaction-list/transaction-list-lg": {
@@ -11889,21 +11905,6 @@
     "versions": []
   },
   "candra-tiwul20-apidev": {
-    "versions": []
-  },
-  "candra-tiwul53-breki": {
-    "versions": []
-  },
-  "candra-toge53-sluey": {
-    "versions": []
-  },
-  "candra-tomat80-riris": {
-    "versions": []
-  },
-  "candra-tongseng12-wekto": {
-    "versions": []
-  },
-  "candra-tongseng69-breki": {
     "versions": []
   }
 }
