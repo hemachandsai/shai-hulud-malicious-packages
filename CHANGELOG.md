@@ -1,3 +1,14 @@
+## 2026-08-07 14:10:24 — Added 0 new packages, updated 1 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (1)
+| Package | Version | Type |
+|---------|---------|-------|
+| @apicity/meta | 0.8.8 | new-version |
+
+
 ## 2026-08-07 12:51:49 — Added 0 new packages, updated 3 versions
 
 ### 🆕 New Packages (0)
