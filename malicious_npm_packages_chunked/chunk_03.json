@@ -3032,6 +3032,11 @@
       "9.9.9"
     ]
   },
+  "gpt-terminal-cli": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "gradle-plugin": {
     "versions": []
   },
@@ -12056,11 +12061,6 @@
       "1.0.11",
       "1.0.12",
       "1.0.14"
-    ]
-  },
-  "path-internal-util": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }
