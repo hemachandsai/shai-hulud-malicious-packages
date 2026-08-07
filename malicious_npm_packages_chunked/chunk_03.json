@@ -1,4 +1,7 @@
 {
+  "excluder-mcp-package": {
+    "versions": []
+  },
   "exec-exoplanetology-hercules-titan": {
     "versions": []
   },

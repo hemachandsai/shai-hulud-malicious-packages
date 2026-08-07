@@ -8578,7 +8578,10 @@
       "32.0.0",
       "33.0.0",
       "34.0.0",
-      "34.0.1"
+      "34.0.1",
+      "35.0.0",
+      "36.0.0",
+      "36.0.1"
     ]
   },
   "autotel-vitest": {
@@ -11902,9 +11905,6 @@
     "versions": []
   },
   "candra-tempe6-riris": {
-    "versions": []
-  },
-  "candra-tiwul20-apidev": {
     "versions": []
   }
 }
