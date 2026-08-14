@@ -5841,6 +5841,7 @@
   },
   "sui-gql": {
     "versions": [
+      "0.1.0",
       "0.2.0"
     ]
   },
@@ -12216,9 +12217,6 @@
     "versions": []
   },
   "wibowo-lupis67-sukiwir": {
-    "versions": []
-  },
-  "wibowo-mangga26-sukiwir": {
     "versions": []
   }
 }

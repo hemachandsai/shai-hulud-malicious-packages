@@ -1,3 +1,14 @@
+## 2026-08-14 16:16:00 — Added 0 new packages, updated 1 versions
+
+### 🆕 New Packages (0)
+_None_
+
+### 🔄 Updated Versions (1)
+| Package | Version | Type |
+|---------|---------|-------|
+| sui-gql | 0.1.0 | new-version |
+
+
 ## 2026-08-14 15:17:21 — Added 20 new packages, updated 0 versions
 
 ### 🆕 New Packages (20)
