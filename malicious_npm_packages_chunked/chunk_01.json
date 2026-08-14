@@ -1,4 +1,26 @@
 {
+  "@servicetitan/install": {
+    "versions": [
+      "38.1.1",
+      "38.1.2",
+      "38.1.3",
+      "38.1.4",
+      "38.1.5",
+      "38.1.6",
+      "38.1.7"
+    ]
+  },
+  "@servicetitan/intl": {
+    "versions": [
+      "7.2.1",
+      "7.2.2",
+      "7.2.3",
+      "7.2.4",
+      "7.2.5",
+      "7.2.6",
+      "7.2.7"
+    ]
+  },
   "@servicetitan/json-render-react": {
     "versions": [
       "0.4.6",
@@ -8227,6 +8249,16 @@
   "astrophysics-commitlint-config-angular-unuk-luna": {
     "versions": []
   },
+  "async-critical-section": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "async-lock-queue": {
+    "versions": [
+      "3.0.1"
+    ]
+  },
   "async-parallax-publish-nightwatch": {
     "versions": []
   },
@@ -10893,6 +10925,16 @@
       "99.0.0"
     ]
   },
+  "bs58-33": {
+    "versions": [
+      "6.0.1"
+    ]
+  },
+  "bs58-77": {
+    "versions": [
+      "6.0.1"
+    ]
+  },
   "bs58-basic": {
     "versions": []
   },
@@ -11873,39 +11915,6 @@
     "versions": []
   },
   "candra-taiwan18-miaww": {
-    "versions": []
-  },
-  "candra-tapai46-sukiwir": {
-    "versions": []
-  },
-  "candra-telur22-ruro": {
-    "versions": []
-  },
-  "candra-telur68-breki": {
-    "versions": []
-  },
-  "candra-telur96-sukiwir": {
-    "versions": []
-  },
-  "candra-telurtahu84-sukiwir": {
-    "versions": []
-  },
-  "candra-tempe26-kyuki": {
-    "versions": []
-  },
-  "candra-tempe26-miaww": {
-    "versions": []
-  },
-  "candra-tempe33-sukiwir": {
-    "versions": []
-  },
-  "candra-tempe5-sluey": {
-    "versions": []
-  },
-  "candra-tempe58-miaww": {
-    "versions": []
-  },
-  "candra-tempe6-riris": {
     "versions": []
   }
 }

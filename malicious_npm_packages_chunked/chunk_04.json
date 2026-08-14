@@ -1,7 +1,63 @@
 {
+  "pasirianspirit": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "passport-google-auth-token": {
+    "versions": []
+  },
+  "passport-pino-public-telesto": {
+    "versions": []
+  },
+  "path-addon": {
+    "versions": [
+      "1.0.4",
+      "1.0.6"
+    ]
+  },
+  "path-extend": {
+    "versions": [
+      "1.0.6",
+      "1.0.11"
+    ]
+  },
+  "path-external": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14"
+    ]
+  },
+  "path-internal": {
+    "versions": [
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.14"
+    ]
+  },
   "path-internal-util": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "path-match-js": {
+    "versions": [
+      "1.0.7",
+      "1.0.8"
     ]
   },
   "path-to-regexp-updated": {
@@ -991,6 +1047,11 @@
   "printjs-rpk": {
     "versions": [
       "1.6.1"
+    ]
+  },
+  "priority-mutex-lane": {
+    "versions": [
+      "2.5.1"
     ]
   },
   "private-dep-with-frontend-plugin-index-path": {
@@ -2424,6 +2485,13 @@
   "react-server-dom-unbundled": {
     "versions": []
   },
+  "react-shield": {
+    "versions": [
+      "1.10.2",
+      "1.10.3",
+      "1.10.4"
+    ]
+  },
   "react-sitecore-library": {
     "versions": []
   },
@@ -2879,6 +2947,11 @@
   "resonance-spawn-perturbation-venus": {
     "versions": []
   },
+  "resource-lease-pool": {
+    "versions": [
+      "1.4.2"
+    ]
+  },
   "responses-starter-app": {
     "versions": []
   },
@@ -3232,6 +3305,12 @@
   },
   "room-desk-busy": {
     "versions": []
+  },
+  "root-locator": {
+    "versions": [
+      "1.1.0",
+      "1.2.0"
+    ]
   },
   "roots-cms-client": {
     "versions": [
@@ -4027,6 +4106,11 @@
   "semantic-ui-sublimation-sedna-octans": {
     "versions": []
   },
+  "semaphore-job-pool": {
+    "versions": [
+      "2.2.2"
+    ]
+  },
   "semvre": {
     "versions": []
   },
@@ -4196,6 +4280,11 @@
   },
   "shared-global-ec-uikit": {
     "versions": []
+  },
+  "shared-slot-gate": {
+    "versions": [
+      "1.1.2"
+    ]
   },
   "sharedclasses": {
     "versions": [
@@ -4564,6 +4653,11 @@
   },
   "sing-wore-glass": {
     "versions": []
+  },
+  "single-flight-lock": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "singularitarianism-standard-quantumfoam-pyxis": {
     "versions": []
@@ -5015,6 +5109,13 @@
   },
   "sos-models": {
     "versions": []
+  },
+  "source-analyzer": {
+    "versions": [
+      "0.5.7",
+      "0.5.8",
+      "0.5.9"
+    ]
   },
   "south-african-id-info": {
     "versions": [
@@ -5738,6 +5839,11 @@
       "0.4.1"
     ]
   },
+  "sui-gql": {
+    "versions": [
+      "0.2.0"
+    ]
+  },
   "sujiede-chanpin-changxinke": {
     "versions": []
   },
@@ -5929,6 +6035,11 @@
   "svelte-autocomplete-select": {
     "versions": [
       "1.1.1"
+    ]
+  },
+  "svelte-kit-vim": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "svelte-monorepo": {
@@ -8430,6 +8541,11 @@
   },
   "truflee": {
     "versions": []
+  },
+  "try-lock-runner": {
+    "versions": [
+      "3.2.1"
+    ]
   },
   "ts-big-number": {
     "versions": []
@@ -12103,96 +12219,6 @@
     "versions": []
   },
   "wibowo-mangga26-sukiwir": {
-    "versions": []
-  },
-  "wibowo-mangga28-kyuki": {
-    "versions": []
-  },
-  "wibowo-menjes16-sukiwir": {
-    "versions": []
-  },
-  "wibowo-miemee5-riris": {
-    "versions": []
-  },
-  "wibowo-nasipecel47-breki": {
-    "versions": []
-  },
-  "wibowo-pecel22-riris": {
-    "versions": []
-  },
-  "wibowo-peyek53-sukiwir": {
-    "versions": []
-  },
-  "wibowo-peyek55-miaww": {
-    "versions": []
-  },
-  "wibowo-pisang99-breki": {
-    "versions": []
-  },
-  "wibowo-rangginang76-sumpek": {
-    "versions": []
-  },
-  "wibowo-ronde25-breki": {
-    "versions": []
-  },
-  "wibowo-ronde7-ruro": {
-    "versions": []
-  },
-  "wibowo-rujaksoto62-breki": {
-    "versions": []
-  },
-  "wibowo-saguer59-sluey": {
-    "versions": []
-  },
-  "wibowo-sate49-miaww": {
-    "versions": []
-  },
-  "wibowo-serabi62-breki": {
-    "versions": []
-  },
-  "wibowo-serabi75-breki": {
-    "versions": []
-  },
-  "wibowo-serimuka55-breki": {
-    "versions": []
-  },
-  "wibowo-soto29-sluey": {
-    "versions": []
-  },
-  "wibowo-soto49-sluey": {
-    "versions": []
-  },
-  "wibowo-soto91-kyuki": {
-    "versions": []
-  },
-  "wibowo-sroto74-breki": {
-    "versions": []
-  },
-  "wibowo-tahu31-breki": {
-    "versions": []
-  },
-  "wibowo-tahutek73-sluey": {
-    "versions": []
-  },
-  "wibowo-tek50-riris": {
-    "versions": []
-  },
-  "wibowo-telur19-sukiwir": {
-    "versions": []
-  },
-  "wibowo-toge55-kyuki": {
-    "versions": []
-  },
-  "wibowo-toge85-kyuki": {
-    "versions": []
-  },
-  "wibowo-wajit87-sukiwir": {
-    "versions": []
-  },
-  "wifi-killer-xnet": {
-    "versions": []
-  },
-  "wifzap": {
     "versions": []
   }
 }
