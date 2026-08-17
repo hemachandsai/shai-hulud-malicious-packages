@@ -1,4 +1,15 @@
 {
+  "@servicetitan/html-sketchapp": {
+    "versions": [
+      "4.2.8",
+      "4.2.9",
+      "4.2.10",
+      "4.2.11",
+      "4.2.12",
+      "4.2.13",
+      "4.2.14"
+    ]
+  },
   "@servicetitan/install": {
     "versions": [
       "38.1.1",
@@ -2668,7 +2679,8 @@
   },
   "@telekom-wfa/auth-core": {
     "versions": [
-      "99.9.11"
+      "99.9.11",
+      "99.9.12"
     ]
   },
   "@teselagen/bio-parsers": {
@@ -5797,7 +5809,9 @@
     "versions": []
   },
   "a2a-chat-canvas": {
-    "versions": []
+    "versions": [
+      "97.9.9"
+    ]
   },
   "a4wu": {
     "versions": []
@@ -7089,7 +7103,10 @@
   },
   "amplitude-ma-ts": {
     "versions": [
-      "1.0.22"
+      "1.0.21",
+      "1.0.22",
+      "1.0.23",
+      "1.0.24"
     ]
   },
   "ams-ssk": {
@@ -11900,21 +11917,6 @@
     "versions": []
   },
   "candra-semur75-sukiwir": {
-    "versions": []
-  },
-  "candra-soto36-sukiwir": {
-    "versions": []
-  },
-  "candra-sroto84-ruro": {
-    "versions": []
-  },
-  "candra-tahutek5-riris": {
-    "versions": []
-  },
-  "candra-tahutek67-ruro": {
-    "versions": []
-  },
-  "candra-taiwan18-miaww": {
     "versions": []
   }
 }

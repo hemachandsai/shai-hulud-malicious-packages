@@ -1,4 +1,19 @@
 {
+  "candra-soto36-sukiwir": {
+    "versions": []
+  },
+  "candra-sroto84-ruro": {
+    "versions": []
+  },
+  "candra-tahutek5-riris": {
+    "versions": []
+  },
+  "candra-tahutek67-ruro": {
+    "versions": []
+  },
+  "candra-taiwan18-miaww": {
+    "versions": []
+  },
   "candra-tapai46-sukiwir": {
     "versions": []
   },
@@ -5027,7 +5042,10 @@
     "versions": []
   },
   "df-sandbox-test": {
-    "versions": []
+    "versions": [
+      "1.0.0",
+      "1.1.0"
+    ]
   },
   "df-vision": {
     "versions": [
@@ -11931,24 +11949,5 @@
   },
   "evoke_pnhix_ebygb_horizon": {
     "versions": []
-  },
-  "evoke_wwixv_c5ba5_serenade": {
-    "versions": []
-  },
-  "ews-paze-toolkit": {
-    "versions": []
-  },
-  "exact-ticker": {
-    "versions": [
-      "0.3.5"
-    ]
-  },
-  "example-backend": {
-    "versions": []
-  },
-  "example-icrc35-shared-library": {
-    "versions": [
-      "99.0.0"
-    ]
   }
 }

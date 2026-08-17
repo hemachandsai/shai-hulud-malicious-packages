@@ -1,4 +1,33 @@
 {
+  "parsec-sociobiology-dotenv-safe-neutronstar": {
+    "versions": []
+  },
+  "parsejson-pro": {
+    "versions": [
+      "2.3.18"
+    ]
+  },
+  "parser-session": {
+    "versions": []
+  },
+  "parser-tson": {
+    "versions": []
+  },
+  "partner-tracker": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "partner-tracker-api": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "partnerss": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
   "pasirianspirit": {
     "versions": [
       "2.0.0"
@@ -3391,6 +3420,7 @@
   },
   "rtms-manager": {
     "versions": [
+      "1.0.0",
       "1.2.0",
       "1.4.0"
     ]
@@ -6982,8 +7012,21 @@
   },
   "tecken": {
     "versions": [
+      "0.1.0",
+      "0.1.1",
       "0.1.2",
-      "0.1.13"
+      "0.1.3",
+      "0.1.4",
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8",
+      "0.1.9",
+      "0.1.10",
+      "0.1.11",
+      "0.1.12",
+      "0.1.13",
+      "0.1.15"
     ]
   },
   "teeseest": {
@@ -12181,42 +12224,6 @@
     "versions": []
   },
   "wibowo-keripik73-sukiwir": {
-    "versions": []
-  },
-  "wibowo-keripik89-ruro": {
-    "versions": []
-  },
-  "wibowo-kripik47-miaww": {
-    "versions": []
-  },
-  "wibowo-kue24-sukiwir": {
-    "versions": []
-  },
-  "wibowo-kue38-miaww": {
-    "versions": []
-  },
-  "wibowo-kue84-riris": {
-    "versions": []
-  },
-  "wibowo-kupang23-breki": {
-    "versions": []
-  },
-  "wibowo-kupang61-sukiwir": {
-    "versions": []
-  },
-  "wibowo-kupat8-sluey": {
-    "versions": []
-  },
-  "wibowo-lapis13-sumpek": {
-    "versions": []
-  },
-  "wibowo-lapis78-breki": {
-    "versions": []
-  },
-  "wibowo-lapis96-sluey": {
-    "versions": []
-  },
-  "wibowo-lupis67-sukiwir": {
     "versions": []
   }
 }

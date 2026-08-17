@@ -1,4 +1,23 @@
 {
+  "evoke_wwixv_c5ba5_serenade": {
+    "versions": []
+  },
+  "ews-paze-toolkit": {
+    "versions": []
+  },
+  "exact-ticker": {
+    "versions": [
+      "0.3.5"
+    ]
+  },
+  "example-backend": {
+    "versions": []
+  },
+  "example-icrc35-shared-library": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
   "example-js-project": {
     "versions": [
       "1.0.2",
@@ -848,6 +867,9 @@
   },
   "fanduel": {
     "versions": [
+      "100.0.0",
+      "100.2.0",
+      "100.4.0",
       "100.5.0"
     ]
   },
@@ -9089,7 +9111,13 @@
   "money-badger-open-rpc": {
     "versions": [
       "99.99.99",
-      "200.99.100"
+      "100.99.99",
+      "101.99.99",
+      "102.999.0",
+      "103.999.0",
+      "199.99.100",
+      "200.99.100",
+      "201.99.100"
     ]
   },
   "money-badger-open-rpc-test-bugbount": {
@@ -12034,34 +12062,5 @@
   },
   "parsec-eris-enceladus-metabolomics": {
     "versions": []
-  },
-  "parsec-sociobiology-dotenv-safe-neutronstar": {
-    "versions": []
-  },
-  "parsejson-pro": {
-    "versions": [
-      "2.3.18"
-    ]
-  },
-  "parser-session": {
-    "versions": []
-  },
-  "parser-tson": {
-    "versions": []
-  },
-  "partner-tracker": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "partner-tracker-api": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "partnerss": {
-    "versions": [
-      "99.9.9"
-    ]
   }
 }
