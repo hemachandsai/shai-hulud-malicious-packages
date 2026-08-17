@@ -35079,10 +35079,14 @@
     "versions": []
   },
   "epic-common": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-common-node": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-config": {
     "versions": []
@@ -35283,7 +35287,9 @@
     "versions": []
   },
   "epic-sso": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-sticky-header": {
     "versions": []

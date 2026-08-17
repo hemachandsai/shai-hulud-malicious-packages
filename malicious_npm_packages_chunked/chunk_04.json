@@ -1,4 +1,12 @@
 {
+  "parse-session": {
+    "versions": [
+      "2.4.1"
+    ]
+  },
+  "parsec-eris-enceladus-metabolomics": {
+    "versions": []
+  },
   "parsec-sociobiology-dotenv-safe-neutronstar": {
     "versions": []
   },
@@ -12218,12 +12226,6 @@
     "versions": []
   },
   "wibowo-kemplang6-sluey": {
-    "versions": []
-  },
-  "wibowo-keripik49-breki": {
-    "versions": []
-  },
-  "wibowo-keripik73-sukiwir": {
     "versions": []
   }
 }

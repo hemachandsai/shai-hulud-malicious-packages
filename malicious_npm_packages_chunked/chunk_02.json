@@ -10744,10 +10744,14 @@
     "versions": []
   },
   "epic-common": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-common-node": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-config": {
     "versions": []
@@ -10948,7 +10952,9 @@
     "versions": []
   },
   "epic-sso": {
-    "versions": []
+    "versions": [
+      "0.0.1-security"
+    ]
   },
   "epic-sticky-header": {
     "versions": []
@@ -11942,12 +11948,6 @@
     ]
   },
   "evm-gateway-contracts-private": {
-    "versions": []
-  },
-  "evoke_4e9ce_h2zct_quiver": {
-    "versions": []
-  },
-  "evoke_pnhix_ebygb_horizon": {
     "versions": []
   }
 }
