@@ -10367,6 +10367,12 @@
       "8.0.3"
     ]
   },
+  "@peptideventure/peptide-score-modifier": {
+    "versions": [
+      "1.0.4",
+      "1.0.5"
+    ]
+  },
   "@pergel/cli": {
     "versions": [
       "0.11.1"

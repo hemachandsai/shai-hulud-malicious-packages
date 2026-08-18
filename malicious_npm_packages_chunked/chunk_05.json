@@ -1,4 +1,131 @@
 {
+  "webpikes": {
+    "versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.1.1",
+      "1.1.2",
+      "1.2.1",
+      "1.2.2",
+      "1.2.4"
+    ]
+  },
+  "websockets-singularity-tailwindcss-resolvers": {
+    "versions": []
+  },
+  "websockets-tool-backend-bootstrap": {
+    "versions": []
+  },
+  "webswing-directdraw-javascript": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "week-4-node-modularization": {
+    "versions": []
+  },
+  "weika-guanxi-mofa": {
+    "versions": []
+  },
+  "weika-mofa": {
+    "versions": []
+  },
+  "weirensheng-dailai-qijide-mofashu": {
+    "versions": []
+  },
+  "weite-taluo-zhidao-shouce": {
+    "versions": []
+  },
+  "weizhide-shixian-vol1": {
+    "versions": []
+  },
+  "weizhide-shixian-vol2": {
+    "versions": []
+  },
+  "wellness-expert-ng-gallery": {
+    "versions": [
+      "5.1.1"
+    ]
+  },
+  "wenk": {
+    "versions": [
+      "1.0.9",
+      "1.0.10"
+    ]
+  },
+  "wenti-zhishu": {
+    "versions": []
+  },
+  "werufgugweuiguiwergqui": {
+    "versions": [
+      "2.3.9"
+    ]
+  },
+  "weywot-kinetic-aether-pm2": {
+    "versions": []
+  },
+  "wezen-kastra-yakutsk-mongoose": {
+    "versions": []
+  },
+  "wezen-public-parallax-public": {
+    "versions": []
+  },
+  "wfui-dbd-react-ui": {
+    "versions": [
+      "99.9.1"
+    ]
+  },
+  "wfui-dsm-react-ui": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "wfui-test-e2e": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "whatfix-icons": {
+    "versions": [
+      "7.0.0",
+      "99.1.0"
+    ]
+  },
+  "whatnot-events": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "whatnot-manifests": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "whatnot-web": {
+    "versions": [
+      "99.0.4"
+    ]
+  },
+  "whatsadmaidk": {
+    "versions": [
+      "1.1.2",
+      "2.0.0"
+    ]
+  },
+  "whatsapp-core-auth-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "whatsapp-fastdesk-utils-drzak": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "whitedwarf-pegasus-darkmatter-petrology": {
+    "versions": []
+  },
   "whitedwarf-xml-phoebe-quantum-computing": {
     "versions": []
   },

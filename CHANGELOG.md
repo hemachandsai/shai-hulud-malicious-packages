@@ -1,3 +1,113 @@
+## 2026-08-18 21:49:28 — Added 8 new packages, updated 93 versions
+
+### 🆕 New Packages (8)
+- @peptideventure/peptide-score-modifier
+- bcs-core
+- sugarball-cli
+- sui-gql-core
+- sui-gql-lite
+- sui-move-graphql
+- sui-move-rpc
+- svelte-goal-vim
+
+### 🔄 Updated Versions (93)
+| Package | Version | Type |
+|---------|---------|-------|
+| @siwatfa/yorn | 1.0.100 | new-version |
+| @siwatfa/yorn | 1.0.64 | new-version |
+| @siwatfa/yorn | 1.0.92 | new-version |
+| @siwatfa/yorn | 0.0.6 | new-version |
+| @siwatfa/yorn | 1.0.1 | new-version |
+| @siwatfa/yorn | 0.0.34 | new-version |
+| @siwatfa/yorn | 1.0.76 | new-version |
+| @siwatfa/yorn | 1.0.82 | new-version |
+| @siwatfa/yorn | 1.0.17 | new-version |
+| @siwatfa/yorn | 1.0.51 | new-version |
+| @siwatfa/yorn | 1.0.58 | new-version |
+| @siwatfa/yorn | 1.0.24 | new-version |
+| @siwatfa/yorn | 1.0.19 | new-version |
+| @siwatfa/yorn | 0.0.22 | new-version |
+| @siwatfa/yorn | 1.0.83 | new-version |
+| @siwatfa/yorn | 1.0.18 | new-version |
+| @siwatfa/yorn | 1.0.13 | new-version |
+| @siwatfa/yorn | 1.0.80 | new-version |
+| @siwatfa/yorn | 1.0.12 | new-version |
+| @siwatfa/yorn | 1.0.22 | new-version |
+| @siwatfa/yorn | 1.0.42 | new-version |
+| @siwatfa/yorn | 1.0.68 | new-version |
+| @siwatfa/yorn | 1.0.46 | new-version |
+| @siwatfa/yorn | 1.0.45 | new-version |
+| @siwatfa/yorn | 1.0.95 | new-version |
+| @siwatfa/yorn | 1.0.75 | new-version |
+| @siwatfa/yorn | 0.0.29 | new-version |
+| @siwatfa/yorn | 1.0.7 | new-version |
+| @siwatfa/yorn | 1.0.93 | new-version |
+| @siwatfa/yorn | 1.0.27 | new-version |
+| @siwatfa/yorn | 1.0.72 | new-version |
+| @siwatfa/yorn | 1.0.102 | new-version |
+| @siwatfa/yorn | 1.0.96 | new-version |
+| @siwatfa/yorn | 1.0.101 | new-version |
+| @siwatfa/yorn | 1.0.52 | new-version |
+| @siwatfa/yorn | 1.0.20 | new-version |
+| @siwatfa/yorn | 0.0.27 | new-version |
+| @siwatfa/yorn | 0.0.19 | new-version |
+| @siwatfa/yorn | 1.0.91 | new-version |
+| @siwatfa/yorn | 1.0.60 | new-version |
+| @siwatfa/yorn | 1.0.61 | new-version |
+| @siwatfa/yorn | 1.0.65 | new-version |
+| @siwatfa/yorn | 1.0.44 | new-version |
+| @siwatfa/yorn | 0.0.45 | new-version |
+| @siwatfa/yorn | 1.0.25 | new-version |
+| @siwatfa/yorn | 1.0.15 | new-version |
+| @siwatfa/yorn | 0.0.17 | new-version |
+| @siwatfa/yorn | 0.0.2 | new-version |
+| @siwatfa/yorn | 1.0.62 | new-version |
+| @siwatfa/yorn | 1.0.6 | new-version |
+| @siwatfa/yorn | 1.0.38 | new-version |
+| @siwatfa/yorn | 1.0.85 | new-version |
+| @siwatfa/yorn | 1.0.23 | new-version |
+| @siwatfa/yorn | 1.0.98 | new-version |
+| @siwatfa/yorn | 1.0.99 | new-version |
+| @siwatfa/yorn | 1.0.87 | new-version |
+| @siwatfa/yorn | 0.0.11 | new-version |
+| @siwatfa/yorn | 1.0.31 | new-version |
+| @siwatfa/yorn | 1.0.59 | new-version |
+| @siwatfa/yorn | 1.0.50 | new-version |
+| @siwatfa/yorn | 1.0.88 | new-version |
+| @siwatfa/yorn | 1.0.16 | new-version |
+| @siwatfa/yorn | 1.0.69 | new-version |
+| @siwatfa/yorn | 1.0.8 | new-version |
+| @siwatfa/yorn | 1.0.57 | new-version |
+| @siwatfa/yorn | 0.0.16 | new-version |
+| @siwatfa/yorn | 1.0.36 | new-version |
+| @siwatfa/yorn | 1.0.43 | new-version |
+| @siwatfa/yorn | 1.0.32 | new-version |
+| @siwatfa/yorn | 1.0.11 | new-version |
+| @siwatfa/yorn | 1.0.5 | new-version |
+| @siwatfa/yorn | 1.0.41 | new-version |
+| @siwatfa/yorn | 0.0.13 | new-version |
+| @siwatfa/yorn | 1.0.14 | new-version |
+| @siwatfa/yorn | 1.0.89 | new-version |
+| @siwatfa/yorn | 0.0.26 | new-version |
+| @siwatfa/yorn | 1.0.71 | new-version |
+| @siwatfa/yorn | 1.0.70 | new-version |
+| @siwatfa/yorn | 1.0.86 | new-version |
+| @siwatfa/yorn | 1.0.21 | new-version |
+| @siwatfa/yorn | 1.0.28 | new-version |
+| @siwatfa/yorn | 1.0.53 | new-version |
+| @siwatfa/yorn | 1.0.66 | new-version |
+| @siwatfa/yorn | 1.0.94 | new-version |
+| @siwatfa/yorn | 1.0.97 | new-version |
+| @siwatfa/yorn | 1.0.30 | new-version |
+| @siwatfa/yorn | 1.0.55 | new-version |
+| @siwatfa/yorn | 1.0.78 | new-version |
+| @siwatfa/yorn | 1.0.29 | new-version |
+| @siwatfa/yorn | 1.0.10 | new-version |
+| @siwatfa/yorn | 1.0.34 | new-version |
+| @siwatfa/yorn | 1.0.54 | new-version |
+| @siwatfa/yorn | 1.0.9 | new-version |
+
+
 ## 2026-08-18 21:20:56 — Added 3 new packages, updated 0 versions
 
 ### 🆕 New Packages (3)
