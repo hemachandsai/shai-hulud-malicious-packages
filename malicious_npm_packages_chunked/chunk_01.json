@@ -1083,6 +1083,65 @@
       "0.7.1"
     ]
   },
+  "@siwatfa/yorn": {
+    "versions": [
+      "0.0.1",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.0.10",
+      "0.0.12",
+      "0.0.14",
+      "0.0.15",
+      "0.0.18",
+      "0.0.20",
+      "0.0.21",
+      "0.0.23",
+      "0.0.24",
+      "0.0.25",
+      "0.0.28",
+      "0.0.30",
+      "0.0.31",
+      "0.0.32",
+      "0.0.33",
+      "0.0.35",
+      "0.0.36",
+      "0.0.37",
+      "0.0.38",
+      "0.0.39",
+      "0.0.40",
+      "0.0.41",
+      "0.0.42",
+      "0.0.43",
+      "0.0.44",
+      "1.0.0",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.26",
+      "1.0.33",
+      "1.0.35",
+      "1.0.39",
+      "1.0.40",
+      "1.0.47",
+      "1.0.48",
+      "1.0.49",
+      "1.0.56",
+      "1.0.63",
+      "1.0.67",
+      "1.0.73",
+      "1.0.74",
+      "1.0.77",
+      "1.0.79",
+      "1.0.81",
+      "1.0.84",
+      "1.0.90",
+      "1.0.103"
+    ]
+  },
   "@sixcore/baileys": {
     "versions": []
   },
@@ -5807,6 +5866,11 @@
   },
   "90000-coin-master-free-spins-rflmre": {
     "versions": []
+  },
+  "a.poltoradnev-package-a": {
+    "versions": [
+      "0.0.1"
+    ]
   },
   "a2a-chat-canvas": {
     "versions": [
@@ -11863,60 +11927,6 @@
     "versions": []
   },
   "candra-peyek38-miaww": {
-    "versions": []
-  },
-  "candra-peyek94-breki": {
-    "versions": []
-  },
-  "candra-pisang13-miaww": {
-    "versions": []
-  },
-  "candra-pisang68-breki": {
-    "versions": []
-  },
-  "candra-rangginang22-ruro": {
-    "versions": []
-  },
-  "candra-rangginang93-sluey": {
-    "versions": []
-  },
-  "candra-rangi3-ruro": {
-    "versions": []
-  },
-  "candra-rangi9-sluey": {
-    "versions": []
-  },
-  "candra-rawon21-breki": {
-    "versions": []
-  },
-  "candra-rawon38-ruro": {
-    "versions": []
-  },
-  "candra-rendang25-riris": {
-    "versions": []
-  },
-  "candra-rujaksoto33-riris": {
-    "versions": []
-  },
-  "candra-ruwet12-riris": {
-    "versions": []
-  },
-  "candra-sambalado57-sluey": {
-    "versions": []
-  },
-  "candra-sambalado79-sluey": {
-    "versions": []
-  },
-  "candra-sambel74-riris": {
-    "versions": []
-  },
-  "candra-sasag4-miaww": {
-    "versions": []
-  },
-  "candra-sasag90-riris": {
-    "versions": []
-  },
-  "candra-semur75-sukiwir": {
     "versions": []
   }
 }
