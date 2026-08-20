@@ -10955,6 +10955,11 @@
       "9.1.15"
     ]
   },
+  "node-runtime-utils": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "node-sass-cz-conventional-changelog-foundation-nashira": {
     "versions": []
   },
@@ -12058,11 +12063,6 @@
     ]
   },
   "otomi-console": {
-    "versions": [
-      "9.9.9"
-    ]
-  },
-  "otomi-tasks": {
     "versions": [
       "9.9.9"
     ]

@@ -1,4 +1,9 @@
 {
+  "otomi-tasks": {
+    "versions": [
+      "9.9.9"
+    ]
+  },
   "outercore-blitz-upgrade-canopus": {
     "versions": []
   },
