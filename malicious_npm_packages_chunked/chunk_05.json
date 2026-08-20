@@ -1,4 +1,57 @@
 {
+  "webdriver-manager-plutology-postcss-loader-meissa": {
+    "versions": []
+  },
+  "webdriver-mocha-brane-request-sagitta": {
+    "versions": []
+  },
+  "webdriver-mocha-protoplanetarydisk-thuban-superflare": {
+    "versions": []
+  },
+  "webmd-cookie": {
+    "versions": []
+  },
+  "webmd-debug": {
+    "versions": []
+  },
+  "webmd-page-common": {
+    "versions": [
+      "77.7.7"
+    ]
+  },
+  "webmd-url": {
+    "versions": []
+  },
+  "webnoch": {
+    "versions": []
+  },
+  "webnochs": {
+    "versions": []
+  },
+  "webpack-command-blaze-ariel": {
+    "versions": []
+  },
+  "webpack-jsxcompile": {
+    "versions": []
+  },
+  "webpack-loader-httpfile": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "webpack-resource-plugin": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "webpack-session-cache": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
+  "webpack-vite": {
+    "versions": []
+  },
   "webpikes": {
     "versions": [
       "1.0.0",

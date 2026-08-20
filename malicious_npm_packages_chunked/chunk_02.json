@@ -1,4 +1,25 @@
 {
+  "candra-lumpur61-ruro": {
+    "versions": []
+  },
+  "candra-lupis49-cloud9": {
+    "versions": []
+  },
+  "candra-lutis68-ruro": {
+    "versions": []
+  },
+  "candra-mangut61-riris": {
+    "versions": []
+  },
+  "candra-mangut73-riris": {
+    "versions": []
+  },
+  "candra-martabak60-miaww": {
+    "versions": []
+  },
+  "candra-martabak91-riris": {
+    "versions": []
+  },
   "candra-mendoan59-apidev": {
     "versions": []
   },
@@ -3750,6 +3771,21 @@
   },
   "create-react-app-lambda": {
     "versions": []
+  },
+  "create-react-app-text": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "create-react-app-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "create-react-app-ux": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "create-response": {
     "versions": [
@@ -11896,39 +11932,5 @@
       "5.0.0",
       "9.1.0"
     ]
-  },
-  "eslint-plugin-react-purify": {
-    "versions": []
-  },
-  "eslint-plugin-skyscanner-dates": {
-    "versions": [
-      "99.0.0",
-      "99.0.1",
-      "99.0.2",
-      "99.0.4",
-      "99.0.5"
-    ]
-  },
-  "eslint-plugin-superhuman-custom-rules": {
-    "versions": [
-      "19.1.0"
-    ]
-  },
-  "eslint-plugin-supertest": {
-    "versions": []
-  },
-  "eslint-plugin-totara": {
-    "versions": [
-      "99.9.1"
-    ]
-  },
-  "eslint-supertest": {
-    "versions": []
-  },
-  "eslint-validator": {
-    "versions": []
-  },
-  "eslint-verify-plugin": {
-    "versions": []
   }
 }

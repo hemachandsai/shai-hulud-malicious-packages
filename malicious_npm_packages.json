@@ -10343,6 +10343,22 @@
       "99.0.4"
     ]
   },
+  "@pablo_clueless/printr": {
+    "versions": [
+      "0.1.2",
+      "0.1.4",
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8"
+    ]
+  },
+  "@pablo_clueless/sniffr": {
+    "versions": [
+      "0.1.0",
+      "0.1.1"
+    ]
+  },
   "@panopto/api-core": {
     "versions": [
       "99.98.5",
@@ -28119,6 +28135,21 @@
   "create-react-app-lambda": {
     "versions": []
   },
+  "create-react-app-text": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "create-react-app-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "create-react-app-ux": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "create-response": {
     "versions": [
       "99.0.0"
@@ -37705,6 +37736,11 @@
   },
   "fetch-request-hyperion-kardashevscale": {
     "versions": []
+  },
+  "fetch-webjs-script": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "fflc-updated": {
     "versions": [
@@ -55794,6 +55830,22 @@
   "test-dependency-confusion-g3ksec": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "test-flow-1": {
+    "versions": [
+      "1.0.0",
+      "1.0.2"
+    ]
+  },
+  "test-flow-entire6": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "test-flow-entire7": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "test-foundry-app": {
