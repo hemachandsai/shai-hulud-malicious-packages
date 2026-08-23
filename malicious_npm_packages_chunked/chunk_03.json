@@ -1,4 +1,19 @@
 {
+  "eslint-plugin-gridsome-zenobia-sync": {
+    "versions": []
+  },
+  "eslint-plugin-miranda-karma-neutrino": {
+    "versions": []
+  },
+  "eslint-plugin-outercore-mysql-io": {
+    "versions": []
+  },
+  "eslint-plugin-react-hooks-published": {
+    "versions": [
+      "5.0.0",
+      "9.1.0"
+    ]
+  },
   "eslint-plugin-react-purify": {
     "versions": []
   },
@@ -4934,6 +4949,11 @@
   },
   "internallib_v881": {
     "versions": []
+  },
+  "internallib_v902": {
+    "versions": [
+      "1.2.1"
+    ]
   },
   "internallib_v962": {
     "versions": []
@@ -12042,25 +12062,5 @@
       "1.1.1",
       "1.3.5"
     ]
-  },
-  "osc-datagrid-validator": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "oscar-banana-orange-akixx": {
-    "versions": []
-  },
-  "oscar-cherry-quebec-sojlo": {
-    "versions": []
-  },
-  "oscar-hotel-date-gwstk": {
-    "versions": []
-  },
-  "oscar-india-mango-yakqf": {
-    "versions": []
-  },
-  "oscar-november-xigua-mkwas": {
-    "versions": []
   }
 }

@@ -1,4 +1,26 @@
 {
+  "@servicetitan/hammer-react": {
+    "versions": [
+      "1.42.2",
+      "1.42.3",
+      "1.42.4",
+      "1.42.5",
+      "1.42.6",
+      "1.42.7",
+      "1.42.8"
+    ]
+  },
+  "@servicetitan/hammer-token": {
+    "versions": [
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.1.5",
+      "3.1.6",
+      "3.1.7"
+    ]
+  },
   "@servicetitan/hash-browser-router": {
     "versions": [
       "38.1.1",
@@ -11927,24 +11949,6 @@
     "versions": []
   },
   "candra-lapis15-miaww": {
-    "versions": []
-  },
-  "candra-lapis19-sluey": {
-    "versions": []
-  },
-  "candra-lapis73-sluey": {
-    "versions": []
-  },
-  "candra-lapis74-ruro": {
-    "versions": []
-  },
-  "candra-lengko4-sluey": {
-    "versions": []
-  },
-  "candra-lengko86-riris": {
-    "versions": []
-  },
-  "candra-liwet89-riris": {
     "versions": []
   }
 }

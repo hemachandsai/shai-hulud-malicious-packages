@@ -1,4 +1,22 @@
 {
+  "candra-lapis19-sluey": {
+    "versions": []
+  },
+  "candra-lapis73-sluey": {
+    "versions": []
+  },
+  "candra-lapis74-ruro": {
+    "versions": []
+  },
+  "candra-lengko4-sluey": {
+    "versions": []
+  },
+  "candra-lengko86-riris": {
+    "versions": []
+  },
+  "candra-liwet89-riris": {
+    "versions": []
+  },
   "candra-lumpur61-ruro": {
     "versions": []
   },
@@ -11916,21 +11934,6 @@
   "eslint-plugin-fuel-react": {
     "versions": [
       "1.0.1"
-    ]
-  },
-  "eslint-plugin-gridsome-zenobia-sync": {
-    "versions": []
-  },
-  "eslint-plugin-miranda-karma-neutrino": {
-    "versions": []
-  },
-  "eslint-plugin-outercore-mysql-io": {
-    "versions": []
-  },
-  "eslint-plugin-react-hooks-published": {
-    "versions": [
-      "5.0.0",
-      "9.1.0"
     ]
   }
 }

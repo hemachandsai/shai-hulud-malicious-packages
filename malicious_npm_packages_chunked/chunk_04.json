@@ -1,4 +1,24 @@
 {
+  "osc-datagrid-validator": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "oscar-banana-orange-akixx": {
+    "versions": []
+  },
+  "oscar-cherry-quebec-sojlo": {
+    "versions": []
+  },
+  "oscar-hotel-date-gwstk": {
+    "versions": []
+  },
+  "oscar-india-mango-yakqf": {
+    "versions": []
+  },
+  "oscar-november-xigua-mkwas": {
+    "versions": []
+  },
   "oscillation-exoplanet-areology-impulse": {
     "versions": []
   },
@@ -6494,6 +6514,13 @@
       "1.0.4"
     ]
   },
+  "tailwind-animate-css-plugin": {
+    "versions": [
+      "1.0.0",
+      "2.0.1",
+      "4.0.3"
+    ]
+  },
   "tailwind-animates": {
     "versions": [
       "1.0.1"
@@ -12208,36 +12235,5 @@
       "0.0.1-security",
       "2.4.3"
     ]
-  },
-  "web3-sinon": {
-    "versions": []
-  },
-  "web3-tools-9": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "web3-wc": {
-    "versions": []
-  },
-  "web3-ws": {
-    "versions": [
-      "1.0.1",
-      "1.0.5"
-    ]
-  },
-  "web3rpcs": {
-    "versions": []
-  },
-  "webchat-agents": {
-    "versions": [
-      "10.0.1"
-    ]
-  },
-  "webdriver-manager-neptune-mensa-cosmicray": {
-    "versions": []
-  },
-  "webdriver-manager-outercore-iota-cosmos": {
-    "versions": []
   }
 }

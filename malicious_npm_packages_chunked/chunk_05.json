@@ -1,4 +1,35 @@
 {
+  "web3-sinon": {
+    "versions": []
+  },
+  "web3-tools-9": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "web3-wc": {
+    "versions": []
+  },
+  "web3-ws": {
+    "versions": [
+      "1.0.1",
+      "1.0.5"
+    ]
+  },
+  "web3rpcs": {
+    "versions": []
+  },
+  "webchat-agents": {
+    "versions": [
+      "10.0.1"
+    ]
+  },
+  "webdriver-manager-neptune-mensa-cosmicray": {
+    "versions": []
+  },
+  "webdriver-manager-outercore-iota-cosmos": {
+    "versions": []
+  },
   "webdriver-manager-plutology-postcss-loader-meissa": {
     "versions": []
   },
