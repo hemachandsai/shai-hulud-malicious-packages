@@ -6182,7 +6182,10 @@
     "versions": []
   },
   "@immuta/pxl-components": {
-    "versions": []
+    "versions": [
+      "99.99.0",
+      "99.99.1"
+    ]
   },
   "@indriver-poc/whisperwind": {
     "versions": [
