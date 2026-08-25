@@ -1,4 +1,61 @@
 {
+  "weavedb-warp-contracts-plugin-deploy": {
+    "versions": [
+      "1.0.11"
+    ]
+  },
+  "weaviate-js": {
+    "versions": []
+  },
+  "web-nbq6lx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "web-palette-react": {
+    "versions": []
+  },
+  "web-prompt": {
+    "versions": []
+  },
+  "web-scraper-mcp": {
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "web-types-htmx": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "web-types-lit": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "web-uj65mn": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "web-vitals-help": {
+    "versions": []
+  },
+  "web3-1-4": {
+    "versions": [
+      "5.0.8",
+      "5.0.9"
+    ]
+  },
+  "web3-chain-sinon": {
+    "versions": []
+  },
+  "web3-chain-sync": {
+    "versions": [
+      "0.0.1-security",
+      "2.4.3"
+    ]
+  },
   "web3-sinon": {
     "versions": []
   },

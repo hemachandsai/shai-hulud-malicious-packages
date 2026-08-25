@@ -1,3 +1,20 @@
+## 2026-08-25 05:58:49 — Added 9 new packages, updated 0 versions
+
+### 🆕 New Packages (9)
+- create-json-client
+- dext-crate-check
+- dext-crate-image
+- dext-crate-video
+- livemcp
+- mcp-real-chrome
+- svelte-dim-kit
+- svelte-dim-ui
+- svelte-ui-dim
+
+### 🔄 Updated Versions (0)
+_None_
+
+
 ## 2026-08-25 05:05:15 — Added 0 new packages, updated 2 versions
 
 ### 🆕 New Packages (0)
