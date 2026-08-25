@@ -27159,12 +27159,32 @@
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
+  "classhomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "classlesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "classlink": {
     "versions": [
       "2.0.0",
       "2.0.1",
       "2.0.2",
       "2.0.3"
+    ]
+  },
+  "classroomlesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "classroomwork": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "classwind-utils": {
@@ -29059,6 +29079,41 @@
   },
   "desk-shirt-book": {
     "versions": []
+  },
+  "desmosclasswork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmoshomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosisfire": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosistuff": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosmathwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosschoolwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmoswork": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "despicable-me": {
     "versions": []
@@ -40737,6 +40792,11 @@
       "999.0.101"
     ]
   },
+  "iamhungryrn": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ice-thank-root": {
     "versions": []
   },
@@ -40904,6 +40964,11 @@
   },
   "illusion_wmizx_9tlmb_unity": {
     "versions": []
+  },
+  "ilovedesmos": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "ilovefemboys": {
     "versions": [
@@ -41508,6 +41573,11 @@
   },
   "iwan-semur87-kyuki": {
     "versions": []
+  },
+  "iwantaburger": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "iwsdk": {
     "versions": [
@@ -49350,6 +49420,11 @@
   "please-powder-read": {
     "versions": []
   },
+  "pleasedoyourhomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "plugin-react-swc": {
     "versions": [
       "1.0.1"
@@ -52513,6 +52588,21 @@
       "1.0.3"
     ]
   },
+  "schoolhomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "schoollesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "schoolwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "scorpius-lightyear-prettier-readable": {
     "versions": []
   },
@@ -53759,6 +53849,11 @@
   "sonia3-npm-js": {
     "versions": []
   },
+  "sonsonsahur": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "sort-by-distance": {
     "versions": [
       "2.0.1"
@@ -54599,6 +54694,11 @@
   },
   "supercluster-changelog-nebula-eclipse": {
     "versions": []
+  },
+  "superdupertest111": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "superflare-cryonics-subscription-multiverse": {
     "versions": []
@@ -57482,6 +57582,16 @@
   },
   "tujie-yinyangshi": {
     "versions": []
+  },
+  "tungtunggod": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "tungtungisgoated": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "tuote-taruo-jiemi": {
     "versions": []
@@ -60865,6 +60975,11 @@
   "whatsapp-fastdesk-utils-drzak": {
     "versions": [
       "99.9.9"
+    ]
+  },
+  "whatsgoodlookingbabycreed": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "whitedwarf-pegasus-darkmatter-petrology": {

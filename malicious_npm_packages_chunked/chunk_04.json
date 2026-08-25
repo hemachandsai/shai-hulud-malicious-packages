@@ -1,4 +1,56 @@
 {
+  "oradm-to-gql": {
+    "versions": [
+      "35.0.14",
+      "35.0.15"
+    ]
+  },
+  "oradm-to-sqlz": {
+    "versions": [
+      "1.1.2",
+      "1.1.3",
+      "1.1.4",
+      "1.1.5"
+    ]
+  },
+  "orange-alpha-golf-vskhf": {
+    "versions": []
+  },
+  "orange-india-charlie-vaxqa": {
+    "versions": []
+  },
+  "orange-zulu-oscar-inwkq": {
+    "versions": []
+  },
+  "orbit-boxicons": {
+    "versions": [
+      "2.1.3"
+    ]
+  },
+  "orbit-frontend-pino-mutation": {
+    "versions": []
+  },
+  "orbit-miranda-rehype-phylogenetics": {
+    "versions": []
+  },
+  "orbit-nebula-draw-tools": {
+    "versions": [
+      "1.0.10"
+    ]
+  },
+  "orbit-nebula-editor": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "orbit-soap": {
+    "versions": [
+      "0.43.13"
+    ]
+  },
+  "orchestration-node-common-errors": {
+    "versions": []
+  },
   "orchestrix": {
     "versions": [
       "12.1.2"
@@ -976,6 +1028,11 @@
   },
   "please-powder-read": {
     "versions": []
+  },
+  "pleasedoyourhomework": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "plugin-react-swc": {
     "versions": [
@@ -4140,6 +4197,21 @@
       "1.0.3"
     ]
   },
+  "schoolhomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "schoollesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "schoolwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "scorpius-lightyear-prettier-readable": {
     "versions": []
   },
@@ -5386,6 +5458,11 @@
   "sonia3-npm-js": {
     "versions": []
   },
+  "sonsonsahur": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "sort-by-distance": {
     "versions": [
       "2.0.1"
@@ -6226,6 +6303,11 @@
   },
   "supercluster-changelog-nebula-eclipse": {
     "versions": []
+  },
+  "superdupertest111": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "superflare-cryonics-subscription-multiverse": {
     "versions": []
@@ -9109,6 +9191,16 @@
   },
   "tujie-yinyangshi": {
     "versions": []
+  },
+  "tungtunggod": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "tungtungisgoated": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "tuote-taruo-jiemi": {
     "versions": []
@@ -12129,104 +12221,6 @@
   "wdb-core": {
     "versions": [
       "0.1.2"
-    ]
-  },
-  "wdb-sdk": {
-    "versions": [
-      "0.1.2"
-    ]
-  },
-  "wdio-web-reporter": {
-    "versions": [
-      "0.1.3"
-    ]
-  },
-  "wdk-pricing-provider": {
-    "versions": []
-  },
-  "wds-icons": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "we3.js": {
-    "versions": []
-  },
-  "wealthbox-marketing": {
-    "versions": [
-      "0.0.1",
-      "1.0.0"
-    ]
-  },
-  "wealthsimple-mcp-server": {
-    "versions": [
-      "99.0.0"
-    ]
-  },
-  "weavedb-base": {
-    "versions": [
-      "0.45.3",
-      "0.45.4"
-    ]
-  },
-  "weavedb-client": {
-    "versions": [
-      "0.45.3"
-    ]
-  },
-  "weavedb-console": {
-    "versions": [
-      "0.2.1"
-    ]
-  },
-  "weavedb-contracts": {
-    "versions": [
-      "0.45.2"
-    ]
-  },
-  "weavedb-exm-sdk": {
-    "versions": [
-      "0.7.4"
-    ]
-  },
-  "weavedb-exm-sdk-web": {
-    "versions": [
-      "0.7.4"
-    ]
-  },
-  "weavedb-lite": {
-    "versions": [
-      "0.1.1"
-    ]
-  },
-  "weavedb-node-client": {
-    "versions": [
-      "0.45.3"
-    ]
-  },
-  "weavedb-offchain": {
-    "versions": [
-      "0.45.4"
-    ]
-  },
-  "weavedb-sdk": {
-    "versions": [
-      "0.45.3"
-    ]
-  },
-  "weavedb-sdk-base": {
-    "versions": [
-      "0.21.1"
-    ]
-  },
-  "weavedb-sdk-node": {
-    "versions": [
-      "0.45.3"
-    ]
-  },
-  "weavedb-tools": {
-    "versions": [
-      "0.45.3"
     ]
   }
 }

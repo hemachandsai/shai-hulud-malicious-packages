@@ -2786,12 +2786,32 @@
   "cladistics-decoherence-perseus-parcel": {
     "versions": []
   },
+  "classhomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "classlesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "classlink": {
     "versions": [
       "2.0.0",
       "2.0.1",
       "2.0.2",
       "2.0.3"
+    ]
+  },
+  "classroomlesson": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "classroomwork": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "classwind-utils": {
@@ -4686,6 +4706,41 @@
   },
   "desk-shirt-book": {
     "versions": []
+  },
+  "desmosclasswork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmoshomework": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosisfire": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosistuff": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosmathwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmosschoolwork": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "desmoswork": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "despicable-me": {
     "versions": []
@@ -11892,43 +11947,5 @@
   },
   "eslint-detector": {
     "versions": []
-  },
-  "eslint-geoarchaeology-sagitta-chromedriver": {
-    "versions": []
-  },
-  "eslint-lodash": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "eslint-logger": {
-    "versions": []
-  },
-  "eslint-plugin-awaitly": {
-    "versions": [
-      "0.17.1",
-      "1.0.1"
-    ]
-  },
-  "eslint-plugin-dummy": {
-    "versions": []
-  },
-  "eslint-plugin-executable-stories-jest": {
-    "versions": [
-      "1.2.1",
-      "2.1.8"
-    ]
-  },
-  "eslint-plugin-executable-stories-playwright": {
-    "versions": [
-      "1.2.1",
-      "2.1.8"
-    ]
-  },
-  "eslint-plugin-executable-stories-vitest": {
-    "versions": [
-      "1.2.1",
-      "2.1.8"
-    ]
   }
 }

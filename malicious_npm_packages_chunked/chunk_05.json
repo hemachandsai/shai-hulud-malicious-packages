@@ -1,4 +1,102 @@
 {
+  "wdb-sdk": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "wdio-web-reporter": {
+    "versions": [
+      "0.1.3"
+    ]
+  },
+  "wdk-pricing-provider": {
+    "versions": []
+  },
+  "wds-icons": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "we3.js": {
+    "versions": []
+  },
+  "wealthbox-marketing": {
+    "versions": [
+      "0.0.1",
+      "1.0.0"
+    ]
+  },
+  "wealthsimple-mcp-server": {
+    "versions": [
+      "99.0.0"
+    ]
+  },
+  "weavedb-base": {
+    "versions": [
+      "0.45.3",
+      "0.45.4"
+    ]
+  },
+  "weavedb-client": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-console": {
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "weavedb-contracts": {
+    "versions": [
+      "0.45.2"
+    ]
+  },
+  "weavedb-exm-sdk": {
+    "versions": [
+      "0.7.4"
+    ]
+  },
+  "weavedb-exm-sdk-web": {
+    "versions": [
+      "0.7.4"
+    ]
+  },
+  "weavedb-lite": {
+    "versions": [
+      "0.1.1"
+    ]
+  },
+  "weavedb-node-client": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-offchain": {
+    "versions": [
+      "0.45.4"
+    ]
+  },
+  "weavedb-sdk": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-sdk-base": {
+    "versions": [
+      "0.21.1"
+    ]
+  },
+  "weavedb-sdk-node": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
+  "weavedb-tools": {
+    "versions": [
+      "0.45.3"
+    ]
+  },
   "weavedb-warp-contracts-plugin-deploy": {
     "versions": [
       "1.0.11"
@@ -262,6 +360,11 @@
   "whatsapp-fastdesk-utils-drzak": {
     "versions": [
       "99.9.9"
+    ]
+  },
+  "whatsgoodlookingbabycreed": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "whitedwarf-pegasus-darkmatter-petrology": {
