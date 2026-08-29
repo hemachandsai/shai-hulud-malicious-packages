@@ -57184,6 +57184,11 @@
       "1.0.4"
     ]
   },
+  "test-in-one": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "test-kiota-typescript-libraries": {
     "versions": [
       "10.0.1"
