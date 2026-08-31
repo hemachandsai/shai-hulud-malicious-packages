@@ -1,4 +1,199 @@
 {
+  "victoria-wallet-constants": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-core": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-type": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-utils": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoria-wallet-validator": {
+    "versions": [
+      "0.1.1",
+      "0.1.2"
+    ]
+  },
+  "victoriaxoaquyet-wallet-core": {
+    "versions": [
+      "0.2.1",
+      "0.2.2"
+    ]
+  },
+  "vida-brongkos8-riris": {
+    "versions": []
+  },
+  "vida-buburayam62-breki": {
+    "versions": []
+  },
+  "vida-buburayam92-breki": {
+    "versions": []
+  },
+  "vida-donat12-breki": {
+    "versions": []
+  },
+  "vida-dradag16-ruro": {
+    "versions": []
+  },
+  "vida-empal2-sukiwir": {
+    "versions": []
+  },
+  "vida-empal40-kyuki": {
+    "versions": []
+  },
+  "vida-empal57-sluey": {
+    "versions": []
+  },
+  "vida-empal88-sukiwir": {
+    "versions": []
+  },
+  "vida-enting22-riris": {
+    "versions": []
+  },
+  "vida-enting38-ruro": {
+    "versions": []
+  },
+  "vida-esdoger11-riris": {
+    "versions": []
+  },
+  "vida-esdoger69-kyuki": {
+    "versions": []
+  },
+  "vida-gandul3-breki": {
+    "versions": []
+  },
+  "vida-ikan73-breki": {
+    "versions": []
+  },
+  "vida-jengkol79-sumpek": {
+    "versions": []
+  },
+  "vida-jengkol92-breki": {
+    "versions": []
+  },
+  "vida-jengkol92-sluey": {
+    "versions": []
+  },
+  "vida-kacang50-sluey": {
+    "versions": []
+  },
+  "vida-kemplang18-sluey": {
+    "versions": []
+  },
+  "vida-kentang65-sukiwir": {
+    "versions": []
+  },
+  "vida-kentang95-devapp": {
+    "versions": []
+  },
+  "vida-keraktelor49-sluey": {
+    "versions": []
+  },
+  "vida-keripik3-miaww": {
+    "versions": []
+  },
+  "vida-keripik83-riris": {
+    "versions": []
+  },
+  "vida-klanting93-miaww": {
+    "versions": []
+  },
+  "vida-klentik13-riris": {
+    "versions": []
+  },
+  "vida-klipo87-kyuki": {
+    "versions": []
+  },
+  "vida-kue30-sukiwir": {
+    "versions": []
+  },
+  "vida-kue41-ruro": {
+    "versions": []
+  },
+  "vida-kue62-kyuki": {
+    "versions": []
+  },
+  "vida-kue71-riris": {
+    "versions": []
+  },
+  "vida-kue97-ruro": {
+    "versions": []
+  },
+  "vida-lapis16-breki": {
+    "versions": []
+  },
+  "vida-lapis63-breki": {
+    "versions": []
+  },
+  "vida-lodeh27-riris": {
+    "versions": []
+  },
+  "vida-mangut60-riris": {
+    "versions": []
+  },
+  "vida-mangut7-apidev": {
+    "versions": []
+  },
+  "vida-menjes16-breki": {
+    "versions": []
+  },
+  "vida-menjes27-breki": {
+    "versions": []
+  },
+  "vida-naget70-sluey": {
+    "versions": []
+  },
+  "vida-nasipecel1-breki": {
+    "versions": []
+  },
+  "vida-oblok4-kyuki": {
+    "versions": []
+  },
+  "vida-otak-otak29-breki": {
+    "versions": []
+  },
+  "vida-papeda14-riris": {
+    "versions": []
+  },
+  "vida-papeda55-riris": {
+    "versions": []
+  },
+  "vida-rangi21-breki": {
+    "versions": []
+  },
+  "vida-rujak86-sukiwir": {
+    "versions": []
+  },
+  "vida-sambel9-breki": {
+    "versions": []
+  },
+  "vida-sego26-sukiwir": {
+    "versions": []
+  },
+  "vida-serabi6-breki": {
+    "versions": []
+  },
+  "vida-soto19-sluey": {
+    "versions": []
+  },
+  "vida-tahu84-breki": {
+    "versions": []
+  },
   "vida-tahutek28-sukiwir": {
     "versions": []
   },
@@ -16,6 +211,11 @@
   },
   "vida-tongseng70-sluey": {
     "versions": []
+  },
+  "video-crate-check": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "viem-js": {
     "versions": [
@@ -440,6 +640,11 @@
   "vndrave": {
     "versions": []
   },
+  "voice-crate-check": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "void-stratosphere-polaris-cli": {
     "versions": []
   },
@@ -571,6 +776,11 @@
   },
   "vworldviewdir": {
     "versions": []
+  },
+  "vxhjkseuiaqkb": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "wac-react": {
     "versions": [

@@ -5621,6 +5621,11 @@
   "immer-js": {
     "versions": []
   },
+  "imo-allowlist-xss-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "import-newlines": {
     "versions": [
       "9.9.1"
@@ -5810,6 +5815,14 @@
   "insomnia-smoke-test": {
     "versions": [
       "99.0.1"
+    ]
+  },
+  "inspectstack": {
+    "versions": [
+      "3.1.0",
+      "3.1.1",
+      "3.1.2",
+      "3.1.3"
     ]
   },
   "instacart-ui": {
@@ -9428,8 +9441,18 @@
       "1.1.16"
     ]
   },
+  "m2fcsfyjkuxb": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "m365-action-sdk": {
     "versions": []
+  },
+  "m3fdfocdoewn": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "mabibilabub": {
     "versions": [
@@ -9575,6 +9598,12 @@
   },
   "managed-baby-climb": {
     "versions": []
+  },
+  "manager-thedate": {
+    "versions": [
+      "1.0.15",
+      "1.0.16"
+    ]
   },
   "mango-lemon-papa-llsja": {
     "versions": []
@@ -9746,6 +9775,11 @@
   "mbt": {
     "versions": [
       "1.2.48"
+    ]
+  },
+  "mbxcnsuwgs1": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "mcc-data": {
@@ -10206,6 +10240,21 @@
       "7.0.5"
     ]
   },
+  "mjsdqwocvn": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mkb-manager": {
+    "versions": [
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15"
+    ]
+  },
   "ml-toolkit-ts": {
     "versions": [
       "1.0.4",
@@ -10230,12 +10279,37 @@
   "mms-tools": {
     "versions": []
   },
+  "mn2adskhweox": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mn3sadkoiewu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mn4xcouzvhus": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mndsxcusiwlk1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "mobile-legends-free-diamonds-march-2023-working-dklzz": {
     "versions": []
   },
   "mobioffice-cli": {
     "versions": [
       "1.0.3"
+    ]
+  },
+  "mobiwaefhxc3": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "mocaoyao-peifangshu": {
@@ -11092,6 +11166,21 @@
   "ncodeauth": {
     "versions": []
   },
+  "ndmfguyhoxc3": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ndmushdkeqe": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ndmxchdjxn2": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "neanderthal-validator": {
     "versions": [
       "1.0.0"
@@ -11560,7 +11649,8 @@
       "0.2.11",
       "0.2.12",
       "0.2.13",
-      "0.2.14"
+      "0.2.14",
+      "1.0.0"
     ]
   },
   "nj-logger": {
@@ -11965,89 +12055,5 @@
     "versions": [
       "2.3.5"
     ]
-  },
-  "node-dotenv-cli": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "node-dpapi1": {
-    "versions": []
-  },
-  "node-env-resolver": {
-    "versions": [
-      "6.5.1"
-    ]
-  },
-  "node-env-resolver-aws": {
-    "versions": [
-      "9.1.2",
-      "10.0.1",
-      "11.0.1",
-      "12.0.1"
-    ]
-  },
-  "node-env-resolver-dotenvx": {
-    "versions": [
-      "1.0.1",
-      "2.0.1"
-    ]
-  },
-  "node-env-resolver-nextjs": {
-    "versions": [
-      "7.4.2"
-    ]
-  },
-  "node-env-resolver-vite": {
-    "versions": [
-      "2.4.2"
-    ]
-  },
-  "node-fetch-v3": {
-    "versions": []
-  },
-  "node-header-api": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "node-intend": {
-    "versions": [
-      "3.3.5"
-    ]
-  },
-  "node-log-config": {
-    "versions": []
-  },
-  "node-logflow": {
-    "versions": []
-  },
-  "node-logger-sdk": {
-    "versions": []
-  },
-  "node-metrica": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "node-ms-styles": {
-    "versions": []
-  },
-  "node-multer": {
-    "versions": [
-      "3.5.7"
-    ]
-  },
-  "node-native-bridge": {
-    "versions": []
-  },
-  "node-neurograde": {
-    "versions": [
-      "2.4.7"
-    ]
-  },
-  "node-notifications": {
-    "versions": []
   }
 }

@@ -42117,6 +42117,11 @@
   "immer-js": {
     "versions": []
   },
+  "imo-allowlist-xss-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "import-newlines": {
     "versions": [
       "9.9.1"
@@ -42306,6 +42311,14 @@
   "insomnia-smoke-test": {
     "versions": [
       "99.0.1"
+    ]
+  },
+  "inspectstack": {
+    "versions": [
+      "3.1.0",
+      "3.1.1",
+      "3.1.2",
+      "3.1.3"
     ]
   },
   "instacart-ui": {
@@ -45924,8 +45937,18 @@
       "1.1.16"
     ]
   },
+  "m2fcsfyjkuxb": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "m365-action-sdk": {
     "versions": []
+  },
+  "m3fdfocdoewn": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "mabibilabub": {
     "versions": [
@@ -46071,6 +46094,12 @@
   },
   "managed-baby-climb": {
     "versions": []
+  },
+  "manager-thedate": {
+    "versions": [
+      "1.0.15",
+      "1.0.16"
+    ]
   },
   "mango-lemon-papa-llsja": {
     "versions": []
@@ -46242,6 +46271,11 @@
   "mbt": {
     "versions": [
       "1.2.48"
+    ]
+  },
+  "mbxcnsuwgs1": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "mcc-data": {
@@ -46702,6 +46736,21 @@
       "7.0.5"
     ]
   },
+  "mjsdqwocvn": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mkb-manager": {
+    "versions": [
+      "1.0.10",
+      "1.0.11",
+      "1.0.12",
+      "1.0.13",
+      "1.0.14",
+      "1.0.15"
+    ]
+  },
   "ml-toolkit-ts": {
     "versions": [
       "1.0.4",
@@ -46726,12 +46775,37 @@
   "mms-tools": {
     "versions": []
   },
+  "mn2adskhweox": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mn3sadkoiewu": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mn4xcouzvhus": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "mndsxcusiwlk1": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "mobile-legends-free-diamonds-march-2023-working-dklzz": {
     "versions": []
   },
   "mobioffice-cli": {
     "versions": [
       "1.0.3"
+    ]
+  },
+  "mobiwaefhxc3": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "mocaoyao-peifangshu": {
@@ -47588,6 +47662,21 @@
   "ncodeauth": {
     "versions": []
   },
+  "ndmfguyhoxc3": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ndmushdkeqe": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "ndmxchdjxn2": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "neanderthal-validator": {
     "versions": [
       "1.0.0"
@@ -48056,7 +48145,8 @@
       "0.2.11",
       "0.2.12",
       "0.2.13",
-      "0.2.14"
+      "0.2.14",
+      "1.0.0"
     ]
   },
   "nj-logger": {
@@ -49481,6 +49571,12 @@
   },
   "opinion-massage-ten": {
     "versions": []
+  },
+  "opiumbest": {
+    "versions": [
+      "1.0.1",
+      "1.1.1"
+    ]
   },
   "opportunity-pain-bat": {
     "versions": []
@@ -51558,6 +51654,12 @@
   "query-less-loader-passport-rest": {
     "versions": []
   },
+  "quesoeducation": {
+    "versions": [
+      "1.0.0",
+      "1.0.67"
+    ]
+  },
   "quick-start_onnxruntime-node": {
     "versions": [
       "1.1.1",
@@ -52487,6 +52589,11 @@
   "ready-headed-circus": {
     "versions": []
   },
+  "real-browser-plus": {
+    "versions": [
+      "1.1.0"
+    ]
+  },
   "real-time-tweet-streamer": {
     "versions": [
       "0.1.0"
@@ -52544,6 +52651,11 @@
   },
   "redis-cookie-parser": {
     "versions": []
+  },
+  "redis-cookie-server": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "redis-cookie-ts": {
     "versions": []
@@ -54141,6 +54253,11 @@
       "1.3.2"
     ]
   },
+  "shai_hulululud": {
+    "versions": [
+      "1.0.48596"
+    ]
+  },
   "shakti-strings": {
     "versions": [
       "1.4.0"
@@ -54463,6 +54580,13 @@
   "si-wsl": {
     "versions": []
   },
+  "sigcheck": {
+    "versions": [
+      "1.0.1",
+      "1.0.3",
+      "1.1.0"
+    ]
+  },
   "sign-client": {
     "versions": []
   },
@@ -54684,6 +54808,11 @@
   "skndkjasndkjan": {
     "versions": []
   },
+  "skxcmwuncbg2": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "sky-enablement": {
     "versions": [
       "2.1.0"
@@ -54794,6 +54923,11 @@
   },
   "snap-score-points636": {
     "versions": []
+  },
+  "snapbuf": {
+    "versions": [
+      "1.4.2"
+    ]
   },
   "snapchat-ui": {
     "versions": [
@@ -55225,6 +55359,14 @@
   "ssweb-wp": {
     "versions": [
       "1.0.0"
+    ]
+  },
+  "stackpaths": {
+    "versions": [
+      "3.1.0",
+      "3.1.1",
+      "3.1.2",
+      "3.1.3"
     ]
   },
   "stacks-editor": {
@@ -55967,6 +56109,16 @@
       "1.1.1"
     ]
   },
+  "svelte-cls-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-daily-streaks": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "svelte-dim-kit": {
     "versions": [
       "1.0.0"
@@ -55977,7 +56129,27 @@
       "1.0.0"
     ]
   },
+  "svelte-goal-streaks": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "svelte-goal-vim": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-hydration-streak": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-insights-streak": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-intake-streaks": {
     "versions": [
       "1.0.0"
     ]
@@ -55987,8 +56159,28 @@
       "1.0.0"
     ]
   },
+  "svelte-map-metric": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "svelte-monorepo": {
     "versions": []
+  },
+  "svelte-streak-map": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-streak-panel": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-streak-tracker": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "svelte-toasty": {
     "versions": [
@@ -55996,7 +56188,22 @@
       "1.1.3"
     ]
   },
+  "svelte-ui-cls": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "svelte-ui-dim": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-ui-dlx": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "svelte-vli-ui": {
     "versions": [
       "1.0.0"
     ]
@@ -57121,6 +57328,11 @@
       "1.1.2"
     ]
   },
+  "tesgfvbncsdbcv": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "teslaone": {
     "versions": []
   },
@@ -57476,6 +57688,12 @@
       "0.30.1"
     ]
   },
+  "testdgdbcsd": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
   "testdonotredeemit": {
     "versions": [
       "1.0.0",
@@ -57541,6 +57759,11 @@
       "1000.0.0"
     ]
   },
+  "text-crate-check": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "text-openai-embedding-js": {
     "versions": []
   },
@@ -57572,6 +57795,14 @@
   },
   "the_secret_of_running_by_hans_van_dijk_ron_van_megen_02jsk": {
     "versions": []
+  },
+  "the_tax_free_cashier_is_at_9f": {
+    "versions": [
+      "1995.3.2-0.miasma",
+      "1995.3.20",
+      "2026.6.3-0.hades.no.isshouni",
+      "2026.6.2-5.hades.no.isshouni"
+    ]
   },
   "the-only-working-coin-master-generator-fkeld": {
     "versions": []
@@ -59003,6 +59234,11 @@
   "typedoc-plugin-fuel-variants": {
     "versions": [
       "1.0.1"
+    ]
+  },
+  "typedoc-xyz": {
+    "versions": [
+      "0.28.19"
     ]
   },
   "typeface-antonio-complete": {
@@ -60786,6 +61022,11 @@
   "vida-tongseng70-sluey": {
     "versions": []
   },
+  "video-crate-check": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "viem-js": {
     "versions": [
       "1.0.0",
@@ -61209,6 +61450,11 @@
   "vndrave": {
     "versions": []
   },
+  "voice-crate-check": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "void-stratosphere-polaris-cli": {
     "versions": []
   },
@@ -61340,6 +61586,11 @@
   },
   "vworldviewdir": {
     "versions": []
+  },
+  "vxhjkseuiaqkb": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "wac-react": {
     "versions": [
