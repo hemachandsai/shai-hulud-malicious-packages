@@ -1,4 +1,43 @@
 {
+  "version-fusion-forever-paleomagnetism": {
+    "versions": []
+  },
+  "vessel": {
+    "versions": []
+  },
+  "vet-bones": {
+    "versions": [
+      "99.99.1"
+    ]
+  },
+  "vf-oss-template": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
+  "viam": {
+    "versions": []
+  },
+  "victim-package-a": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "victim-package-b": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "victim-package-c": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "victoria-wallet-constants": {
     "versions": [
       "0.1.1",

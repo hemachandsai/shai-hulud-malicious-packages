@@ -7155,6 +7155,11 @@
       "1.0.0"
     ]
   },
+  "abcdefghijklnmopqrstuvwxyz": {
+    "versions": [
+      "0.1.4"
+    ]
+  },
   "abcxyzz": {
     "versions": [
       "9.9.9"
@@ -10378,6 +10383,14 @@
   "baileys-dtz": {
     "versions": []
   },
+  "baileys-inmemory-store": {
+    "versions": [
+      "1.0.2-beta-3",
+      "1.0.2-beta-4",
+      "1.0.2-beta-6",
+      "1.0.2-beta-5"
+    ]
+  },
   "baileys-ud": {
     "versions": []
   },
@@ -12056,6 +12069,25 @@
   "bnia-work": {
     "versions": []
   },
+  "bnotify-web-sdk": {
+    "versions": [
+      "1.1.9",
+      "1.2.0",
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "1.2.4",
+      "1.2.5",
+      "1.2.8",
+      "1.2.9",
+      "1.2.10",
+      "1.2.11",
+      "1.2.12",
+      "1.3.1",
+      "1.3.2",
+      "1.3.3"
+    ]
+  },
   "boby_parser": {
     "versions": [
       "2.2.0",
@@ -12098,36 +12130,5 @@
   },
   "bootes-troposphere-spica-selenium": {
     "versions": []
-  },
-  "bootstrap-biomimicry-parsec-cressida": {
-    "versions": []
-  },
-  "bootstrap-setcolor": {
-    "versions": [
-      "1.9.15",
-      "1.9.16"
-    ]
-  },
-  "bootstrap-setcolors": {
-    "versions": [
-      "1.9.16"
-    ]
-  },
-  "bootstrap-setflexcolor": {
-    "versions": [
-      "1.9.15"
-    ]
-  },
-  "borealis-innercore-ganymede-solis": {
-    "versions": []
-  },
-  "borealis-radiant-bionics-jovian": {
-    "versions": []
-  },
-  "boring-avatars-vanilla": {
-    "versions": [
-      "1.1.2",
-      "1.2.2"
-    ]
   }
 }

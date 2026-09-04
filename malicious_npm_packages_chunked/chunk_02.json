@@ -1,4 +1,35 @@
 {
+  "bootstrap-biomimicry-parsec-cressida": {
+    "versions": []
+  },
+  "bootstrap-setcolor": {
+    "versions": [
+      "1.9.15",
+      "1.9.16"
+    ]
+  },
+  "bootstrap-setcolors": {
+    "versions": [
+      "1.9.16"
+    ]
+  },
+  "bootstrap-setflexcolor": {
+    "versions": [
+      "1.9.15"
+    ]
+  },
+  "borealis-innercore-ganymede-solis": {
+    "versions": []
+  },
+  "borealis-radiant-bionics-jovian": {
+    "versions": []
+  },
+  "boring-avatars-vanilla": {
+    "versions": [
+      "1.1.2",
+      "1.2.2"
+    ]
+  },
   "bos-decoration-elements": {
     "versions": [
       "9.0.0"
@@ -11909,38 +11940,6 @@
     ]
   },
   "envs-loader": {
-    "versions": []
-  },
-  "eos-media": {
-    "versions": []
-  },
-  "epc-help-widget": {
-    "versions": []
-  },
-  "epic-admin-node-services": {
-    "versions": []
-  },
-  "epic-admin-ui": {
-    "versions": []
-  },
-  "epic-adminportal-frontend": {
-    "versions": []
-  },
-  "epic-alt-utils": {
-    "versions": []
-  },
-  "epic-analytics-worker": {
-    "versions": []
-  },
-  "epic-angular-ui-codemirror": {
-    "versions": []
-  },
-  "epic-asset-uploader": {
-    "versions": [
-      "99.9.9"
-    ]
-  },
-  "epic-asset-uploader-ui": {
     "versions": []
   }
 }

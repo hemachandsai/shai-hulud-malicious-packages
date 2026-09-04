@@ -1,4 +1,38 @@
 {
+  "node-calculator-x7k9-evil": {
+    "versions": [
+      "9999.9.9999"
+    ]
+  },
+  "node-calculator-x7k9-grabber": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "node-calculator-yktt": {
+    "versions": [
+      "2.2.0",
+      "2.2.1",
+      "2.2.2",
+      "2.2.3"
+    ]
+  },
+  "node-cli-dotenv": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
+  "node-config-toml-deimos-pegasus": {
+    "versions": []
+  },
+  "node-config-wolf-enif-eslint": {
+    "versions": []
+  },
+  "node-coremesh": {
+    "versions": [
+      "2.3.5"
+    ]
+  },
   "node-dotenv-cli": {
     "versions": [
       "2.4.5"
@@ -12216,44 +12250,5 @@
   },
   "version-dependencies-link-cressida": {
     "versions": []
-  },
-  "version-fusion-forever-paleomagnetism": {
-    "versions": []
-  },
-  "vessel": {
-    "versions": []
-  },
-  "vet-bones": {
-    "versions": [
-      "99.99.1"
-    ]
-  },
-  "vf-oss-template": {
-    "versions": [
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4"
-    ]
-  },
-  "viam": {
-    "versions": []
-  },
-  "victim-package-a": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2"
-    ]
-  },
-  "victim-package-b": {
-    "versions": [
-      "1.0.1"
-    ]
-  },
-  "victim-package-c": {
-    "versions": [
-      "1.0.1"
-    ]
   }
 }

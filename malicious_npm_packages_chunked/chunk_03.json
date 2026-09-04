@@ -1,4 +1,36 @@
 {
+  "eos-media": {
+    "versions": []
+  },
+  "epc-help-widget": {
+    "versions": []
+  },
+  "epic-admin-node-services": {
+    "versions": []
+  },
+  "epic-admin-ui": {
+    "versions": []
+  },
+  "epic-adminportal-frontend": {
+    "versions": []
+  },
+  "epic-alt-utils": {
+    "versions": []
+  },
+  "epic-analytics-worker": {
+    "versions": []
+  },
+  "epic-angular-ui-codemirror": {
+    "versions": []
+  },
+  "epic-asset-uploader": {
+    "versions": [
+      "99.9.9"
+    ]
+  },
+  "epic-asset-uploader-ui": {
+    "versions": []
+  },
   "epic-blog-frontend": {
     "versions": []
   },
@@ -12020,40 +12052,6 @@
     "versions": [
       "3.1.0",
       "3.4.0"
-    ]
-  },
-  "node-calculator-x7k9-evil": {
-    "versions": [
-      "9999.9.9999"
-    ]
-  },
-  "node-calculator-x7k9-grabber": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "node-calculator-yktt": {
-    "versions": [
-      "2.2.0",
-      "2.2.1",
-      "2.2.2",
-      "2.2.3"
-    ]
-  },
-  "node-cli-dotenv": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "node-config-toml-deimos-pegasus": {
-    "versions": []
-  },
-  "node-config-wolf-enif-eslint": {
-    "versions": []
-  },
-  "node-coremesh": {
-    "versions": [
-      "2.3.5"
     ]
   }
 }
