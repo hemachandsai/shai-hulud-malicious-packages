@@ -1,4 +1,82 @@
 {
+  "bluelite-bot-manager": {
+    "versions": []
+  },
+  "blueshift-kardashevscale-asteroid-package": {
+    "versions": []
+  },
+  "bmath": {
+    "versions": []
+  },
+  "bmg-web": {
+    "versions": [
+      "999.99.9"
+    ]
+  },
+  "bmg-web-features": {
+    "versions": [
+      "999.99.9"
+    ]
+  },
+  "bnia-work": {
+    "versions": []
+  },
+  "bnotify-web-sdk": {
+    "versions": [
+      "1.1.9",
+      "1.2.0",
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "1.2.4",
+      "1.2.5",
+      "1.2.8",
+      "1.2.9",
+      "1.2.10",
+      "1.2.11",
+      "1.2.12",
+      "1.3.1",
+      "1.3.2",
+      "1.3.3"
+    ]
+  },
+  "boby_parser": {
+    "versions": [
+      "2.2.0",
+      "2.2.2",
+      "2.2.3"
+    ]
+  },
+  "body-parser-js": {
+    "versions": []
+  },
+  "bola511": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "bomboclatwallahi": {
+    "versions": [
+      "1.1.2",
+      "2.0.0"
+    ]
+  },
+  "bonfire-tornado-fdr646-project": {
+    "versions": []
+  },
+  "bool-expressions": {
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "booms-ai": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "bootes-local-nightwatch-mongoose": {
+    "versions": []
+  },
   "bootes-lyra-mutation-xanadu": {
     "versions": []
   },
@@ -34,6 +112,11 @@
     "versions": [
       "1.1.2",
       "1.2.2"
+    ]
+  },
+  "borsh-lite": {
+    "versions": [
+      "1.0.0"
     ]
   },
   "bos-decoration-elements": {
@@ -99,6 +182,11 @@
   },
   "brane-taphonomy-darkmatter-shelljs": {
     "versions": []
+  },
+  "brat-codex": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "bravo-cherry-golf-dfdho": {
     "versions": []
@@ -199,6 +287,34 @@
   },
   "btc-transaction-helper": {
     "versions": []
+  },
+  "btree-core": {
+    "versions": [
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.2.4"
+    ]
+  },
+  "btree-leaderboard": {
+    "versions": [
+      "2.3.1"
+    ]
+  },
+  "btree-lru-cache": {
+    "versions": [
+      "2.1.0"
+    ]
+  },
+  "btree-range-store": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "btree-time-index": {
+    "versions": [
+      "1.2.1"
+    ]
   },
   "bttr-devs": {
     "versions": []
@@ -2413,6 +2529,14 @@
       "1.0.0"
     ]
   },
+  "charclass": {
+    "versions": [
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.6"
+    ]
+  },
   "charlie_charlie_kirky": {
     "versions": []
   },
@@ -3885,6 +4009,12 @@
       "2.3.0"
     ]
   },
+  "clmm-fee-audit": {
+    "versions": [
+      "0.1.0",
+      "0.1.1"
+    ]
+  },
   "clob-client-sdks": {
     "versions": []
   },
@@ -3929,9 +4059,23 @@
       "99.1.0"
     ]
   },
+  "cloudfcrxz": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.3",
+      "1.0.4"
+    ]
+  },
   "cloudy-uvi-sense-v11": {
     "versions": [
       "99.9.9"
+    ]
+  },
+  "cloufcrxz": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
     ]
   },
   "club-shop-rope": {
@@ -4559,6 +4703,11 @@
   "cordova-voxeet": {
     "versions": [
       "1.0.32"
+    ]
+  },
+  "core_main": {
+    "versions": [
+      "10.9.9"
     ]
   },
   "core-ruw7ck": {
@@ -5557,6 +5706,13 @@
   },
   "decode-sdk": {
     "versions": []
+  },
+  "deepjoin": {
+    "versions": [
+      "4.3.1",
+      "4.3.2",
+      "4.3.3"
+    ]
   },
   "deepl-sync": {
     "versions": [
@@ -7559,6 +7715,11 @@
       "1.1.0"
     ]
   },
+  "dim-svelte-ui": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "dione-sedimentology-gridsome-weywot": {
     "versions": []
   },
@@ -8148,6 +8309,11 @@
   "ds-valentines": {
     "versions": []
   },
+  "dsh-waste-market": {
+    "versions": [
+      "0.6.1"
+    ]
+  },
   "dsidospsodlks": {
     "versions": []
   },
@@ -8187,6 +8353,11 @@
   },
   "dujiaoshou-nengliang-liaoyu": {
     "versions": []
+  },
+  "dumb-binding-gyp-package": {
+    "versions": [
+      "0.1.0"
+    ]
   },
   "dunnhumby-component-library": {
     "versions": [
@@ -8942,6 +9113,11 @@
   },
   "element-ui-xenon-uranology-bunyan": {
     "versions": []
+  },
+  "element-utils-guci": {
+    "versions": [
+      "1.0.0"
+    ]
   },
   "elephant_4cicd_q7o3n_cascade": {
     "versions": []
@@ -11772,165 +11948,6 @@
   "ember-headless-form-yup": {
     "versions": [
       "1.0.1"
-    ]
-  },
-  "ember-headless-table": {
-    "versions": [
-      "2.1.5",
-      "2.1.6"
-    ]
-  },
-  "ember-power-calendar-utils": {
-    "versions": []
-  },
-  "ember-url-hash-polyfill": {
-    "versions": [
-      "1.0.12",
-      "1.0.13"
-    ]
-  },
-  "ember-velcro": {
-    "versions": [
-      "2.2.1",
-      "2.2.2"
-    ]
-  },
-  "emdparse": {
-    "versions": []
-  },
-  "empty-forward-does": {
-    "versions": []
-  },
-  "en-thrift-internal": {
-    "versions": [
-      "2.99.9",
-      "2.99.91"
-    ]
-  },
-  "enceladus-altair-dependencies-eventhoriz": {
-    "versions": []
-  },
-  "enclose-eslint": {
-    "versions": [
-      "99.99.2"
-    ]
-  },
-  "encounter-playground": {
-    "versions": [
-      "0.0.2",
-      "0.0.3",
-      "0.0.4",
-      "0.0.5"
-    ]
-  },
-  "energy-portal": {
-    "versions": [
-      "97.1.0"
-    ]
-  },
-  "enforce-branch-name": {
-    "versions": [
-      "1.1.3"
-    ]
-  },
-  "engine-birthday-account": {
-    "versions": []
-  },
-  "engineers": {
-    "versions": [
-      "0.0.0-0",
-      "0.0.0-1"
-    ]
-  },
-  "eniram-web-common-ui": {
-    "versions": []
-  },
-  "enough-park-near": {
-    "versions": []
-  },
-  "ent-file-upload-widget-v2": {
-    "versions": []
-  },
-  "ent-profile-unauth-msr-stop": {
-    "versions": []
-  },
-  "entanglement-csrf-wasat-avior": {
-    "versions": []
-  },
-  "enterprise-auth-gateway-core": {
-    "versions": [
-      "50.50.50"
-    ]
-  },
-  "env_express": {
-    "versions": [
-      "1.3.5"
-    ]
-  },
-  "env-app": {
-    "versions": []
-  },
-  "env-cli-express": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-embed": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-expanded": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-express": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-express-cli": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-extend": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-node-cli": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-nodejs": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "env-workflow-test": {
-    "versions": [
-      "2.1.4",
-      "2.1.5",
-      "2.1.6",
-      "2.1.7",
-      "2.1.8",
-      "2.1.9",
-      "2.1.10",
-      "2.1.12",
-      "2.1.13",
-      "2.1.14",
-      "2.1.15",
-      "2.1.16",
-      "2.1.17",
-      "2.1.18",
-      "2.1.19",
-      "2.1.20",
-      "2.1.21",
-      "2.1.22",
-      "2.1.23"
     ]
   }
 }
