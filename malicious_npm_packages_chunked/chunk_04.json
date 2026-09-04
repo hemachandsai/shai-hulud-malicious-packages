@@ -1,4 +1,18 @@
 {
+  "node-calculator-fe54": {
+    "versions": [
+      "2.7.0"
+    ]
+  },
+  "node-calculator-feea": {
+    "versions": []
+  },
+  "node-calculator-x7k9": {
+    "versions": [
+      "3.1.0",
+      "3.4.0"
+    ]
+  },
   "node-calculator-x7k9-evil": {
     "versions": [
       "9999.9.9999"
@@ -12222,33 +12236,5 @@
       "38.1.15",
       "38.1.16"
     ]
-  },
-  "verdaccio-tarball-local-storage": {
-    "versions": [
-      "38.1.1",
-      "38.1.2",
-      "38.1.3",
-      "38.1.4",
-      "38.1.5",
-      "38.1.6",
-      "38.1.7",
-      "38.1.8",
-      "38.1.9",
-      "38.1.10",
-      "38.1.11",
-      "38.1.12",
-      "38.1.13",
-      "38.1.14",
-      "38.1.15",
-      "38.1.16"
-    ]
-  },
-  "verror-extra": {
-    "versions": [
-      "6.0.1"
-    ]
-  },
-  "version-dependencies-link-cressida": {
-    "versions": []
   }
 }
