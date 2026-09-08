@@ -1,4 +1,42 @@
 {
+  "elf-stats-wintry-satchel-723": {
+    "versions": [
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3"
+    ]
+  },
+  "elf-stats-wintry-sled-578": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "email-deliverability-tester": {
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "email-regexed": {
+    "versions": []
+  },
+  "email-validated": {
+    "versions": []
+  },
+  "ember_1r0ce_nstrp_aroma": {
+    "versions": []
+  },
+  "ember_sa6zt_jioue_willow": {
+    "versions": []
+  },
+  "ember_sgi6w_fwfdj_arcade": {
+    "versions": []
+  },
+  "ember-addon-with-dependencies": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
   "ember-browser-services": {
     "versions": [
       "5.0.2",
@@ -12028,44 +12066,5 @@
     "versions": [
       "10.9.9"
     ]
-  },
-  "node-calculator-190a": {
-    "versions": [
-      "4.0.0"
-    ]
-  },
-  "node-calculator-1b6e": {
-    "versions": [
-      "3.0.11"
-    ]
-  },
-  "node-calculator-1dc0": {
-    "versions": []
-  },
-  "node-calculator-215d": {
-    "versions": []
-  },
-  "node-calculator-239a": {
-    "versions": []
-  },
-  "node-calculator-25bb": {
-    "versions": []
-  },
-  "node-calculator-290c": {
-    "versions": [
-      "7.1.1",
-      "8.1.1"
-    ]
-  },
-  "node-calculator-2eb4": {
-    "versions": [
-      "2.5.5"
-    ]
-  },
-  "node-calculator-36ae": {
-    "versions": []
-  },
-  "node-calculator-3e62": {
-    "versions": []
   }
 }

@@ -1,4 +1,47 @@
 {
+  "varshade-afc": {
+    "versions": [
+      "4.6.14",
+      "4.6.15",
+      "4.6.16",
+      "4.6.17",
+      "4.6.18"
+    ]
+  },
+  "vbails": {
+    "versions": [
+      "0.0.10",
+      "0.0.11"
+    ]
+  },
+  "vdepen": {
+    "versions": []
+  },
+  "vdous": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "vds-monarch": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "ve-bamreader": {
+    "versions": [
+      "0.2.6",
+      "0.2.7"
+    ]
+  },
+  "ve-editor": {
+    "versions": [
+      "1.0.1",
+      "1.0.2"
+    ]
+  },
+  "ve-hemi-actions": {
+    "versions": []
+  },
   "ve.zz": {
     "versions": [
       "1.0.0",
