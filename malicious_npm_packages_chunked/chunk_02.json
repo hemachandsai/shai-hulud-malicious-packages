@@ -1,4 +1,13 @@
 {
+  "blossom_e82ak_p9uxt_wind": {
+    "versions": []
+  },
+  "blossom_svvqv_st5gi_fireworks": {
+    "versions": []
+  },
+  "blossom_vvkcd_wyskm_crystal": {
+    "versions": []
+  },
   "bluelite-bot-manager": {
     "versions": []
   },
@@ -11931,23 +11940,6 @@
   "ember-addon-with-dependencies": {
     "versions": [
       "2.0.0"
-    ]
-  },
-  "ember-browser-services": {
-    "versions": [
-      "5.0.2",
-      "5.0.3"
-    ]
-  },
-  "ember-headless-form": {
-    "versions": [
-      "1.1.2",
-      "1.1.3"
-    ]
-  },
-  "ember-headless-form-yup": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }
