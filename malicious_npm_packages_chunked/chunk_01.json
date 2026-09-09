@@ -3927,6 +3927,7 @@
   "@versacode/baileys": {
     "versions": [
       "1.4.5-beta.0",
+      "1.4.5-beta.1",
       "1.4.5-beta.2"
     ]
   },
@@ -8609,7 +8610,9 @@
   },
   "amprem-activator": {
     "versions": [
-      "1.0.0"
+      "1.0.0",
+      "1.0.1",
+      "1.0.2"
     ]
   },
   "ams-ssk": {
@@ -12140,8 +12143,5 @@
     "versions": [
       "1.0.41"
     ]
-  },
-  "blitz-passport-repository-venus": {
-    "versions": []
   }
 }
