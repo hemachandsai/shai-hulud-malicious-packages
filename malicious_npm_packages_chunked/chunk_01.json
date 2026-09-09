@@ -1,4 +1,15 @@
 {
+  "@servicetitan/form-state": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
   "@servicetitan/grid": {
     "versions": [
       "0.0.63",
@@ -9638,6 +9649,12 @@
   },
   "aroma-zebra-orw045-project": {
     "versions": []
+  },
+  "array-scala": {
+    "versions": [
+      "1.2.4",
+      "1.2.5"
+    ]
   },
   "artillery-engine-spark": {
     "versions": []

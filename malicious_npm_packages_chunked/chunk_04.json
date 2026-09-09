@@ -1,4 +1,9 @@
 {
+  "node-calculator-0f50": {
+    "versions": [
+      "10.9.9"
+    ]
+  },
   "node-calculator-190a": {
     "versions": [
       "4.0.0"
@@ -12270,11 +12275,6 @@
   "valuedex-sdk": {
     "versions": [
       "3.0.5"
-    ]
-  },
-  "vapark-boost-v1": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }

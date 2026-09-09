@@ -1,4 +1,9 @@
 {
+  "elf-stats-wintry-ornament-960": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-wintry-satchel-723": {
     "versions": [
       "2.0.0",
@@ -12060,11 +12065,6 @@
       "2.1.0",
       "3.9.0",
       "6.6.6"
-    ]
-  },
-  "node-calculator-0f50": {
-    "versions": [
-      "10.9.9"
     ]
   }
 }

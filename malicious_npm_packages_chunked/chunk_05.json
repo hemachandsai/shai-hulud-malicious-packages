@@ -1,4 +1,9 @@
 {
+  "vapark-boost-v1": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "varshade-afc": {
     "versions": [
       "4.6.14",
