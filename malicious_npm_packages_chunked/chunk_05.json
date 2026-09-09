@@ -1,4 +1,78 @@
 {
+  "uuu8lgd": {
+    "versions": [
+      "1.0.1",
+      "1.0.2",
+      "1.0.7",
+      "1.0.10",
+      "1.0.11",
+      "1.0.14",
+      "1.0.17",
+      "1.0.19",
+      "1.0.22",
+      "1.0.24"
+    ]
+  },
+  "ux_websitereads": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "uxproject11": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "v-bucks-generator-2023-dkzldzd": {
+    "versions": []
+  },
+  "v-plausible": {
+    "versions": [
+      "1.2.1"
+    ]
+  },
+  "vaildator": {
+    "versions": [
+      "13.15.15",
+      "13.15.16",
+      "13.15.17",
+      "13.15.18"
+    ]
+  },
+  "valid-ip-check": {
+    "versions": [
+      "1.7.8"
+    ]
+  },
+  "valid-sha256": {
+    "versions": []
+  },
+  "valid-south-african-id": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "validate-api-key": {
+    "versions": []
+  },
+  "validator-lut-sdk": {
+    "versions": []
+  },
+  "validator-node": {
+    "versions": [
+      "3.3.4"
+    ]
+  },
+  "value-slider": {
+    "versions": [
+      "99.99.99-security-research.1"
+    ]
+  },
+  "valuedex-sdk": {
+    "versions": [
+      "3.0.5"
+    ]
+  },
   "vapark-boost-v1": {
     "versions": [
       "1.0.1"

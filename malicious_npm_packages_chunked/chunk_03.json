@@ -4565,6 +4565,11 @@
       "99.9.14"
     ]
   },
+  "google-img-scrap": {
+    "versions": [
+      "1.2.0"
+    ]
+  },
   "google-jsdocless": {
     "versions": [
       "1.0.0"
@@ -5737,6 +5742,11 @@
       "999.0.101"
     ]
   },
+  "i18nexus-tools": {
+    "versions": [
+      "3.2.0"
+    ]
+  },
   "iamhungryrn": {
     "versions": [
       "1.0.0"
@@ -6804,6 +6814,11 @@
   "jigsaw_bvwl7_mar8m_zenith": {
     "versions": []
   },
+  "jimg": {
+    "versions": [
+      "1.0.2"
+    ]
+  },
   "jingdian-taluo-rumen": {
     "versions": []
   },
@@ -7620,6 +7635,14 @@
   "kid-api": {
     "versions": [
       "99.0.0"
+    ]
+  },
+  "kiki-baileys": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3"
     ]
   },
   "kiki-brengkes54-breki": {
@@ -12042,29 +12065,6 @@
   "node-base58": {
     "versions": [
       "1.0.1"
-    ]
-  },
-  "node-business": {
-    "versions": [
-      "5.3.18",
-      "5.5.20",
-      "5.5.21",
-      "5.5.22",
-      "5.5.23"
-    ]
-  },
-  "node-calculator-043e": {
-    "versions": []
-  },
-  "node-calculator-0c8f": {
-    "versions": []
-  },
-  "node-calculator-0d96": {
-    "versions": [
-      "1.0.0",
-      "2.1.0",
-      "3.9.0",
-      "6.6.6"
     ]
   }
 }
