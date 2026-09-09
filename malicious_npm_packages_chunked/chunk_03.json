@@ -1,4 +1,30 @@
 {
+  "elf-stats-wintry-fir-892": {
+    "versions": [
+      "999.0.0"
+    ]
+  },
+  "elf-stats-wintry-hammer-196": {
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "elf-stats-wintry-hollyberry-832": {
+    "versions": [
+      "1.0.0",
+      "1.0.1"
+    ]
+  },
+  "elf-stats-wintry-icicle-283": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "elf-stats-wintry-northstar-674": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "elf-stats-wintry-ornament-960": {
     "versions": [
       "1.0.0"
@@ -12034,37 +12060,6 @@
     "versions": [
       "9.9.1",
       "9.9.2"
-    ]
-  },
-  "no-use-extend-native": {
-    "versions": [
-      "6.9.0",
-      "6.9.1"
-    ]
-  },
-  "no6gg": {
-    "versions": [
-      "1.0.0",
-      "1.0.1",
-      "1.0.2",
-      "1.0.3",
-      "1.0.4",
-      "1.0.5",
-      "1.0.6",
-      "1.0.7",
-      "1.0.8",
-      "1.0.9",
-      "1.0.10"
-    ]
-  },
-  "node-argon": {
-    "versions": [
-      "2.4.5"
-    ]
-  },
-  "node-base58": {
-    "versions": [
-      "1.0.1"
     ]
   }
 }

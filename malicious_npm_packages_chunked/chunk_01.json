@@ -1,4 +1,15 @@
 {
+  "@servicetitan/form": {
+    "versions": [
+      "41.3.1",
+      "41.3.2",
+      "41.3.3",
+      "41.3.4",
+      "41.3.5",
+      "41.3.6",
+      "41.3.7"
+    ]
+  },
   "@servicetitan/form-state": {
     "versions": [
       "41.3.1",
@@ -3871,6 +3882,13 @@
   "@validator-lut-sdk/v3": {
     "versions": []
   },
+  "@vallensofficial/baileys": {
+    "versions": [
+      "9.4.6",
+      "9.4.7",
+      "10.0.0-beta.1"
+    ]
+  },
   "@vampirchik147/libxmljs2": {
     "versions": [
       "0.19.7"
@@ -3904,6 +3922,12 @@
   "@velora-dex/sdk": {
     "versions": [
       "9.4.1"
+    ]
+  },
+  "@versacode/baileys": {
+    "versions": [
+      "1.4.5-beta.0",
+      "1.4.5-beta.2"
     ]
   },
   "@veygo/component-library": {
@@ -8583,6 +8607,11 @@
       "1.0.24"
     ]
   },
+  "amprem-activator": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "ams-ssk": {
     "versions": []
   },
@@ -12114,28 +12143,5 @@
   },
   "blitz-passport-repository-venus": {
     "versions": []
-  },
-  "blitz-rollup-scripts-cli": {
-    "versions": []
-  },
-  "blob-internal-security-test-f63eabf7": {
-    "versions": [
-      "99.99.99"
-    ]
-  },
-  "blob-to-base64": {
-    "versions": [
-      "1.0.3"
-    ]
-  },
-  "blobhunter-depconf-poc": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "blockchain-helper-0": {
-    "versions": [
-      "1.0.0"
-    ]
   }
 }

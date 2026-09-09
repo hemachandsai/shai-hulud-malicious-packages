@@ -1,4 +1,27 @@
 {
+  "blitz-rollup-scripts-cli": {
+    "versions": []
+  },
+  "blob-internal-security-test-f63eabf7": {
+    "versions": [
+      "99.99.99"
+    ]
+  },
+  "blob-to-base64": {
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "blobhunter-depconf-poc": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "blockchain-helper-0": {
+    "versions": [
+      "1.0.0"
+    ]
+  },
   "blockchain-helper-lib": {
     "versions": [
       "0.0.1",
@@ -11920,32 +11943,6 @@
     "versions": [
       "1.0.1",
       "1.0.2"
-    ]
-  },
-  "elf-stats-wintry-fir-892": {
-    "versions": [
-      "999.0.0"
-    ]
-  },
-  "elf-stats-wintry-hammer-196": {
-    "versions": [
-      "2.0.0"
-    ]
-  },
-  "elf-stats-wintry-hollyberry-832": {
-    "versions": [
-      "1.0.0",
-      "1.0.1"
-    ]
-  },
-  "elf-stats-wintry-icicle-283": {
-    "versions": [
-      "1.0.0"
-    ]
-  },
-  "elf-stats-wintry-northstar-674": {
-    "versions": [
-      "1.0.0"
     ]
   }
 }

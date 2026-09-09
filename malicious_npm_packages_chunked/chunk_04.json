@@ -1,4 +1,35 @@
 {
+  "no-use-extend-native": {
+    "versions": [
+      "6.9.0",
+      "6.9.1"
+    ]
+  },
+  "no6gg": {
+    "versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.0.10"
+    ]
+  },
+  "node-argon": {
+    "versions": [
+      "2.4.5"
+    ]
+  },
+  "node-base58": {
+    "versions": [
+      "1.0.1"
+    ]
+  },
   "node-business": {
     "versions": [
       "5.3.18",
@@ -12248,24 +12279,5 @@
   },
   "utomo-telurtahu98-kyuki": {
     "versions": []
-  },
-  "utomo-tumis36-miaww": {
-    "versions": []
-  },
-  "utomo-tumis82-sukiwir": {
-    "versions": []
-  },
-  "uudi": {
-    "versions": []
-  },
-  "uuidvalidatorarabis": {
-    "versions": [
-      "4.99.99"
-    ]
-  },
-  "uuindex": {
-    "versions": [
-      "13.1.0"
-    ]
   }
 }
